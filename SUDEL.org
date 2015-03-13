@@ -15,7 +15,15 @@ git checkout master
 #+END_SRC
 
 #+RESULTS:
-| Using /Applications/Emacs.app/Contents/MacOS/Emacs | GNU Emacs 24.4.1 |
+| Using   | /Applications/Emacs.app/Contents/MacOS/Emacs, |      GNU | Emacs      | 24.4.1        |                  |     |    |          |     |      |
+| [master | (root-commit)                                 | 458af96] | Updated    | on:           | Sat              | Mar | 14 | 00:11:35 | EET | 2015 |
+| 4       | files                                         | changed, | 852        | insertions(+) |                  |     |    |          |     |      |
+| create  | mode                                          |   100644 | SUDEL.html |               |                  |     |    |          |     |      |
+| create  | mode                                          |   100644 | SUDEL.org  |               |                  |     |    |          |     |      |
+| create  | mode                                          |   100644 | index.html |               |                  |     |    |          |     |      |
+| create  | mode                                          |   100644 | index.org  |               |                  |     |    |          |     |      |
+| Already | up-to-date.                                   |          |            |               |                  |     |    |          |     |      |
+| Your    | branch                                        |       is | up-to-date | with          | 'origin/master'. |     |    |          |     |      |
 
 * About
 
