@@ -8,17 +8,14 @@ git checkout master
 git add --all .
 git commit -am "Updated on: `date`"
 git push origin master
-git checkout gh-pages
+git checkout gh_pages
 git merge master
-git push origin gh-pages
+git push origin gh_pages
 git checkout master
 #+END_SRC
 
 #+RESULTS:
-| Using   | /Applications/Emacs.app/Contents/MacOS/Emacs, | GNU      | Emacs      | 24.4.1         |                  |              |          |     |      |
-| D       | SUDEL.html                                    |          |            |                |                  |              |          |     |      |
-| M       | SUDEL.org                                     |          |            |                |                  |              |          |     |      |
-| M       | index.html                                    |          |            |                |                  |              |          |     |      |
+             |          |            |                |                  |              |          |     |      |
 | D       | index.org                                     |          |            |                |                  |              |          |     |      |
 | Your    | branch                                        | is       | up-to-date | with           | 'origin/master'. |              |          |     |      |
 | [master | 8bec1cf]                                      | Updated  | on:        | Sat            | Mar              |           14 | 00:13:43 | EET | 2015 |
