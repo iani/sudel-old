@@ -38,3 +38,4 @@ Sudelbuch
  :PROPERTIES:
  :DATE: <2015-03-13 Fri 23:57>
  :END:
+: git push -u origin gh_pages
