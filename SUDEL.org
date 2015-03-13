@@ -1,0 +1,32 @@
+#+INFOJS_OPT: view:info toc:4 sdepth:4
+#+OPTIONS: H:6 toc:4
+
+* COMMENT Export script
+#+BEGIN_SRC sh
+org-export html --infile sudel.org --outfile index.html
+git checkout master
+git add --all .
+git commit -am "Updated on: `date`"
+git push origin master
+git checkout gh-pages
+git merge master
+git push origin gh-pages
+git checkout master
+#+END_SRC
+
+#+RESULTS:
+| Using /Applications/Emacs.app/Contents/MacOS/Emacs | GNU Emacs 24.4.1 |
+
+* About
+
+Very short notes
+
+Sudelbuch
+
+* 2015
+** 2015-03 March
+*** 2015-03-13 Friday
+**** start
+ :PROPERTIES:
+ :DATE: <2015-03-13 Fri 23:57>
+ :END:
