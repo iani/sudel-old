@@ -15,3 +15,8 @@ Sudelbuch
  :DATE: <2015-03-13 Fri 23:57>
  :END:
 : git push -u origin gh-pages
+*** 2015-03-14 Saturday
+**** Fauré Quintet Nr 1: d
+ :PROPERTIES:
+ :DATE: <2015-03-14 Sat 08:56>
+ :END:
