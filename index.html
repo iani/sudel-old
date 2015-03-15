@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>sudel.org.temp</title>
-<!-- 2015-03-15 Sun 11:34 -->
+<!-- 2015-03-15 Sun 11:37 -->
 <meta  charset="utf-8">
 <meta  name="generator" content="Org-mode">
 <meta  name="author" content="IOANNIS ZANNOS">
@@ -231,6 +231,7 @@ for the JavaScript code in this tag.
 <ul>
 <li><a href="#sec-2-1-3-1">2.1.3.1. Animal Refrains / Silence and Repetition</a></li>
 <li><a href="#sec-2-1-3-2">2.1.3.2. The virtue of pausing</a></li>
+<li><a href="#sec-2-1-3-3">2.1.3.3. ah hard links are treacherous - must copy per script.</a></li>
 </ul>
 </li>
 </ul>
@@ -370,13 +371,33 @@ Weitere Artikel zum Thema: Nicht alle Gehirnzellen sind ständig online | Das Ge
 </p>
 </div>
 </div>
+<div id="outline-container-sec-2-1-3-3" class="outline-5">
+<h5 id="sec-2-1-3-3"><span class="section-number-5">2.1.3.3</span> ah hard links are treacherous - must copy per script.</h5>
+<div class="outline-text-5" id="text-2-1-3-3">
+
+<div class="org-src-container">
+
+<pre class="src src-sh">org-export html --infile sudel.org --outfile index.html
+git checkout master
+cp ~/Dropbox/000WORKFILES/0_PRIVATE/SUDEL.org ./
+git add --all .
+git commit -am <span style="color: #dd1144;">"Updated on: `date`"</span>
+git push origin master
+git checkout gh-pages
+git merge master
+git push origin gh-pages
+git checkout master
+</pre>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: IOANNIS ZANNOS</p>
-<p class="date">Created: 2015-03-15 Sun 11:34</p>
+<p class="date">Created: 2015-03-15 Sun 11:37</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.4.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>

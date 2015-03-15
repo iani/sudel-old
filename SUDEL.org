@@ -31,7 +31,7 @@ Sudelbuch
  :END:
 
 http://vitagate.ch/de/gesund_leben/konzentration/pausen
-
+#+BEGIN_QUOTE
 Konzentration
 
 Gönnen Sie Ihrem Gehirn eine Pause
@@ -75,6 +75,8 @@ Vitamine: Vitamin C kann stimulieren. Die B-Vitamine unterstützen die Funktion 
 Pflanzliche Stoffe: Ginseng oder Ginkgo biloba können die Konzentration verbessern, indem sie die Durchblutung der Hirnzellen fördern. Bestimmte Lebensmittel respektive Gewürze wie Knoblauch, Zwiebeln, Kohl oder Cayennepfeffer fördern ebenfalls die Durchblutung.
 Kaffee, Guarana und Cola wirken wegen ihres Koffeingehaltes stimulierend.
 Weitere Artikel zum Thema: Nicht alle Gehirnzellen sind ständig online | Das Geheimnis der grauen Zellen
+#+END_QUOTE
+
 **** ah hard links are treacherous - must copy per script.
  :PROPERTIES:
  :DATE: <2015-03-15 Sun 11:33>
