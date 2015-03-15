@@ -301,3 +301,13 @@ Alternatively, Sakurai san may like to create an official cfw:export-view-to-org
  :END:
 
 http://srandby.org/
+**** syntactic science / syntactician
+ :PROPERTIES:
+ :DATE: <2015-03-15 Sun 22:01>
+ :END:
+
+http://www.ucs.mun.ca/~branigan/
+
+Much of my pure syntactic research over the past few years is consolidated in Provocative Syntax. I'm continuing on with my investigations in this model of morphosyntax. Doug Wharram and I have begun to study how syntactic "provocation" and semantics interact in the interpretation of Inuktitut indefinites.
+
+I've also published work on the nature of ergativity (with Jonathan Bobaljik) and on quotative inversion (with Chris Collins).
