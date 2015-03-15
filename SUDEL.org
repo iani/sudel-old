@@ -277,3 +277,15 @@ From: http://en.wikipedia.org/wiki/Joseph_Nechvatal
 - Robert C. Morgan, Nechvatal’s Visionary Computer Virus, in Gruson, L. ed. 1993. Joseph Nechvatal: Computer Virus Project, Royal Saltworks at Arc-et-Senans: Fondation Claude-Nicolas Ledoux, pp. 8–15
 - Sarah J. Rogers (ed), Body Mécanique: Artistic Explorations of Digital Realms, Columbus, Ohio, Wexner Center for the Arts, The Ohio State University
 - Edward A. Shanken, Art and Electronic Media. London: Phaidon, 2009. ISBN 978-0-7148-4782-5, pp. 42, 285, 160
+**** printing calendar from agenda/calfw
+ :PROPERTIES:
+ :DATE: <2015-03-15 Sun 20:36>
+ :END:
+
+http://lists.gnu.org/archive/html/emacs-orgmode/2013-02/msg01773.html
+
+Hi Eric,
+thanks for the tip. I tried this already. Its printing but has some drawbacks. E.g. I use high resolution monitors in vertical (pivot) mode and a tiling window manager. calfw scales to the current buffer size and this is unfortunately not really compatible with printing. In summary this solution might have to many ways to go wrong.
+
+However, I noticed a much more interesting way. calfw buffer look almost like org-tables. And voila saving the buffer as org-file and a minimum of modifications allows me to export the calendar with both the html and pdf exporter. I just try to tell org-mode/latex/html to keep the height of the rows constant and independent of the content of the cell. Guess if I get this right, everything could be done in a little piece of elisp.
+Alternatively, Sakurai san may like to create an official cfw:export-view-to-org could be part of calfw-org. This would also allow people to archive calendar views in org-mode files.
