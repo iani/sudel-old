@@ -243,3 +243,37 @@ Whitehot Magazine
 TAGS
 +aRt 1970's Abstract Expressionism abstraction AICA Armory Show Arthur Danto CATM Clement Greenberg con artist nyc CUE Art Foundation curator curatorial excellence Deconstructivism Edo period feminism film floating world free arts nyc graffiti installation Irving Sandler Japanese art Minimalism mint and serf Otaku painting Painting and Decoration Pattern and Decoration performance art photography place post-war Postmodern RackGaki Robert Storr sculpture Shane McAdams street art superflat That Is Then. This Is Now The Chelsea Chapter ukiyo well hung Yoshiwara
 ON-VERGE is a CUE project in collaboration with AICA
+**** Joseph Necvatal / Virus for Compute Art / further reading
+ :PROPERTIES:
+ :DATE: <2015-03-15 Sun 17:43>
+ :END:
+
+From: http://en.wikipedia.org/wiki/Joseph_Nechvatal
+
+- John Johnston, The Allure of Machinic Life: Cybernetics, Artificial Life, and the New AI, MIT Press, 2008, cover
+- Donald Kuspit, The Matrix of Sensations VI: Digital Artists and the New Creative Renaissance
+- Joline Blais and Jon Ippolito, The Edge of Art, Thames & Hudson Ltd, p. 213
+- Frank Popper, From Technological to Virtual Art, MIT Press, pp. 120–123
+- Johanna Drucker, [14] Joseph Nechvatal : Critical Pleasure
+- Robert C. Morgan, Voluptuary: An algorithic hermaphornology, Tema Celeste Magazine, volume #93, p. 94
+- Bruce Wands, Art of the Digital Age, London: Thames & Hudson, p. 65
+- Robert C. Morgan, Laminations of the Soul, Editions Antoine Candau, 1990, pp. 23–30
+- Margot Lovejoy, Digital Currents: Art in the Electronic Age Routledge 2004
+- Joseph Nechvatal, Immersive Excess in the Apse of Lascaux, Technonoetic Arts 3, no3. 2005
+- Joseph Nechvatal. Immersion Into Noise. Open Humanities Press in conjunction with the University of Michigan Library's Scholarly Publishing Office. Ann Arbor. 2011
+- Johanna Drucker, Joseph Nechvatal : Critical Pleasure, Redaktion Frank Berndt, 1996, pp. 10–13
+- Mario Costa, Phenomenology of New Tech Arts, Artmedia, Salerno, 2005, p. 6 & pp. 36 – 38
+- Dominique Moulon, L'art numerique: spectateur-acteuret vie artificielle, Les images numeriques #47-48, 2004, pp. 124–125
+- Christine Buci-Glucksmann, L’art à l’époque virtuel, in Frontières esthétiques de l’art, Arts 8, Paris: - L’Harmattan, 2004
+- Brandon Taylor, Collage, Thames & Hudson Ltd, 2006, p. 221
+- Dominique Moulon, [15] Conférence Report : Media Art in France, Un Point d'Actu, L'Art Numerique, pp. 124–125
+- Edmond Couchot, Des Images, du temps et des machines, édité Actes Sud, 2007, pp. 263–264
+- Fred Forest, Art et Internet, Editions Cercle D'Art / Imaginaire Mode d'Emploi, pp. 48 –51
+- Wayne Enstice & Melody Peters, Drawing: Space, Form, & Expression, New Jersey: Prentice Hall, pp. 312–313
+- Ellen K. Levy, Synthetic Lighting: Complex Simulations of Nature, Photography Quarterly (#88) 2004, pp. 7–9
+- Marie-Paule Nègre, Des artistes en leur monde, volume 2, la Gazette de l'Hotel Drout, 2008, pp. 82–83
+- Corrado Levi, È andata così: Cronaca e critica dell'arte 1970-2008, Joseph Nechvatal intervistato nel suo - studio a New York (1985–86), pp. 130–135
+- Donald Kuspit, Del Atre Analogico al Arte Digital in Arte Digital Y Videoarte, Kuspit, D. ed., Consorcio del Circulo de Bellas Artes, Madrid, pp. 33–34 & pp. 210 – 212
+- Robert C. Morgan, Nechvatal’s Visionary Computer Virus, in Gruson, L. ed. 1993. Joseph Nechvatal: Computer Virus Project, Royal Saltworks at Arc-et-Senans: Fondation Claude-Nicolas Ledoux, pp. 8–15
+- Sarah J. Rogers (ed), Body Mécanique: Artistic Explorations of Digital Realms, Columbus, Ohio, Wexner Center for the Arts, The Ohio State University
+- Edward A. Shanken, Art and Electronic Media. London: Phaidon, 2009. ISBN 978-0-7148-4782-5, pp. 42, 285, 160
