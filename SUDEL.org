@@ -349,3 +349,9 @@ http://xahlee.info/comp/idiocy_of_comp_lang.html
 #+BEGIN_QUOTE
 Worse of all, the semantic of unix software's options are the worst rape to any possible science in computer science.
 #+END_QUOTE
+**** wireless key sniffer device (for use in projects?)
+ :PROPERTIES:
+ :DATE: <2015-03-16 Mon 11:26>
+ :END:
+
+http://xahlee.info/kbd/Microsoft_wireless_keyboard_key_sniffer.html
