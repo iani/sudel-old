@@ -328,6 +328,5 @@ http://amber-lang.net/
  :DATE: <2015-03-16 Mon 06:57>
  :END:
 
-http://xahlee.info/math/Alexander_Grothendieck.html
-
-http://www.heidelberg-laureate-forum.org/wp-content/uploads/2013/11/Grothendieck-460x305.jpg
+- http://xahlee.info/math/Alexander_Grothendieck.html
+- http://www.heidelberg-laureate-forum.org/wp-content/uploads/2013/11/Grothendieck-460x305.jpg
