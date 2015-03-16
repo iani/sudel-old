@@ -339,3 +339,13 @@ http://amber-lang.net/
 https://www.youtube.com/watch?v=SnliuBIB2V0
 
 http://xahlee.info/math/Grigori_Perelman.html
+**** rant on unix and other language documentation
+ :PROPERTIES:
+ :DATE: <2015-03-16 Mon 11:21>
+ :END:
+
+http://xahlee.info/comp/idiocy_of_comp_lang.html
+
+#+BEGIN_QUOTE
+Worse of all, the semantic of unix software's options are the worst rape to any possible science in computer science.
+#+END_QUOTE
