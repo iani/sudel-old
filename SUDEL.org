@@ -330,7 +330,7 @@ http://amber-lang.net/
 
 - http://xahlee.info/math/Alexander_Grothendieck.html
 - http://www.heidelberg-laureate-forum.org/wp-content/uploads/2013/11/Grothendieck-460x305.jpg
-**** grigori pererlman shopping market
+**** grigori perelman shopping market
  :PROPERTIES:
  :DATE: <2015-03-16 Mon 07:05>
  :END:
@@ -355,3 +355,50 @@ Worse of all, the semantic of unix software's options are the worst rape to any 
  :END:
 
 http://xahlee.info/kbd/Microsoft_wireless_keyboard_key_sniffer.html
+**** abbrev mode change cursor color trick sacha chua emacs
+ :PROPERTIES:
+ :DATE: <2015-03-16 Mon 12:42>
+ :END:
+
+
+http://youtu.be/c6abq9Wv9Wk
+
+see pcmantz emacs lib config on github.
+Works with yasnippet
+**** windmove-left
+ :PROPERTIES:
+ :DATE: <2015-03-16 Mon 19:48>
+ :END:
+*** 2015-03-17 Tuesday
+**** 5 rules of business from medium.com
+ :PROPERTIES:
+ :DATE: <2015-03-17 Tue 09:39>
+ :END:
+***** Pretend like you’re a human being
+With the possible exception of artists and architects, no one is more full of shit than designers. We can find a way to justify anything. Blah blah blah. That means no matter what you end up with, you can come up with some reason why it’s a good design. The best advice I have for designers is to practice being not-designers: stop what you’re doing, close your eyes, take a few deep breaths and then look again like you’re just a regular person encountering this product/service/user interface/object/page/poster for the first time. Where do your eyes go? What do you think it is at first? How do you figure out what you are supposed to do?
+***** Make it inevitable
+There is some truth to that old Henry Ford aphorism “Whether you think you can, or you think you can’t — you’re right.”. If you can’t believe it, it’s probably not going to happen. However, I like to take that one step further and ensure that every action we take is one that assumes the desired outcome is inevitable. Do not make actions that are out of alignment with that inevitability. Do not allow judgements which contradict it. The more evidence you have — and everyone else has — that things will come out as planned, the more likely it will be so.
+***** Every job you do has your signature on it
+When I was around 10 or 11 years old, my father offered me $10 to move a cord of recently-delivered firewood from the driveway into the garage and stack it up inside (I am old; $10 was a great deal of money back then). I managed to get all the firewood inside but rather than it being stacked against the wall, it was more or less evenly distributed across the floor of the garage. I expected my payment, but instead got some advice: “Every job you do has your signature on it — do you really want to sign that?” I always remembered that and if I am going to do something, I make every effort to do it right. (I also properly stacked the wood afterwards, even though it took forever, and I got paid in the end.)
+***** Everyone should always be trying to make it easier for everyone
+I used to play in a band. Other people might have played team sports, or worked in a well-functioning restaurant. There’s something about working deeply, in real-time, with other people that’s both incredibly satisfying and enormously more effective than working alone. You need to be open for the pass, you need to hear the subtle rhythm shifts, you need to spot when someone else’s table needs the check … everyone should be taking account of what everyone else is doing and constantly modifying their own behaviour to better serve the team.
+***** Know why you’re doing it
+If you are just out to make money, god bless: I hope you make some money. If you just want awards or recognition or for others to think highly of you, I hope you get that too. But I don’t think anyone is really satisfied by fame or fortune. I find it incredibly satisfying (and gratifying, rewarding and pleasant) to honestly have done the best job I could have done on something and I believe that works for everyone else too. Being skillful and exercising your mastery is what you’re here to do. Doing anything less undermines the whole point of being alive.
+**** relevant coursera courses
+ :PROPERTIES:
+ :DATE: <2015-03-17 Tue 09:40>
+ :END:
+
+- leading musical ensembles https://www.coursera.org/course/music-ensembles
+
+- Creative Programming for Digital Media & Mobile Apps https://www.coursera.org/course/digitalmedia
+
+- Introduction to Acoustics (Part 1) https://www.coursera.org/course/acoustics1
+
+- Human-Computer Interaction https://www.coursera.org/course/hciucsd
+
+- Networks Illustrated: Principles without Calculus https://www.coursera.org/course/ni
+
+- Understanding Media by Understanding Google https://www.coursera.org/course/googlemedia
+
+- The Bible's Prehistory, Purpose, and Political Future https://www.coursera.org/course/biblefuture
