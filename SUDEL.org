@@ -407,3 +407,25 @@ If you are just out to make money, god bless: I hope you make some money. If you
  :PROPERTIES:
  :DATE: <2015-03-19 Thu 14:45>
  :END:
+*** 2015-03-20 Friday
+**** live code data exploration and other extensions
+ :PROPERTIES:
+ :DATE: <2015-03-20 Fri 09:14>
+ :END:
+***** At Empac: https://vimeo.com/79674603
+EMPAC Research: A New Paradigm for Interactive Exploration of Data with Live Coding
+from EMPAC @ Rensselaer PLUS  1 year ago / Creative Commons License: by sa  ALL AUDIENCES
+Part 1: Exploring a Dark Data Set ( 13 min. )
+
+Part 2: The Field Environment ( 10 min. )
+Interactive data exploration - as opposed to documentation of research outcomes - requires a hard- and software environment that allows quick turn-around (as in live coding), accelerated graphics processing and projection (utilizing GPUs for data processing), an “agnostic” parsing of data, and the ability to tap into the endless existing libraries available on-line. This approach allows quick access to and navigation of “big data”.
+The open-source software Field programming environment provides all of the above. It allows to quickly manipulate different representations of a given data set, to navigate representation interactively, to create animations and to discover new perspectives.
+Mathematical processes applied to the data can be changed as quickly as the mapping in the visual domain. Other modalities of representation, like stereoscopic visual representation, immersive projections or auditory mapping can easily be accessed.
+This video shows in its first part the exploration of a “dark data set”, where the source and desired evaluation of the data was not known to the researcher visualizing the data. It turned out to be the simulation output of a high-performance computing network topology (“Dragon Fly Network”). Immediately insights into the data were unfolding and allowed to discover properties in the simulation, which had gone unnoticed before.
+The second part presents an overview over the Field environment.
+Marc Downie
+Chris Carothers
+Johannes Goebel
+
+
+****
