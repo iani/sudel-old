@@ -452,3 +452,10 @@ The second part presents an overview over the Field environment.
 Comparing to the speed of a single core and a 16-threaded 8-core cpu:
 
 https://www.youtube.com/watch?v=IEWGTpsFtt8
+*** 2015-03-22 Sunday
+**** Sonify Magnetic Storms, but also the Anticythera Mechanism
+ :PROPERTIES:
+ :DATE: <2015-03-22 Sun 01:15>
+ :END:
+
+Accompany by polar light simulations
