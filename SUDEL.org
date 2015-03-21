@@ -439,3 +439,7 @@ The second part presents an overview over the Field environment.
  :PROPERTIES:
  :DATE: <2015-03-21 Sat 08:11>
  :END:
+**** Rob Kitchin: The Data Revolution Big Data, Open Data, Data Infrastructures and Their Consequences
+ :PROPERTIES:
+ :DATE: <2015-03-21 Sat 08:26>
+ :END:
