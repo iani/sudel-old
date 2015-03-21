@@ -443,3 +443,12 @@ The second part presents an overview over the Field environment.
  :PROPERTIES:
  :DATE: <2015-03-21 Sat 08:26>
  :END:
+**** opencl demo molecule model calculation
+ :PROPERTIES:
+ :DATE: <2015-03-21 Sat 17:38>
+ :END:
+
+
+Comparing to the speed of a single core and a 16-threaded 8-core cpu:
+
+https://www.youtube.com/watch?v=IEWGTpsFtt8
