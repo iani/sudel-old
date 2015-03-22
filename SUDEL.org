@@ -1,4 +1,4 @@
-#+INFOJS_OPT: view:info toc:4 sdepth:4
+  #+INFOJS_OPT: view:info toc:4 sdepth:4
 #+OPTIONS: H:6 toc:4
 
 * About
@@ -459,3 +459,11 @@ https://www.youtube.com/watch?v=IEWGTpsFtt8
  :END:
 
 Accompany by polar light simulations
+**** installing mu4e - some links
+ :PROPERTIES:
+ :DATE: <2015-03-22 Sun 01:16>
+ :END:
+
+http://blog.danielgempesaw.com/post/43467552978/installing-mu-and-mu4e-with-homebrew-with-emacs
+
+http://www.djcbsoftware.nl/code/mu/
