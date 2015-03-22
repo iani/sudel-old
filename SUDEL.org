@@ -407,6 +407,23 @@ If you are just out to make money, god bless: I hope you make some money. If you
  :PROPERTIES:
  :DATE: <2015-03-19 Thu 14:45>
  :END:
+
+(Some additional notes on Orgelbüchlein (Sun, Mar 22 2015, 10:28 EET)):
+
+- BWV 599-644
+- 46 Chorale Preludes
+- Originally planned as set of 164 preludes spanning the whole liturgical year
+- 43 were composed 1708-1717 and 3 (or just 1? - see german wikipedia) + a two bar fragment were added in 1726.
+
+Question: http://en.wikipedia.org/wiki/Orgelb%C3%BCchlein writes:
+
+#+BEGIN_QUOTE
+and a single chorale prelude in trio sonata form.
+#+END_QUOTE
+
+Which one is meant? I think it must be BWV639, "Ich ruf' zu Dir, Herr Jesu Christ".  An Adagio.
+
+
 *** 2015-03-20 Friday
 **** live code data exploration and other extensions
  :PROPERTIES:
