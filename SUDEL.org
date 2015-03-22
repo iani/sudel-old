@@ -484,3 +484,12 @@ Accompany by polar light simulations
 http://blog.danielgempesaw.com/post/43467552978/installing-mu-and-mu4e-with-homebrew-with-emacs
 
 http://www.djcbsoftware.nl/code/mu/
+**** bernhard of clairvaux and hildegard of bingen (apropos AB attending St John Passion in Cardiff)
+ :PROPERTIES:
+ :DATE: <2015-03-22 Sun 12:43>
+ :END:
+
+
+http://en.wikipedia.org/wiki/Bernard_of_Clairvaux
+
+http://en.wikipedia.org/wiki/Hildegard_of_Bingen
