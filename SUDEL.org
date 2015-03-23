@@ -549,3 +549,7 @@ Summer Student at CERN
 
 Dimitrios-Marios Kolotouros
 Doctoral Student (Electronic engineer) at CERN
+**** the algorithm auction
+ :PROPERTIES:
+ :DATE: <2015-03-23 Mon 08:09>
+ :END:
