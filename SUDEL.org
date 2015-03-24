@@ -243,7 +243,7 @@ Whitehot Magazine
 TAGS
 +aRt 1970's Abstract Expressionism abstraction AICA Armory Show Arthur Danto CATM Clement Greenberg con artist nyc CUE Art Foundation curator curatorial excellence Deconstructivism Edo period feminism film floating world free arts nyc graffiti installation Irving Sandler Japanese art Minimalism mint and serf Otaku painting Painting and Decoration Pattern and Decoration performance art photography place post-war Postmodern RackGaki Robert Storr sculpture Shane McAdams street art superflat That Is Then. This Is Now The Chelsea Chapter ukiyo well hung Yoshiwara
 ON-VERGE is a CUE project in collaboration with AICA
-**** Joseph Nechvatal / Virus for Compute Art / further reading
+**** Joseph Nechvatal / Virus for Computer Art / further reading
  :PROPERTIES:
  :DATE: <2015-03-15 Sun 17:43>
  :END:
@@ -408,6 +408,8 @@ If you are just out to make money, god bless: I hope you make some money. If you
  :DATE: <2015-03-19 Thu 14:45>
  :END:
 
+[[file:~/Documents/publications_others/scores/bach/keyboard/organ/599-644 Orgelbüchlein/]]
+
 (Some additional notes on Orgelbüchlein (Sun, Mar 22 2015, 10:28 EET)):
 
 - BWV 599-644
@@ -423,6 +425,10 @@ and a single chorale prelude in trio sonata form.
 
 Which one is meant? I think it must be BWV639, "Ich ruf' zu Dir, Herr Jesu Christ".  An Adagio.
 
+***** BWV627 3 verses - Modal character of Orgelbüchlein
+See 3 variations - plagal cadences, cadences on 3 beat of bar.
+
+***** BWV639: "Triosonata" or "Adagio cantabile"
 
 *** 2015-03-20 Friday
 **** live code data exploration and other extensions
@@ -504,8 +510,6 @@ Geert Vermeire, Dana Papachristou, Giorgos(x)
 Also present: Katerina Taliani (PhD Candidate on Sound Walks in Urban space, under Richard Coyne + ...)
 
 The Milena Principle - Urban Rituals - Outdoor Living - Lisbon.mp3
-
-
 
 www.umapper.com : Resounding Cities.
 
