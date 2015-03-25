@@ -601,6 +601,19 @@ http://xapian.org/
  :END:
 
 http://www.insidescience.org/content/every-black-hole-contains-new-universe/566
+**** art-science projects for "celebrating einstein" centennial year of general relativity
+ :PROPERTIES:
+ :DATE: <2015-03-25 Wed 15:50>
+ :END:
+
+
+http://www.insidescience.org/content/celebrating-einstein-through-100-years-general-relativity/958
+
+#+BEGIN_QUOTE
+Celebrating Einstein strives to communicate all of this beauty and excitement to the general public by bridging the gap between the sciences and the arts in both its design and end products. This event is a truly collaborative and interdisciplinary effort between the departments of physics, history, communication, music, film, photography, art, and architecture at Montana State University, Princeton University, and UCLA. These many different fields all use creativity to invent new ideas that deepen our understanding of the world. Einstein's iconic figure, the centennial of the discovery of his most important theory, and the imminent direct detection of his final prediction produce a perfect theme for Celebrating Einstein.
+
+Celebrating Einstein includes several events: a public lecture series by world-renowned scientists, including University of Maryland's Jim Gates, recipient of the National Medal of Science and member of the President's Science Advisory Panel, and David Kaiser, a best-selling author and the head of the MIT Program in Science, Technology and Society; Celebrating Einstein in the Schools, a collection of K-12 classroom lessons and activities; the Black (W)hole art installation, featuring visualizations and sounds of a small black hole spiraling violently into a supermassive one; and the Shout Across Time live multimedia theatre show, which will feature a dance-company performance illustrating a lecture on general relativity, a live orchestra, playing an original composition inspired by gravitational waves, and an original film featuring numerical simulations of black hole collisions.
+#+END_QUOTE
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
