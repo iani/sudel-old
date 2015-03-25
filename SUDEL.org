@@ -1,4 +1,4 @@
-  #+INFOJS_OPT: view:info toc:4 sdepth:4
+#+INFOJS_OPT: view:info toc:4 sdepth:4
 #+OPTIONS: H:6 toc:4
 
 * About
@@ -639,6 +639,8 @@ http://www.wired.co.uk/news/archive/2015-03/23/design-museum-architecture
 15. House for Trees, Ho Chi Minh City, Vietnam
 
 But see also:
+
+http://www.designsoftheyear.com/
 
 http://www.dezeen.com/2015/02/19/designs-of-the-year-2015-nominees-announced-design-museum-london/
 ***** Architecture
