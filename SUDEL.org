@@ -457,11 +457,13 @@ The second part presents an overview over the Field environment.
  Johannes Goebel
 ****
 *** 2015-03-21 Saturday
-**** Rob Kitchin, Martin Ddge: Code/Space.
+**** Rob Kitchin et al: works on Cyber-Geography
  :PROPERTIES:
  :DATE: <2015-03-21 Sat 08:11>
  :END:
-**** Rob Kitchin: The Data Revolution Big Data, Open Data, Data Infrastructures and Their Consequences
+
+- Rob Kitchin, Martin Dodge: Code/Space.
+- Rob Kitchin: The Data Revolution Big Data, Open Data, Data Infrastructures and Their Consequences
  :PROPERTIES:
  :DATE: <2015-03-21 Sat 08:26>
  :END:
@@ -470,10 +472,10 @@ The second part presents an overview over the Field environment.
  :DATE: <2015-03-21 Sat 17:38>
  :END:
 
-
 Comparing to the speed of a single core and a 16-threaded 8-core cpu:
 
 https://www.youtube.com/watch?v=IEWGTpsFtt8
+
 *** 2015-03-22 Sunday
 **** Sonify Magnetic Storms, but also the Anticythera Mechanism
  :PROPERTIES:
