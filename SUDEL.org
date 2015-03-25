@@ -1,5 +1,5 @@
 #+INFOJS_OPT: view:info toc:4 sdepth:4
-#+OPTIONS: H:6 toc:4
+#+OPTIONS: H:6 toc:4 ^:nil
 
 * About
 
