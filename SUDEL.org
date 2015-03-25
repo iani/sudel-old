@@ -489,6 +489,21 @@ Accompany by polar light simulations
 http://blog.danielgempesaw.com/post/43467552978/installing-mu-and-mu4e-with-homebrew-with-emacs
 
 http://www.djcbsoftware.nl/code/mu/
+***** maildir in macos x
+
+https://brettporter.wordpress.com/2006/08/22/moving-to-mac-os-x-from-thunderbird-to-apple-mail/
+
+http://stevelosh.com/blog/2012/10/the-homely-mutt/
+
+http://vijaykiran.com/2010/01/mutt-for-gmail-imap-on-mac-os-x/
+***** offlineimap
+
+http://offlineimap.org/
+
+***** gmail configuration
+
+http://www.djcbsoftware.nl/code/mu/mu4e/Gmail-configuration.html#Gmail-configuration
+
 **** bernhard of clairvaux and hildegard of bingen (apropos AB attending St John Passion in Cardiff)
  :PROPERTIES:
  :DATE: <2015-03-22 Sun 12:43>
@@ -559,12 +574,33 @@ Doctoral Student (Electronic engineer) at CERN
 
 https://www.artsy.net/feature/the-algorithm-auction
 
+qrpff DRM DVD unscrambling algorithm: https://www.artsy.net/artwork/keith-winstein-qrpff/zoom
+
 *** 2015-03-24 Tuesday
 **** bwv0078.5.8-9: erschreckliches Gericht <-> Les mains en fer
  :PROPERTIES:
  :DATE: <2015-03-24 Tue 03:40>
  :END:
+**** COMMENT recent films related to immigration
+ :PROPERTIES:
+ :DATE: <2015-03-24 Tue 15:54>
+ :END:
 
+- http://en.wikipedia.org/wiki/Shinjuku_Incident
+- http://en.wikipedia.org/wiki/Night_and_Fog_(2009_film)
+**** Xapian open source search engine library
+ :PROPERTIES:
+ :DATE: <2015-03-24 Tue 16:50>
+ :END:
+
+http://xapian.org/
+*** 2015-03-25 Wednesday
+**** Einstein-Cartan-Sciama-Kibble theory of gravity
+ :PROPERTIES:
+ :DATE: <2015-03-25 Wed 13:22>
+ :END:
+
+http://www.insidescience.org/content/every-black-hole-contains-new-universe/566
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
