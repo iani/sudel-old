@@ -968,6 +968,154 @@ http://www.thevinylfactory.com/vinyl-factory-exhibitions/ryoji-ikeda-and-the-vin
  :PROPERTIES:
  :DATE: <2015-03-27 Fri 00:16>
  :END:
+**** game of thrones: season 4 fallen roundtable
+ :PROPERTIES:
+ :DATE: <2015-03-27 Fri 15:46>
+ :END:
+
+https://www.youtube.com/watch?v=1YGTR8BCDTM
+**** for EASTM: example of simple but effective online slideshow for physics, by John Baez
+ :PROPERTIES:
+ :DATE: <2015-03-27 Fri 20:34>
+ :END:
+
+SPLIT OCTONIONS
+AND
+THE ROLLING BALL
+
+John Baez and John Huerta
+
+with lots of help from
+
+James Dolan and Geoffrey Dixon
+
+http://math.ucr.edu/home/baez/ball/
+http://math.ucr.edu/home/baez/ball/23.html
+**** readings from withhiddennoise
+ :PROPERTIES:
+ :DATE: <2015-03-27 Fri 21:19>
+ :END:
+
+http://withhiddennoise.net/readings/
+
+***** A
+- Aeschylus, The Oresteia
+- Muammar Al Gathafi, The Green Book
+- Marcel Allain & Pierre Souvestre, The Silent Executioner
+- Eleanor Antin, Historical Takes
+- Dore Ashton, The New York School
+***** B
+- Nicholson Baker, U and Honoré de Balzac, Treatise on Elegant Living
+- W. N. P. Barbellion, The Journal of a Disappointed Man
+- Donald Barthelme, Paradise
+- Elif Batuman, The Possessed
+- Jorge Luis Borges: Doctor Brodie’s Report; The Book of Sand and Shakespeare’s Memory
+- Jane Bowles, Two Serious Ladies
+- Jane Bowles & Denton Welch, A Stick of Green Candy
+- Hermann Broch, The Death of Virgil
+- Thomas Browne: Selected Writings; The Major Works
+- Alan Burns, The Angry Brigade
+***** C
+- Joshua Cohen: Cadenza for the Schneidermann Violin Concerto; A Heaven of Others; Witz
+- Jon Cotner & Andy Fitch, Ten Walks/Two Talks
+- Stanley Crawford: Mayordomo; Petroleum Man; The River in Winter
+- John Crowley: Lord Byron’s Novel: The Evening Land; The Girlhood of Shakespeare’s Heroines
+***** D
+- Jeremy M. Davies, Rose Alley
+- Sergio De La Pava, A Naked Singularity
+- Chris Diken, Some People
+- Danielle Dutton, Attempts at a Life
+- Geoff Dyer, Yoga for People Who Can’t Be Bothered to Do It
+***** F
+- Charles Macomb Flandrau, Viva Mexico!
+- Thomas Frank, What’s the Matter with Kansas?
+***** G
+- Henry Green: Concluding; Back; Caught; Doting; Nothing
+- George & Weedon Grossmith, The Diary of a Nobody
+***** H
+- Julian Jason Haladyn, Marcel Duchamp: Étant donnés
+- Elizabeth Hardwick: The New York Stories of Elizabeth Hardwick; Sleepless Nights
+- Kristin Hersh, Rat Girl
+- Homer, The Odyssey; The Odyssey (trans. Samuel Butler)
+***** I
+- Lucy Ives, Anamnesis
+***** J
+- Gabriel Josipovici: Writing and the Body; Everything Passes
+- Ray Johnson & Bill Wilson, A Book about A Book about Death
+***** K
+- Franz Kafka, Blumfeld, An Elderly Bachelor
+***** L
+- Alan Levin, Love is like Park Avenue
+- Claude Lévi-Strauss, Tristes tropiques
+- Tan Lin, Seven Controlled Vocabularies
+- Pierre Louÿs, The Young Girl’s Handbook of Good Manners
+***** M
+- Harry Mathews, The Journalist
+- Sebastian Matthews, ed., From BMC to NYC: The Tutelary Years of Ray Johnson 1943–1967
+- Joseph McElroy: Ship Rock: A Place; Preparations for Search; Night Soul and Other Stories
+- James R. Mellow, A Charmed Circle
+- Herman Melville, Moby-Dick
+- Stan Mir, Flight Patterns
+- Leonard Mlodinow, Euclid’s Window
+- Steven Moore, The Novel: An Alternative History
+***** N
+- Francis Naumann, ed., Affectionately, Marcel: The Selected Correspondence of Marcel Duchamp
+- Gérard de Nerval, Aurélia & other writings
+***** O
+- Klaus Ottmann, Yves Klein by Himself
+***** P
+- Orhan Pamuk, My Name is Red
+- Georges Perec, An Attempt at Exhausting a Place in Paris
+- Marcel Proust, The Prisoner
+- Alexander Pushkin, The Tales of Belkin
+***** R
+- Tom Rachman, The Imperfectionists
+- Jules Renard, Nature Stories
+- Éric Rohmer, Six Moral Tales
+- Frederick Rolfe, The Desire and Pursuit of the Whole
+***** S
+- Aram Saroyan, Coffee Coffee
+- Wallace Shawn, Essays
+- Ettie Stettheimer, Love Days
+- Florine Stettheimer, Crystal Flowers: Poems and a Libretto
+***** T
+- Alice B. Toklas, What Is Remembered
+- Jean-Philippe Toussaint, Self-Portrait Abroad
+- B. Traven, The Treasure of the Sierra Madre
+- Frederic Tuten: The Adventures of Mao on the Long March; Tintin in the New World
+***** V
+- Jules Verne, The Green Ray
+***** W
+- Robert Walser, Answer to an Inquiry
+- John Waters, Role Models
+- Edmund White: Caracole; City Boy
+***** Y
+- Monica Youn, Ignatz
+***** various
+- The Baffler: #4: Your Lifestyle Sucks!; #6: Dark Age; #7: The City in the Age of Information; #8: The Cultural Miracle; #9: An Injury To All; Vol. 2, No. 1: Margin Call
+***** [About the author]
+
+Note: I presume this is the Dan Visel behind withhiddennoise (?) : http://mobilityshifts.org/conference/participants/keynotes/dan-viesel/
+
+#+BEGIN_QUOTE
+Dan Visel graduated from Harvard and has worked as a book designer and editor in the travel business and publishing world. Since 2005, he's been part of the Institute for the Future of the Book, a Brooklyn-based think tank focusing on the changing nature of the book as it moved from the printed page to the networked screen; in addition to managing the Institute's software development projects, he wrote and spoke extensively about the changing nature of the book and its relation to technology. He's a contributing editor at Triple Canopy, an online magazine that curates and facilitates new media projects, and is presently working for Unfold, a start-up mapping political discourse.
+#+END_QUOTE
+
+See also: http://www.weareinbangkok.com/author/dbv/page/3/
+
+**** javascript color picker (chart) online
+ :PROPERTIES:
+ :DATE: <2015-03-27 Fri 22:28>
+ :END:
+
+http://jdstiles.com/colorchart.html
+
+See also: http://www.w3schools.com/html/html_colornames.asp
+*** 2015-03-28 Saturday
+**** banji monogatari: woman ulysses
+ :PROPERTIES:
+ :DATE: <2015-03-28 Sat 01:05>
+ :END:
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
