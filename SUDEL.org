@@ -1116,6 +1116,98 @@ See also: http://www.w3schools.com/html/html_colornames.asp
  :PROPERTIES:
  :DATE: <2015-03-28 Sat 01:05>
  :END:
+**** notmuch: alternative email client for emacs? (to mu4e)
+ :PROPERTIES:
+ :DATE: <2015-03-28 Sat 02:30>
+ :END:
+
+Note: This is from Sacha Chua's EMACS chat with Christopher Wellons
+around 31:00: https://www.youtube.com/watch?v=Hr06UDD4mCs#t=1215
+
+See also: http://nullprogram.com/blog/2013/09/03/  which is Wellons' account of how he ended up using notmuch.
+
+Here is what he writes about notmuch vs mu4e:
+
+#+BEGIN_QUOTE
+notmuch vs mu4e
+
+Since I decided early on to go with an Emacs-based e-mail client, learning a new e-mail client got a lot easier. I know Emacs Lisp pretty darn well. In the worst case of getting stuck, I could very easily study the client's source code and work out for myself whatever is going on. I could even monkey patch it in my configuration if it was causing problems for me (and I've already done exactly that).
+
+I wanted to use the Maildir format, something I could hack on if needed. The two obvious choices for this were mu4e and notmuch, both started in 2009. I initially reached for mu4e. Compared to notmuch, it follows Emacs idioms more closely. For example, the e-mail listing is oriented around a mark and execute paradigm, like a dired buffer. After an initial glance, it felt more integrated.
+
+Unfortunately, mu4e is still not mature enough for real productive use, making it far too risky for e-mail. I found out the hard way that the database format has varied regularly between versions. Worse, mu4e is not suitable for remote access. Not only does it assume the Maildir directory is on the local host, it uses absolute paths to access it, so it won't work over sshfs as I had hoped. Bummer.
+
+In contrast, the notmuch client is specifically designed to be operated remotely. Emacs doesn't realize that it runs the notmuch client over SSH. Emacs doesn't need to touch the Maildir directly. It's a beautiful setup, one very friendly to versioning dotfiles. I've already done some pretty heavy configuration to get it exactly the way I want it. On top of this, notmuch is incredibly fast and stable. It's been a very enjoyable client. So much so that it inspired me to build a web feed reader with a similar interface (to be described in my next post).
+#+END_QUOTE
+
+see also: https://github.com/Malabarba/gmail-mode
+http://endlessparentheses.com/write-gmail-in-emacs-the-easy-way-gmail-message-mode.html
+**** emacs hangout about org babel for literate programming
+ :PROPERTIES:
+ :DATE: <2015-03-28 Sat 03:42>
+ :END:
+
+
+https://www.youtube.com/watch?v=i5opSxNnhMs#t=327
+**** Bret Victor lecture/demo on live data visualization - et al
+ :PROPERTIES:
+ :DATE: <2015-03-28 Sat 12:06>
+ :END:
+
+https://vimeo.com/66085662
+
+#+BEGIN_QUOTE
+For more information, see: worrydream.com/DrawingDynamicVisualizationsTalkAddendum
+Throughout the history of science, diagrams and graphs have been essential thinking tools. In the past, such visualizations were drawn with pen on paper, and could embrace the directness, freedom, and expressiveness of hand drawing. Most modern visualizations are programmed instead, where a single description can dynamically generate a unique picture for any dataset.
+
+Today's tools offer the benefits of one or the other -- either directness or dynamics -- but not both. Photoshop and Illustrator allow direct-manipulation drawing of static pictures. D3, R, and Processing allow indirect-manipulation coding of dynamic pictures.
+This talk presents a tool for drawing dynamic pictures -- creating data-driven visualizations, like D3, but via direct manipulation of the picture itself, like Illustrator.
+
+Recorded at the Stanford HCI seminar on February 1, 2013.
+#+END_QUOTE
+
+Another vimeo on live data visualization tinkering / development with code here: http://worrydream.com/#!/DrawingDynamicVisualizationsTalk or directly on vimeo here: https://vimeo.com/66085662
+
+Comments by toplap members here: http://toplap.org/bret-victor-on-live-coding/
+
+The essay that triggered the discussion on toplap here: http://worrydream.com/LearnableProgramming/
+
+Quote:
+
+#+BEGIN_QUOTE
+Here's a trick question: /How do we get people to understand programming?/
+
+Khan Academy recently launched an online environment for learning to program. It offers a set of tutorials based on the JavaScript and Processing languages, and features a "live coding" environment, where the program's output updates as the programmer types.
+
+Because my work was cited as an inspiration for the Khan system, I felt I should respond with two thoughts about learning:
+
+- Programming is a way of thinking, not a rote skill. Learning about "for" loops is not learning to program, any more than learning about pencils is learning to draw.
+- People understand what they can see. If a programmer cannot see what a program is doing, she can't understand it.
+
+Thus, the goals of a programming system should be:
+
+- to support and encourage powerful ways of thinking
+- to enable programmers to see and understand the execution of their programs
+
+A live-coding Processing environment addresses neither of these goals. JavaScript and Processing are poorly-designed languages that support weak ways of thinking, and ignore decades of learning about learning. And live coding, as a standalone feature, is worthless.
+#+END_QUOTE
+
+Finally, an impressive showreel: http://worrydream.com/#!/Showreel2012
+
+**** to look into: SuperCollider-JavaScript lib by crucial
+ :PROPERTIES:
+ :DATE: <2015-03-28 Sat 20:42>
+ :END:
+
+http://supercolliderjs.readthedocs.org/en/latest/index.html
+**** Brandon Stanton / Humans of New York. Broadly related to Alexandros' work / strategies for Performigrations piece: How to involve people
+ :PROPERTIES:
+ :DATE: <2015-03-28 Sat 21:12>
+ :END:
+
+On how I approach strangers in the street | Humans of New York creator Brandon Stanton | UCD, Dublin
+
+https://www.youtube.com/watch?v=KPxzlGPrM3A
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
