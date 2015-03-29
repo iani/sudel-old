@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>sudel.org.temp</title>
-<!-- 2015-03-29 Sun 05:39 -->
+<!-- 2015-03-29 Sun 06:36 -->
 <meta  charset="utf-8">
 <meta  name="generator" content="Org-mode">
 <meta  name="author" content="IOANNIS ZANNOS">
@@ -319,6 +319,11 @@ for the JavaScript code in this tag.
 <li><a href="#sec-2-1-15">2.1.15. 2015-03-28 Saturday</a>
 <ul>
 <li><a href="#sec-2-1-15-1">2.1.15.1. banji monogatari: woman ulysses</a></li>
+<li><a href="#sec-2-1-15-2">2.1.15.2. notmuch: alternative email client for emacs? (to mu4e)</a></li>
+<li><a href="#sec-2-1-15-3">2.1.15.3. emacs hangout about org babel for literate programming</a></li>
+<li><a href="#sec-2-1-15-4">2.1.15.4. Bret Victor lecture/demo on live data visualization - et al</a></li>
+<li><a href="#sec-2-1-15-5">2.1.15.5. to look into: SuperCollider-JavaScript lib by crucial</a></li>
+<li><a href="#sec-2-1-15-6">2.1.15.6. Brandon Stanton / Humans of New York. Broadly related to Alexandros' work / strategies for Performigrations piece: How to involve people</a></li>
 </ul>
 </li>
 </ul>
@@ -2581,6 +2586,165 @@ See also: <a href="http://www.w3schools.com/html/html_colornames.asp">http://www
 <div class="outline-text-5" id="text-2-1-15-1">
 </div>
 </div>
+<div id="outline-container-sec-2-1-15-2" class="outline-5">
+<h5 id="sec-2-1-15-2"><span class="section-number-5">2.1.15.2</span> notmuch: alternative email client for emacs? (to mu4e)</h5>
+<div class="outline-text-5" id="text-2-1-15-2">
+
+<p>
+Note: This is from Sacha Chua's EMACS chat with Christopher Wellons
+around 31:00: <a href="https://www.youtube.com/watch?v=Hr06UDD4mCs#t=1215">https://www.youtube.com/watch?v=Hr06UDD4mCs#t=1215</a>
+</p>
+
+<p>
+See also: <a href="http://nullprogram.com/blog/2013/09/03/">http://nullprogram.com/blog/2013/09/03/</a>  which is Wellons' account of how he ended up using notmuch.
+</p>
+
+<p>
+Here is what he writes about notmuch vs mu4e:
+</p>
+
+<blockquote>
+<p>
+notmuch vs mu4e
+</p>
+
+<p>
+Since I decided early on to go with an Emacs-based e-mail client, learning a new e-mail client got a lot easier. I know Emacs Lisp pretty darn well. In the worst case of getting stuck, I could very easily study the client's source code and work out for myself whatever is going on. I could even monkey patch it in my configuration if it was causing problems for me (and I've already done exactly that).
+</p>
+
+<p>
+I wanted to use the Maildir format, something I could hack on if needed. The two obvious choices for this were mu4e and notmuch, both started in 2009. I initially reached for mu4e. Compared to notmuch, it follows Emacs idioms more closely. For example, the e-mail listing is oriented around a mark and execute paradigm, like a dired buffer. After an initial glance, it felt more integrated.
+</p>
+
+<p>
+Unfortunately, mu4e is still not mature enough for real productive use, making it far too risky for e-mail. I found out the hard way that the database format has varied regularly between versions. Worse, mu4e is not suitable for remote access. Not only does it assume the Maildir directory is on the local host, it uses absolute paths to access it, so it won't work over sshfs as I had hoped. Bummer.
+</p>
+
+<p>
+In contrast, the notmuch client is specifically designed to be operated remotely. Emacs doesn't realize that it runs the notmuch client over SSH. Emacs doesn't need to touch the Maildir directly. It's a beautiful setup, one very friendly to versioning dotfiles. I've already done some pretty heavy configuration to get it exactly the way I want it. On top of this, notmuch is incredibly fast and stable. It's been a very enjoyable client. So much so that it inspired me to build a web feed reader with a similar interface (to be described in my next post).
+</p>
+</blockquote>
+
+<p>
+see also: <a href="https://github.com/Malabarba/gmail-mode">https://github.com/Malabarba/gmail-mode</a>
+<a href="http://endlessparentheses.com/write-gmail-in-emacs-the-easy-way-gmail-message-mode.html">http://endlessparentheses.com/write-gmail-in-emacs-the-easy-way-gmail-message-mode.html</a>
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-1-15-3" class="outline-5">
+<h5 id="sec-2-1-15-3"><span class="section-number-5">2.1.15.3</span> emacs hangout about org babel for literate programming</h5>
+<div class="outline-text-5" id="text-2-1-15-3">
+
+
+<p>
+<a href="https://www.youtube.com/watch?v=i5opSxNnhMs#t=327">https://www.youtube.com/watch?v=i5opSxNnhMs#t=327</a>
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-1-15-4" class="outline-5">
+<h5 id="sec-2-1-15-4"><span class="section-number-5">2.1.15.4</span> Bret Victor lecture/demo on live data visualization - et al</h5>
+<div class="outline-text-5" id="text-2-1-15-4">
+
+<p>
+<a href="https://vimeo.com/66085662">https://vimeo.com/66085662</a>
+</p>
+
+<blockquote>
+<p>
+For more information, see: worrydream.com/DrawingDynamicVisualizationsTalkAddendum
+Throughout the history of science, diagrams and graphs have been essential thinking tools. In the past, such visualizations were drawn with pen on paper, and could embrace the directness, freedom, and expressiveness of hand drawing. Most modern visualizations are programmed instead, where a single description can dynamically generate a unique picture for any dataset.
+</p>
+
+<p>
+Today's tools offer the benefits of one or the other &#x2013; either directness or dynamics &#x2013; but not both. Photoshop and Illustrator allow direct-manipulation drawing of static pictures. D3, R, and Processing allow indirect-manipulation coding of dynamic pictures.
+This talk presents a tool for drawing dynamic pictures &#x2013; creating data-driven visualizations, like D3, but via direct manipulation of the picture itself, like Illustrator.
+</p>
+
+<p>
+Recorded at the Stanford HCI seminar on February 1, 2013.
+</p>
+</blockquote>
+
+<p>
+Another vimeo on live data visualization tinkering / development with code here: <a href="http://worrydream.com/#!/DrawingDynamicVisualizationsTalk">http://worrydream.com/#!/DrawingDynamicVisualizationsTalk</a> or directly on vimeo here: <a href="https://vimeo.com/66085662">https://vimeo.com/66085662</a>
+</p>
+
+<p>
+Comments by toplap members here: <a href="http://toplap.org/bret-victor-on-live-coding/">http://toplap.org/bret-victor-on-live-coding/</a>
+</p>
+
+<p>
+The essay that triggered the discussion on toplap here: <a href="http://worrydream.com/LearnableProgramming/">http://worrydream.com/LearnableProgramming/</a>
+</p>
+
+<p>
+Quote:
+</p>
+
+<blockquote>
+<p>
+Here's a trick question: <i>How do we get people to understand programming?</i>
+</p>
+
+<p>
+Khan Academy recently launched an online environment for learning to program. It offers a set of tutorials based on the JavaScript and Processing languages, and features a "live coding" environment, where the program's output updates as the programmer types.
+</p>
+
+<p>
+Because my work was cited as an inspiration for the Khan system, I felt I should respond with two thoughts about learning:
+</p>
+
+<ul class="org-ul">
+<li>Programming is a way of thinking, not a rote skill. Learning about "for" loops is not learning to program, any more than learning about pencils is learning to draw.
+</li>
+<li>People understand what they can see. If a programmer cannot see what a program is doing, she can't understand it.
+</li>
+</ul>
+
+<p>
+Thus, the goals of a programming system should be:
+</p>
+
+<ul class="org-ul">
+<li>to support and encourage powerful ways of thinking
+</li>
+<li>to enable programmers to see and understand the execution of their programs
+</li>
+</ul>
+
+<p>
+A live-coding Processing environment addresses neither of these goals. JavaScript and Processing are poorly-designed languages that support weak ways of thinking, and ignore decades of learning about learning. And live coding, as a standalone feature, is worthless.
+</p>
+</blockquote>
+
+<p>
+Finally, an impressive showreel: <a href="http://worrydream.com/#!/Showreel2012">http://worrydream.com/#!/Showreel2012</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2-1-15-5" class="outline-5">
+<h5 id="sec-2-1-15-5"><span class="section-number-5">2.1.15.5</span> to look into: SuperCollider-JavaScript lib by crucial</h5>
+<div class="outline-text-5" id="text-2-1-15-5">
+
+<p>
+<a href="http://supercolliderjs.readthedocs.org/en/latest/index.html">http://supercolliderjs.readthedocs.org/en/latest/index.html</a>
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-1-15-6" class="outline-5">
+<h5 id="sec-2-1-15-6"><span class="section-number-5">2.1.15.6</span> Brandon Stanton / Humans of New York. Broadly related to Alexandros' work / strategies for Performigrations piece: How to involve people</h5>
+<div class="outline-text-5" id="text-2-1-15-6">
+
+<p>
+On how I approach strangers in the street | Humans of New York creator Brandon Stanton | UCD, Dublin
+</p>
+
+<p>
+<a href="https://www.youtube.com/watch?v=KPxzlGPrM3A">https://www.youtube.com/watch?v=KPxzlGPrM3A</a>
+</p>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -2629,7 +2793,7 @@ Roussel had kept this compositional method a secret until the publication of his
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: IOANNIS ZANNOS</p>
-<p class="date">Created: 2015-03-29 Sun 05:39</p>
+<p class="date">Created: 2015-03-29 Sun 06:36</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.4.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>

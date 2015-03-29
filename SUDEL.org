@@ -1208,6 +1208,16 @@ http://supercolliderjs.readthedocs.org/en/latest/index.html
 On how I approach strangers in the street | Humans of New York creator Brandon Stanton | UCD, Dublin
 
 https://www.youtube.com/watch?v=KPxzlGPrM3A
+*** 2015-03-29 Sunday
+**** font combination: Vollkorn + Source Code Pro
+ :PROPERTIES:
+ :DATE: <2015-03-29 Sun 06:07>
+ :END:
+
+http://www.lunaryorn.com/2014/08/12/emacs-script-pitfalls.html
+
+Vollkorn Sans Serif http://vollkorn-typeface.com/
+See Table of Contents list with non-serif "a", despite non italic.
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
