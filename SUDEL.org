@@ -1154,6 +1154,10 @@ https://www.youtube.com/watch?v=i5opSxNnhMs#t=327
  :DATE: <2015-03-28 Sat 12:06>
  :END:
 
+"Treatise on why dynamic pictures matter"": http://worrydream.com/MagicInk/
+
+Lectures and other online stuff:
+
 https://vimeo.com/66085662
 
 #+BEGIN_QUOTE
@@ -1218,6 +1222,66 @@ http://www.lunaryorn.com/2014/08/12/emacs-script-pitfalls.html
 
 Vollkorn Sans Serif http://vollkorn-typeface.com/
 See Table of Contents list with non-serif "a", despite non italic.
+**** Can viruses make us human?
+ :PROPERTIES:
+ :DATE: <2015-03-29 Sun 15:16>
+ :END:
+
+http://c3.fisica.unam.mx/images/library/file/VirusesHuman.pdf
+
+
+#+BEGIN_CENTER
+*Can Viruses Make Us Human?*
+
+LUIS P. VILLARREAL
+
+Director, Center for Virus Research
+
+University of California at Irvine
+
+#+END_CENTER
+
+#+BEGIN_QUOTE
+This question will seem preposterous to most. Viruses
+are molecular genetic parasites and are mostly recognized for
+their ability to induce disease in their host. Their effect on host
+evolution has long been thought to be like that of a predator on its
+prey, eliminating the host with weakened defenses. How can we propose
+any constructive role for viruses? Many viruses, however, can
+infect their host in a stable and persisting manner, generally with no
+disease, often for the life of the host. Such viruses can bring to bear
+onto their host the viral seeds of genetic creation. (Villareal: 1).
+#+END_QUOTE
+
+And:
+
+http://www.somosbacteriasyvirus.com/retrovirus.pdf
+
+#+BEGIN_CENTER
+
+The Viruses That Make Us:
+
+A Role For Endogenous Retrovirus In The Evolution Of
+
+Placental Species
+
+by Luis P. Villarreal
+
+#+END_CENTER
+
+See also: Retroviruses, the Placenta, and the Genomic Junk Drawer: http://schaechter.asmblog.org/schaechter/2014/06/retroviruses-the-placenta-and-the-genomic-junk-drawer.html
+**** Tangle.js: A JavaScript library for reactive documents
+ :PROPERTIES:
+ :DATE: <2015-03-29 Sun 16:16>
+ :END:
+
+http://worrydream.com/Tangle/
+
+By Bret Victor.
+
+#+BEGIN_QUOTE
+Tangle is a JavaScript library for creating reactive documents. Your readers can interactively explore possibilities, play with parameters, and see the document update immediately. Tangle is super-simple and easy to learn.
+#+END_QUOTE
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
