@@ -1294,9 +1294,117 @@ Address: Klisovis 6, Athina
 Phone:801 300 3626
 Hours: Closing soon · 9:30 am – 2:30 pm
 Write a review
+****
+
+**** semester paper examples + advice
+ :PROPERTIES:
+ :DATE: <2015-03-30 Mon 19:45>
+ :END:
+
+http://www.wikihow.com/Write-a-Term-Paper
+
+http://www.uvm.edu/~ral/bsad145/semester.research.paper.html
+
+https://academichelp.net/academic-assignments/write-term-paper.html
+
+http://www.lhup.edu/~dsimanek/termpapr.htm
+
+http://library.humboldt.edu/ic/general_competency/kuhlthau.html
+**** gui, doneAction, polling in SuperCollider
+ :PROPERTIES:
+ :DATE: <2015-03-30 Mon 15:36>
+ :END:
 
 
+From Class session.
 
+#+BEGIN_SRC sh
+/* Mon Mar 30 15:36:33 2015 EEST */
+
+Help.gui;
+
+// ================================================================
+//:
+w = Window();
+w.front;
+//:
+w = Window().front;
+//:
+w = Window("my window", Rect(10, 10, 300, 150)).front;
+//:
+w.bounds;
+//:
+w.bounds = Rect(200, 100, 200, 500);
+//:
+{
+	50 do: {
+		w.bounds = w.bounds.moveBy(10, 10);
+		0.1.wait;
+	}
+}.fork(AppClock)
+
+//:
+{ Line.kr(10, 100, 10) }.play;
+//:
+{ Line.kr(10, 100, 10, doneAction: 2) }.play;
+//:
+{ Line.kr(10, 100, 10).poll }.play;
+//:
+{ Line.kr(10, 100, 10, doneAction: 2).poll }.play;
+//:
+w = Window("moving", Rect(0, 0, 150, 150)).front;
+
+OSCdef(\trackLine1, { | msg |
+	msg.postln;
+	{ w.bounds = w.bounds.left = msg[3] * 4 }.defer
+}, \tr);
+
+{
+	var trig, source;
+	trig = Impulse.kr(10);
+	source = Line.kr(10, 100, 10, doneAction: 2);
+	SendTrig.kr(trig, 0, source);
+}.play;
+
+//:
+w = Window("sliders", Rect(0, 0, 400, 400)).front;
+w.view.layout = HLayout(
+	Slider().action = { | me | me.value.postln }
+}
+)fi
+
+//:
+a = { | freq = 0 | SinOsc.ar(freq, 0, 0.1) }.play;
+
+w = Window("sliders", Rect(0, 0, 400, 400)).front;
+w.view.layout = HLayout(
+Slider().action = { | me |
+	me.value.postln;
+	a.set(\freq, me.value * 4000 + 400)
+};
+
+)
+//:
+a = {{ | freq = 0 | SinOsc.ar(freq, 0, 0.1) }.play; } ! 10;
+
+w = Window("sliders", Rect(0, 0, 400, 400)).front;
+
+w.view.layout = VLayout(
+*({ | i |
+	HLayout(
+		StaticText().string_(format("slider %", i + 1)),
+		Slider().orientation_(\horizontal)
+		.action_({ | me |
+			a[i].set(\freq, me.value * 4000 + 400)
+		})
+	)
+} ! 10)
+)
+//:
+a = { SinOsc.ar(MouseX.kr(400, 4000), 0, 0.1) }.play;
+
+
+#+END_SRC
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
