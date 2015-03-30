@@ -1295,21 +1295,6 @@ Phone:801 300 3626
 Hours: Closing soon · 9:30 am – 2:30 pm
 Write a review
 ****
-
-**** semester paper examples + advice
- :PROPERTIES:
- :DATE: <2015-03-30 Mon 19:45>
- :END:
-
-http://www.wikihow.com/Write-a-Term-Paper
-
-http://www.uvm.edu/~ral/bsad145/semester.research.paper.html
-
-https://academichelp.net/academic-assignments/write-term-paper.html
-
-http://www.lhup.edu/~dsimanek/termpapr.htm
-
-http://library.humboldt.edu/ic/general_competency/kuhlthau.html
 **** gui, doneAction, polling in SuperCollider
  :PROPERTIES:
  :DATE: <2015-03-30 Mon 15:36>
@@ -1405,6 +1390,21 @@ a = { SinOsc.ar(MouseX.kr(400, 4000), 0, 0.1) }.play;
 
 
 #+END_SRC
+
+**** semester paper examples + advice
+ :PROPERTIES:
+ :DATE: <2015-03-30 Mon 19:45>
+ :END:
+
+http://www.wikihow.com/Write-a-Term-Paper
+
+http://www.uvm.edu/~ral/bsad145/semester.research.paper.html
+
+https://academichelp.net/academic-assignments/write-term-paper.html
+
+http://www.lhup.edu/~dsimanek/termpapr.htm
+
+http://library.humboldt.edu/ic/general_competency/kuhlthau.html
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
