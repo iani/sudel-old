@@ -1388,6 +1388,25 @@ w.view.layout = VLayout(
 //:
 a = { SinOsc.ar(MouseX.kr(400, 4000), 0, 0.1) }.play;
 
+//: Using a spec
+a = {{ | freq = 0 | SinOsc.ar(freq, 0, 0.1) }.play; } ! 10;
+p = \freq.asSpec;
+w = Window("sliders", Rect(0, 0, 400, 400)).front;
+
+w.view.layout = VLayout(
+*({ | i |
+	HLayout(
+		StaticText().string_(format("slider %", i + 1)),
+		Slider().orientation_(\horizontal)
+		.action_({ | me |
+			a[i].set(\freq, p.map(me.value))
+		})
+	)
+} ! 10)
+)
+//:
+a = { SinOsc.ar(MouseX.kr(400, 4000), 0, 0.1) }.play;
+
 
 #+END_SRC
 
