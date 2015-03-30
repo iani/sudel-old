@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>sudel.org.temp</title>
-<!-- 2015-03-30 Mon 22:18 -->
+<!-- 2015-03-30 Mon 22:19 -->
 <meta  charset="utf-8">
 <meta  name="generator" content="Org-mode">
 <meta  name="author" content="IOANNIS ZANNOS">
@@ -2993,6 +2993,25 @@ w.view.layout = VLayout(
 )
 //:
 <span style="color: #0086b3;">a</span> = { SinOsc.ar(MouseX.kr(400, 4000), 0, 0.1) }.play;
+
+//: Using a spec
+<span style="color: #0086b3;">a</span> = {{ | <span style="color: #0086b3;">freq</span> = 0 | SinOsc.ar(freq, 0, 0.1) }.play; } ! 10;
+<span style="color: #0086b3;">p</span> = \freq.asSpec;
+<span style="color: #0086b3;">w</span> = Window(<span style="color: #dd1144;">"sliders"</span>, Rect(0, 0, 400, 400)).front;
+
+w.view.layout = VLayout(
+*({ | i |
+        HLayout(
+                StaticText().string_(format(<span style="color: #dd1144;">"slider %"</span>, i + 1)),
+                Slider().orientation_(\horizontal)
+                .action_({ | me |
+                        a[i].set(\freq, p.map(me.value))
+                })
+        )
+} ! 10)
+)
+//:
+<span style="color: #0086b3;">a</span> = { SinOsc.ar(MouseX.kr(400, 4000), 0, 0.1) }.play;
 </pre>
 </div>
 </div>
@@ -3075,7 +3094,7 @@ Roussel had kept this compositional method a secret until the publication of his
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: IOANNIS ZANNOS</p>
-<p class="date">Created: 2015-03-30 Mon 22:18</p>
+<p class="date">Created: 2015-03-30 Mon 22:19</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.4.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
