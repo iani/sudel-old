@@ -336,6 +336,8 @@ for the JavaScript code in this tag.
 <li><a href="#sec-2-1-17">2.1.17. 2015-03-30 Monday</a>
 <ul>
 <li><a href="#sec-2-1-17-1">2.1.17.1. grobotronix: Raspberry pi providers in the center of athens</a></li>
+<li><a href="#sec-2-1-17-2">2.1.17.2. semester paper examples + advice</a></li>
+<li><a href="#sec-2-1-17-3">2.1.17.3. gui, doneAction, polling in SuperCollider</a></li>
 </ul>
 </li>
 </ul>
@@ -2893,7 +2895,132 @@ Address: Klisovis 6, Athina
 Phone:801 300 3626
 Hours: Closing soon · 9:30 am – 2:30 pm
 Write a review
+<b>**</b>
 </p>
+</div>
+</div>
+
+<div id="outline-container-sec-2-1-17-2" class="outline-5">
+<h5 id="sec-2-1-17-2"><span class="section-number-5">2.1.17.2</span> semester paper examples + advice</h5>
+<div class="outline-text-5" id="text-2-1-17-2">
+
+<p>
+<a href="http://www.wikihow.com/Write-a-Term-Paper">http://www.wikihow.com/Write-a-Term-Paper</a>
+</p>
+
+<p>
+<a href="http://www.uvm.edu/~ral/bsad145/semester.research.paper.html">http://www.uvm.edu/~ral/bsad145/semester.research.paper.html</a>
+</p>
+
+<p>
+<a href="https://academichelp.net/academic-assignments/write-term-paper.html">https://academichelp.net/academic-assignments/write-term-paper.html</a>
+</p>
+
+<p>
+<a href="http://www.lhup.edu/~dsimanek/termpapr.htm">http://www.lhup.edu/~dsimanek/termpapr.htm</a>
+</p>
+
+<p>
+<a href="http://library.humboldt.edu/ic/general_competency/kuhlthau.html">http://library.humboldt.edu/ic/general_competency/kuhlthau.html</a>
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-1-17-3" class="outline-5">
+<h5 id="sec-2-1-17-3"><span class="section-number-5">2.1.17.3</span> gui, doneAction, polling in SuperCollider</h5>
+<div class="outline-text-5" id="text-2-1-17-3">
+
+
+<p>
+From Class session.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-sh">/* Mon Mar 30 15:36:33 2015 EEST */
+
+Help.gui;
+
+// ================================================================
+//:
+<span style="color: #0086b3;">w</span> = Window();
+w.front;
+//:
+<span style="color: #0086b3;">w</span> = Window().front;
+//:
+<span style="color: #0086b3;">w</span> = Window(<span style="color: #dd1144;">"my window"</span>, Rect(10, 10, 300, 150)).front;
+//:
+w.bounds;
+//:
+w.bounds = Rect(200, 100, 200, 500);
+//:
+{
+        50 do: {
+                w.bounds = w.bounds.moveBy(10, 10);
+                0.1.wait;
+        }
+}.fork(AppClock)
+
+//:
+{ Line.kr(10, 100, 10) }.play;
+//:
+{ Line.kr(10, 100, 10, doneAction: 2) }.play;
+//:
+{ Line.kr(10, 100, 10).poll }.play;
+//:
+{ Line.kr(10, 100, 10, doneAction: 2).poll }.play;
+//:
+<span style="color: #0086b3;">w</span> = Window(<span style="color: #dd1144;">"moving"</span>, Rect(0, 0, 150, 150)).front;
+
+<span style="color: #990000;">OSCdef</span>(\trackLine1, { | msg |
+        msg.postln;
+        { w.bounds = w.bounds.left = msg[3] * 4 }.defer
+}, \tr);
+
+{
+        var trig, source;
+        <span style="color: #0086b3;">trig</span> = Impulse.kr(10);
+        <span style="color: #0086b3;">source</span> = Line.kr(10, 100, 10, doneAction: 2);
+        SendTrig.kr(trig, 0, source);
+}.play;
+
+//:
+<span style="color: #0086b3;">w</span> = Window(<span style="color: #dd1144;">"sliders"</span>, Rect(0, 0, 400, 400)).front;
+w.view.layout = HLayout(
+        Slider().action = { | me | me.value.postln }
+}
+)<span style="font-weight: bold;">fi</span>
+
+//:
+<span style="color: #0086b3;">a</span> = { | <span style="color: #0086b3;">freq</span> = 0 | SinOsc.ar(freq, 0, 0.1) }.play;
+
+<span style="color: #0086b3;">w</span> = Window(<span style="color: #dd1144;">"sliders"</span>, Rect(0, 0, 400, 400)).front;
+w.view.layout = HLayout(
+<span style="color: #990000;">Slider</span>().action = { | me |
+        me.value.postln;
+        a.set(\freq, me.value * 4000 + 400)
+};
+
+)
+//:
+<span style="color: #0086b3;">a</span> = {{ | <span style="color: #0086b3;">freq</span> = 0 | SinOsc.ar(freq, 0, 0.1) }.play; } ! 10;
+
+<span style="color: #0086b3;">w</span> = Window(<span style="color: #dd1144;">"sliders"</span>, Rect(0, 0, 400, 400)).front;
+
+w.view.layout = VLayout(
+*({ | i |
+        HLayout(
+                StaticText().string_(format(<span style="color: #dd1144;">"slider %"</span>, i + 1)),
+                Slider().orientation_(\horizontal)
+                .action_({ | me |
+                        a[i].set(\freq, me.value * 4000 + 400)
+                })
+        )
+} ! 10)
+)
+//:
+<span style="color: #0086b3;">a</span> = { SinOsc.ar(MouseX.kr(400, 4000), 0, 0.1) }.play;
+</pre>
+</div>
 </div>
 </div>
 </div>
