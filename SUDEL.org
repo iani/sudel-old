@@ -1396,6 +1396,8 @@ a = { SinOsc.ar(MouseX.kr(400, 4000), 0, 0.1) }.play;
  :DATE: <2015-03-30 Mon 19:45>
  :END:
 
+Quick search ...
+
 http://www.wikihow.com/Write-a-Term-Paper
 
 http://www.uvm.edu/~ral/bsad145/semester.research.paper.html
