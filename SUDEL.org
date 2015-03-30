@@ -1282,6 +1282,21 @@ By Bret Victor.
 #+BEGIN_QUOTE
 Tangle is a JavaScript library for creating reactive documents. Your readers can interactively explore possibilities, play with parameters, and see the document update immediately. Tangle is super-simple and easy to learn.
 #+END_QUOTE
+*** 2015-03-30 Monday
+**** grobotronix: Raspberry pi providers in the center of athens
+ :PROPERTIES:
+ :DATE: <2015-03-30 Mon 14:15>
+ :END:
+
+Grobotronics.comDirections
+Electronics Store
+Address: Klisovis 6, Athina
+Phone:801 300 3626
+Hours: Closing soon · 9:30 am – 2:30 pm
+Write a review
+
+
+
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
