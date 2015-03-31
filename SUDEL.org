@@ -1442,6 +1442,13 @@ https://academichelp.net/academic-assignments/write-term-paper.html
 http://www.lhup.edu/~dsimanek/termpapr.htm
 
 http://library.humboldt.edu/ic/general_competency/kuhlthau.html
+*** 2015-03-31 Tuesday
+**** blackmax: comprehensive black hole event generator
+ :PROPERTIES:
+ :DATE: <2015-03-31 Tue 07:06>
+ :END:
+
+http://blackmax.hepforge.org/
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
