@@ -579,7 +579,7 @@ https://www.artsy.net/feature/the-algorithm-auction
 qrpff DRM DVD unscrambling algorithm: https://www.artsy.net/artwork/keith-winstein-qrpff/zoom
 
 *** 2015-03-24 Tuesday
-**** bwv0078.5.8-9: erschreckliches Gericht <-> Les mains en fer
+**** bwv0078.5.8-9: erschreckliches Gericht, BWV0205.1 <-> Les mains en fer
  :PROPERTIES:
  :DATE: <2015-03-24 Tue 03:40>
  :END:
@@ -596,6 +596,11 @@ qrpff DRM DVD unscrambling algorithm: https://www.artsy.net/artwork/keith-winste
  :END:
 
 http://xapian.org/
+
+LvB Op.67
+
+https://www.youtube.com/watch?v=VVFRjIfnzeY
+
 *** 2015-03-25 Wednesday
 **** Einstein-Cartan-Sciama-Kibble theory of gravity
  :PROPERTIES:
@@ -1388,7 +1393,7 @@ w.view.layout = VLayout(
 //:
 a = { SinOsc.ar(MouseX.kr(400, 4000), 0, 0.1) }.play;
 
-//: Use a ControlSpec
+//: Use a ControlSpecμ
 a = {{ | freq = 0 | SinOsc.ar(freq, 0, 0.1) }.play; } ! 10;
 p = \freq.asSpec;
 w = Window("sliders", Rect(0, 0, 400, 400)).front;
