@@ -1388,7 +1388,7 @@ w.view.layout = VLayout(
 //:
 a = { SinOsc.ar(MouseX.kr(400, 4000), 0, 0.1) }.play;
 
-//: Using a spec
+//: Use a ControlSpec
 a = {{ | freq = 0 | SinOsc.ar(freq, 0, 0.1) }.play; } ! 10;
 p = \freq.asSpec;
 w = Window("sliders", Rect(0, 0, 400, 400)).front;
@@ -1403,7 +1403,23 @@ w.view.layout = VLayout(
 		})
 	)
 } ! 10)
+
 )
+//: Bind the synths to sliders directly
+a = {{ | freq = 0 | SinOsc.ar(freq, 0, 0.1) }.play; } ! 10;
+p = \freq.asSpec;
+w = Window("sliders", Rect(0, 0, 400, 400)).front;
+
+w.view.layout = VLayout(
+*(a collect: { | synth, i |
+	HLayout(
+		StaticText().string_(format("slider %", i + 1)),
+		Slider().orientation_(\horizontal)
+		.action_({ | me | synth.set(\freq, p.map(me.value))})
+	)
+})
+)
+
 //:
 a = { SinOsc.ar(MouseX.kr(400, 4000), 0, 0.1) }.play;
 
