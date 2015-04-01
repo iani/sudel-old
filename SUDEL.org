@@ -579,7 +579,7 @@ https://www.artsy.net/feature/the-algorithm-auction
 qrpff DRM DVD unscrambling algorithm: https://www.artsy.net/artwork/keith-winstein-qrpff/zoom
 
 *** 2015-03-24 Tuesday
-**** bwv0078.5.8-9: erschreckliches Gericht, BWV0205.1 <-> Les mains en fer
+**** bwv0078.5.8-9: erschreckliches Gericht, BWV0205.2 <-> Les mains en fer
  :PROPERTIES:
  :DATE: <2015-03-24 Tue 03:40>
  :END:
@@ -1455,6 +1455,20 @@ http://library.humboldt.edu/ic/general_competency/kuhlthau.html
  :END:
 
 http://blackmax.hepforge.org/
+** 2015-04 April
+*** 2015-04-01 Wednesday
+**** KCO Masterclasses Mariss Jansons 2 of 2
+ :PROPERTIES:
+ :DATE: <2015-04-01 Wed 00:34>
+ :END:
+
+https://www.youtube.com/watch?v=lBXXqI3i6xc
+**** single page apps with angular - with ajax
+ :PROPERTIES:
+ :DATE: <2015-04-01 Wed 08:10>
+ :END:
+
+https://www.youtube.com/watch?v=xN9QxPtK2LM
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
