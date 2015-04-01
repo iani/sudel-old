@@ -1210,7 +1210,7 @@ Finally, an impressive showreel: http://worrydream.com/#!/Showreel2012
  :END:
 
 http://supercolliderjs.readthedocs.org/en/latest/index.html
-**** Brandon Stanton / Humans of New York. Broadly related to Alexandros' work / strategies for Performigrations piece: How to involve people
+**** Brandon Stanton / Humans of New York. Broadly related to Alexios' work / strategies for Performigrations piece: How to involve people
  :PROPERTIES:
  :DATE: <2015-03-28 Sat 21:12>
  :END:
