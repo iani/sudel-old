@@ -1471,7 +1471,11 @@ https://www.youtube.com/watch?v=lBXXqI3i6xc
 https://www.youtube.com/watch?v=xN9QxPtK2LM
 
 See also: https://www.youtube.com/watch?v=xN9QxPtK2LM
-
+*** 2015-04-02 Thursday
+**** vgl BWV0213.9 w ?
+ :PROPERTIES:
+ :DATE: <2015-04-02 Thu 12:09>
+ :END:
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
