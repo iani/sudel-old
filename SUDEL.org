@@ -1476,6 +1476,50 @@ See also: https://www.youtube.com/watch?v=xN9QxPtK2LM
  :PROPERTIES:
  :DATE: <2015-04-02 Thu 12:09>
  :END:
+**** Sam Harris on nuanced religious people and the smart man's dodge
+ :PROPERTIES:
+ :DATE: <2015-04-02 Thu 18:13>
+ :END:
+
+https://www.youtube.com/watch?v=Go-ntjYFUiI
+
+http://en.wikipedia.org/wiki/Francis_Collins
+
+http://en.wikipedia.org/wiki/John_Polkinghorne
+
+http://en.wikipedia.org/wiki/N._T._Wright
+
+http://en.wikipedia.org/wiki/Reza_Aslan
+*** 2015-04-03 Friday
+**** copernicus masters earch monitoring competition (geo-data visualization)
+ :PROPERTIES:
+ :DATE: <2015-04-03 Fri 10:50>
+ :END:
+
+http://www.copernicus-masters.com/index.php?kat=competition.html&anzeige=competition.html
+
+http://www.copernicus-masters.com/index.php?anzeige=preregistration.html
+
+Winner 2014: http://www.copernicus-masters.com/index.php?kat=winners.html&anzeige=winner_airbus_hisdesat2014.html
+
+Since 2011, the annual Copernicus Masters competition is awarding prizes to innovative solutions for business and society based on Earth observation data.
+
+With the launch of Sentinel-1A in April 2014, a new era is set to begin for applications in the entire geospatial value chain. It is the first of the new fleet of ESA Earth observation satellites, which are poised to deliver the wealth of data and imagery that are at the core of Europe's flagship programme Copernicus. The Earth monitoring competition Copernicus Masters aims to support the development of market-oriented applications based on Earth observation data. In 2014, for the first time, the Copernicus Masters was carried out worldwide.
+The 171 submissions received from 43 countries in 2014 offer an excellent glimpse of the next generation of Earth observation services, which are set to benefit in particular from the expansion of digital infrastructures. The satellites now in orbit and the network development taking place here on Earth, for example, are expected to further accelerate the provision of current Earth observation data.
+It included exciting topic specific Challenges that were awarded by an array of prominent partners, such as the European Space Agency (ESA), the German Aerospace Center (DLR), T-Systems International GmbH, European Space Imaging GmbH & Skybox Imaging Inc., CloudEO AG, Airbus Defence and Space & Hisdesat S.A., and Satellite Applications Catapult Ltd.
+
+The submission phase war running from 15 April to 20 July. Participants were competing for their share of this year's EUR 300,000 prize pool.
+
+In addition to cash prizes, this prize pool primarily includes support for the commercial realisation of the winning ideas, data access, and the chance to enter the incubation programme of one of Europe's eleven ESA Business Incubation Centres (BICs). The overall winner - the Copernicus Master - was selected from among the winners of each challenge (except the Best Service Challenge) by a panel of experts.
+** 2015-06 June
+*** 2015-06-05 Friday
+**** biografilm festival
+ :PROPERTIES:
+ :DATE: <2015-06-05 Fri>--<2015-06-15 Mon>
+ :END:
+
+http://www.biografilm.it/2015/
+
 * COMMENT Bach Cantata Notes
   <2010-09-19 Sun 12:46>
 
