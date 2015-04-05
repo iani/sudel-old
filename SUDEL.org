@@ -1676,7 +1676,7 @@ See notes in following sections!
  :PROPERTIES:
  :DATE: <2015-04-05 Sun 16:21>
  :END:
-**** piere shαeffer - το παιχνιώδες
+**** pierre scheffer - το παιχνιώδες
  :PROPERTIES:
  :DATE: <2015-04-05 Sun 16:29>
  :END:
