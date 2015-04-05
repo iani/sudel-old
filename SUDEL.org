@@ -1581,7 +1581,7 @@ sc-+3iaK88I7EWJWmDuVizWt9i2O/ 10 years ago
 
 I've used Darwin Streaming Server and SoundFlower to good effect; DSS
 is also good for video. MPEG4, btw.
-*** 2015-04-05 Sunday
+*** COMMENT 2015-04-05 Sunday
 **** google calendar quick add syntax for dates
  :PROPERTIES:
  :DATE: <2015-04-05 Sun 12:14>
@@ -1642,6 +1642,42 @@ NOTE: This can only be used in the Quick Add Window. Each dash indicates an addi
 ***** ~ description to disable quick add syntax for this task
 
 ~ write minutes for Aug 3rd meeting
+**** using scserver as master clock
+ :PROPERTIES:
+ :DATE: <2015-04-05 Sun 15:46>
+ :END:
+
+Instead of using Pbind - or other types of routine-framework, use multiple SendTrigs on Impulse.kr.
+**** minimal UI for collaborative web performance with audience
+ :PROPERTIES:
+ :DATE: <2015-04-05 Sun 15:54>
+ :END:
+
+Node.js
+Just a cursor on a page (blank or not).
+**** foldit
+ :PROPERTIES:
+ :DATE: <2015-04-05 Sun 16:16>
+ :END:
+
+Chicago?
+**** erasmus mundus media arts cultures, Danemark, Poland, Hong-Kong
+ :PROPERTIES:
+ :DATE: <2015-04-05 Sun 16:18>
+ :END:
+*** 2015-04-05 Sunday
+**** scientist-gamer-performer-programmer-texter-artist?
+ :PROPERTIES:
+ :DATE: <2015-04-05 Sun 16:21>
+ :END:
+**** piere shαeffer - το παιχνιώδες
+ :PROPERTIES:
+ :DATE: <2015-04-05 Sun 16:29>
+ :END:
+**** space under event: space-time-helix - stratos bichakis
+ :PROPERTIES:
+ :DATE: <2015-04-05 Sun 17:08>
+ :END:
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
