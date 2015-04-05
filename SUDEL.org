@@ -1524,6 +1524,124 @@ https://www.youtube.com/watch?v=9Eo5MdHMNcw
 
 
 http://earth.nullschool.net/
+**** live audio streaming on the net for supercollider (and related apps)
+ :PROPERTIES:
+ :DATE: <2015-04-03 Fri 18:48>
+ :END:
+
+
+http://comments.gmane.org/gmane.comp.audio.supercollider.user/110918
+
+https://www.youtube.com/watch?v=g7ZgFlFrVVs
+
+http://nime2014.org/proceedings/papers/541_paper.pdf
+
+https://www.youtube.com/watch?v=7bi3-3VzdwI&list=PL240uJOh_Vb4Gx6aeyZwxdoTm4pkhXm93
+
+https://github.com/abramhindle/csound-timestretching-granular-synth-experiment/blob/master/oscrelay.pl
+
+https://github.com/abramhindle/html5-audio-streaming-via-webaudio-and-raw-encoding
+
+http://mixlr.com/ http://mixlr.com/live/popular/
+**** supercollider -> icecast (web streaming). 10 years story
+ :PROPERTIES:
+ :DATE: <2015-04-03 Fri 18:54>
+ :END:
+
+http://sc-users.bham.ac.narkive.com/mWAhpAnJ/supercollider-icecast
+
+Mark Polishook 10 years ago
+
+I've done this with SuperCollider to NiceCast to Icecast. It works very
+well.
+
+
+...
+
+f***@fredrikolofsson.com 10 years ago
+
+Post by Dan Stowell
+
+Just wondering if there's any prior work on using icecast to broadcast
+directly from SuperCollider to the internet? I run an icecast server
+and it'd be nice in future to think about connecting some live SC
+sound, directly to the broadcast.
+
+we're actually running sc2 under classic mode + shoutcast for an old
+installation that has gained new life online. as jack can't access classic
+soundmanager we use a dodgy hardware solution with a minitele cable from
+speaker -> micin and then the shoutcast~ external (pd|max) to encode.
+it works
+great believe it or not!
+but with sc server it'd be better to jack directly into pd|max. that
+shoutcast~
+external can be found here... http://www.akustische-kunst.org/
+
+sc-+3iaK88I7EWJWmDuVizWt9i2O/ 10 years ago
+
+I've used Darwin Streaming Server and SoundFlower to good effect; DSS
+is also good for video. MPEG4, btw.
+*** 2015-04-05 Sunday
+**** google calendar quick add syntax for dates
+ :PROPERTIES:
+ :DATE: <2015-04-05 Sun 12:14>
+ :END:
+
+- Intro, overview: https://support.google.com/calendar/answer/36604?hl=en
+- Syntax: https://www.gqueues.com/help/quickAdd#syntax
+
+Here is a copy from https://www.gqueues.com/help/quickAdd#syntax
+***** on date @ time
+
+shopping on friday
+shopping may 28 @ 3pm
+shopping fri at 3pm
+shopping 5/28
+shopping tomorrow
+shopping today
+
+NOTE: If you do not specify a year when typing the date GQueues will find the first instance of that date that occurs after today. To have the quick add parser ignore a weekday word put it in quotes (ie. prepare "Sunday" dinner).
+***** in X days/weeks
+
+shopping in 3 days
+shopping 2 weeks
+***** [queue name]
+
+shopping [to do]
+shopping on fri [To Do]
+NOTE: Queue names are not case-sensitive (you can type with capital letters or not). However, all queues in your account should have unique names to guarantee tasks created with this syntax go to the right queue.
+
+If a queue with the name specified does not exist, GQueues will create a new queue and place it in your first category. If GQueues is currently open you will need to refresh the page to see the new queue.
+***** #tagName
+
+shopping #bestBuy
+shopping #Lowes #errands
+NOTE: Only single word tags can be used (tags with spaces are not recognized)
+***** ^reminderMinutes reminderType
+
+shopping friday ^15 email
+shopping @ 3pm ^30 sms
+shopping sunday ^5 popup
+NOTE: A task must have a date or time in order to set a reminder.
+
+The Android App also supports these formats to simplify voice input:
+shopping friday email reminder 15 minutes
+shopping at 3pm sms reminder 30 minutes
+shopping sunday popup reminder 5 minutes
+***** +emailAddress to assign a task
+
+shopping +john@example.com
+shopping +mark@example.com +sue@example.com
+***** - subtask
+
+- dvd player
+-bills
+--rent
+--credit card
+NOTE: This can only be used in the Quick Add Window. Each dash indicates an additional subtask level.
+***** ~ description to disable quick add syntax for this task
+
+~ write minutes for Aug 3rd meeting
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
