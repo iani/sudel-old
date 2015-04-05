@@ -1666,7 +1666,13 @@ Chicago?
  :DATE: <2015-04-05 Sun 16:18>
  :END:
 *** 2015-04-05 Sunday
-**** scientist-gamer-performer-programmer-texter-artist?
+**** mtg: Stratos Bichakis, Kostas Tsioutas, Vicky Bisbiki
+ :PROPERTIES:
+ :DATE: <2015-04-05 Sun 15:00>
+ :END:
+
+See notes in following sections!
+**** scientist-gamer-performer [+programmer-texter-artist?]
  :PROPERTIES:
  :DATE: <2015-04-05 Sun 16:21>
  :END:
