@@ -1456,6 +1456,11 @@ http://library.humboldt.edu/ic/general_competency/kuhlthau.html
 
 http://blackmax.hepforge.org/
 ** 2015-04 April
+:PROPERTIES:
+:LATEX_TEMPLATE: /Users/iani/Dropbox/000WORKFILES/1_SNIPPETS_AND_TEMPLATES/latex-simple-article-english-hypatia.tex
+:ID:       784DD6D5-94F0-48B3-ADFE-9C304B8F8BE4
+:LATEX_TEMPLATE_COPY: /Users/iani/Dropbox/000WORKFILES/0_PRIVATE/attachments/78/4DD6D5-94F0-48B3-ADFE-9C304B8F8BE4/latex-simple-article-english-hypatia.tex
+:END:
 *** 2015-04-01 Wednesday
 **** KCO Masterclasses Mariss Jansons 2 of 2
  :PROPERTIES:
@@ -1666,6 +1671,11 @@ Chicago?
  :DATE: <2015-04-05 Sun 16:18>
  :END:
 *** 2015-04-05 Sunday
+:PROPERTIES:
+:LATEX_TEMPLATE: /Users/iani/Dropbox/000WORKFILES/1_SNIPPETS_AND_TEMPLATES/tufte-handout-fixed.tex
+:ID:       83F69197-2294-4621-81EB-317164D5AF80
+:LATEX_TEMPLATE_COPY: /Users/iani/Dropbox/000WORKFILES/0_PRIVATE/attachments/83/F69197-2294-4621-81EB-317164D5AF80/tufte-handout-fixed.tex
+:END:
 **** mtg: Stratos Bichakis, Kostas Tsioutas, Vicky Bisbiki
  :PROPERTIES:
  :DATE: <2015-04-05 Sun 15:00>
@@ -1692,6 +1702,13 @@ See also: http://www.craigschuftan.com/radio-series/culture-club-1/?start=42
  :PROPERTIES:
  :DATE: <2015-04-06 Mon 12:07>
  :END:
+*** 2015-04-08 Wednesday
+**** john berger : ways of seeing (c/o A. Pistofidou)
+ :PROPERTIES:
+ :DATE: <2015-04-08 Wed 14:38>
+ :END:
+
+https://www.youtube.com/watch?v=0pDE4VX_9Kk
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
