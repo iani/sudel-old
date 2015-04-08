@@ -1727,6 +1727,13 @@ Next-generation displays are expected to evolve from the flat, two-dimensional f
 #+END_QUOTE
 
 http://theconversation.com/five-years-ago-the-ipad-changed-clicks-to-touches-but-another-tablet-revolution-is-coming-39650
+**** beep.js library for live coding on the browser
+ :PROPERTIES:
+ :DATE: <2015-04-09 Thu 02:00>
+ :END:
+
+
+https://github.com/stewdio/beep.js
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
