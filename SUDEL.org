@@ -1709,6 +1709,24 @@ See also: http://www.craigschuftan.com/radio-series/culture-club-1/?start=42
  :END:
 
 https://www.youtube.com/watch?v=0pDE4VX_9Kk
+*** 2015-04-09 Thursday
+**** tactile interfaces for big data navigation
+ :PROPERTIES:
+ :DATE: <2015-04-09 Thu 01:55>
+ :END:
+
+
+From ACM Tech news.
+
+#+BEGIN_QUOTE
+Five Years Ago the iPad Changed Clicks to Touches--but Another Tablet Revolution Is Coming
+
+The Conversation (04/03/15) Jason Alexander
+
+Next-generation displays are expected to evolve from the flat, two-dimensional form factor popularized by the iPad into three-dimensional (3D) tablets equipped with self-actuated, physically reconfigurable surfaces, writes Lancaster University lecturer Jason Alexander. He says these deformable flat screens will be capable of changing the shape of their display surface to better represent on-screen content and offer more ways to convey information tactilely instead of only visually. Computer interaction will undergo a fundamental transformation via the advent of dynamic physical geometry, as physically protruding pixels will enable developers to augment applications such as architecture, design, terrain modeling, and photography by rendering computer-generated 3D scenes in three dimensions. Alexander says this will create opportunities for unique applications in team collaboration, tangible entertainment, and ways of improving computer access for the disabled. He notes Lancaster University researchers have developed an interactive bar chart to represent common data visualization tasks such as displaying and filtering data, organizing it into rows and columns, navigating between large datasets, and producing annotations. They determined the physical nature of dynamic bars encouraged users to directly manipulate data points for annotation and comparison-style tasks, and that traditional touch-based controls are conducive to navigation and organization. Non-technical researchers can experiment with reconfigurable displays via ShapeClip, which adds a z-axis to a computer screen's x- and y-axes.
+#+END_QUOTE
+
+http://theconversation.com/five-years-ago-the-ipad-changed-clicks-to-touches-but-another-tablet-revolution-is-coming-39650
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
