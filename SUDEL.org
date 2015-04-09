@@ -1734,6 +1734,23 @@ http://theconversation.com/five-years-ago-the-ipad-changed-clicks-to-touches-but
 
 
 https://github.com/stewdio/beep.js
+**** gender issues in digital games - a report from Purple Moon
+ :PROPERTIES:
+ :DATE: <2015-04-09 Thu 08:10>
+ :END:
+
+
+#+BEGIN_QUOTE
+On Wed, Apr 8, 2015 at 6:41 PM, Brenda Laurel <xxxxxxx> wrote:
+----------empyre- soft-skinned space----------------------
+I’ve been interested in gender issues in computer gaming for many years. In 1996, after 4 years of qualitative research with over 1000 girls and boys throughout the US, I co-founded Purple Moon, a company to create interactive media explicitly for 8-12-year-old girls. This was the “girl games” moment with many entries into the field from such companies as Her Interactive and Mattel with “Barbie Fashion Designer.” Purple Moon’s first mission was to learn as much as we could about how girls play and then to create interactive experiences that took advantage of these insights in order to encourage girls to put their hands on the machine. In this period, girls were extremely reluctant to play computer games and were generally both afraid of the technology and afflicted with the belief that using it would be gender-transgressive. As we did the interviews, however, another goal emerged that would overshadow the first. We saw the opportunity to meet girls where they were (including their social structures, dreams and fears). We strove to encourage through play a cultural intervention to counter the sort of female gender identity as promulgated by the enforcers of a consumerist, sexist status quo (exemplified by Mattel).
+
+We decided to make a cultural intervention in the definition of femininity itself, including stereotypes about beauty, proper behavior, intelligence, social interaction and self-esteem. Purple Moon lasted for about 3 years until its investors pulled their funding to move to web-based enterprises that promised greater valuations and profits. Just as we released our eighth game we were suddenly taken into Chapter 7 bankruptcy. We raided our real estate deposit to be sure that all 40+ employees went home with a paycheck that day. Later, we persuaded our investors to choose Chapter 11 bankruptcy instead so that the company might be sold. Purple Moon was eventually acquired and killed by Mattel, as were most of the girl game properties of the time, and the party was over. However, I still get mail at least once a week from former Purple Moon players thanking me for our efforts and testifying to the positive differences the games made in their lives. Usually I send them a copy of my book Utopian Entrepreneur that talks about how the sausage was made.
+
+More recently, I have done design research with my students on such topics as the construction of masculinity in relation to media with 6-year-old boys. I have just finished another design research project with my UCSC game design students looking at ways to make interventions for kids with math anxiety. Over the last three years I have become more closely affiliated with feminists in games as well as with the queer games movement. I believe that games can serve to disrupt stereotypes – most importantly, the stereotypes that young people apply to themselves. I also believe that the current efflorescence in queer gaming reflects a desire to create social and personal spaces where one feels safe and happy in one’s own skin. I see games as a powerful force for cultural intervention in stereotypical identities and as places where one may investigate alternative versions of one’s own identity.
+
+
+#+END_QUOTE
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
