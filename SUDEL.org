@@ -1751,6 +1751,12 @@ More recently, I have done design research with my students on such topics as th
 
 
 #+END_QUOTE
+**** the University of California High-Performance AstroComputing Center (UC-HIPACC)
+ :PROPERTIES:
+ :DATE: <2015-04-09 Thu 22:17>
+ :END:
+
+http://hipacc.ucsc.edu/html/Projects&Collaborations.html
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
