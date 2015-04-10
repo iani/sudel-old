@@ -1761,7 +1761,7 @@ More recently, I have done design research with my students on such topics as th
 
 http://hipacc.ucsc.edu/html/Projects&Collaborations.html
 *** 2015-04-10 Friday
-**** history, cultue and food security outlook burkina faso
+**** history, cultue and food security outlook burkina faso, global hunger index
  :PROPERTIES:
  :DATE: <2015-04-10 Fri 11:19>
  :END:
@@ -1777,6 +1777,11 @@ http://hipacc.ucsc.edu/html/Projects&Collaborations.html
 - https://www.wfp.org/countries/burkina-faso
 - http://www.fews.net/west-africa/burkina-faso Food Security Outlook Update (includes maps showing acuteness of famine in areas of the country). Update March 2015: "Détérioration des moyens d’existence probable dans l’extrême nord du pays"
   - À propos de ce rapport :: Cette mise à jour sur la sécurité alimentaire est un rapport mensuel sur les conditions actuelles et des changements sur les perspectives projetées de l'insécurité alimentaire dans ce pays. Il met à jour les Perspectives sur la sécurité alimentaires de FEWS NET. Pour en savoir plus sur le travail, clique ici.
+- http://www.wfp.org/countries/burkina-faso/overview
+  The country is prone to recurrent natural disasters such as drought, floods and locust invasions, which have grown increasingly frequent and severe. In addition, desertification in drought-prone areas is rapidly spreading and the impact of climate change is increasingly affecting the availability of water and pasture.
+  Food insecurity and malnutrition rates remain chronically high. In 2013, Burkina Faso ranked 65 out of 78 on the global hunger index. In addition, while the 2012/2013 harvest showed a significant improvement compared to the previous harvest and the five-year average, populations are still recovering from the 2012 food and nutrition crisis. The government’s response plan for 2014 indicated that 1,330,000 people are vulnerable to food insecurity and 7,300 remain affected by the flooding that occurred in 2013. In addition, the influx of Malian refugees into the country that started in 2012 has generated additional challenges for food security in Burkina Faso, not only for the refugees, but also for the communities surrounding refugee settlements.
+- http://en.wikipedia.org/wiki/Global_Hunger_Index
+- https://www.youtube.com/watch?v=u2uZUf3v05A
 
 ** 2015-06 June
 *** 2015-06-05 Friday
