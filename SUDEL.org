@@ -1670,6 +1670,9 @@ Chicago?
  :PROPERTIES:
  :DATE: <2015-04-05 Sun 16:18>
  :END:
+
+http://www.mediaartscultures.eu/wp/programme-2/curriculum/
+
 *** 2015-04-05 Sunday
 :PROPERTIES:
 :LATEX_TEMPLATE: /Users/iani/Dropbox/000WORKFILES/1_SNIPPETS_AND_TEMPLATES/tufte-handout-fixed.tex
