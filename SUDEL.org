@@ -1788,6 +1788,14 @@ http://hipacc.ucsc.edu/html/Projects&Collaborations.html
  :END:
 
 http://9-eyes.com/
+*** 2015-04-11 Saturday
+**** Spanish citizens use holograms to protest against anti-demonstration law
+ :PROPERTIES:
+ :DATE: <2015-04-11 Sat 13:36>
+ :END:
+
+http://revolution-news.com/first-hologram-protest-in-history-held-against-spains-gag-law/
+http://www.hologramasporlalibertad.org/#home
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
