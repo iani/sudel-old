@@ -1796,6 +1796,79 @@ http://9-eyes.com/
 
 http://revolution-news.com/first-hologram-protest-in-history-held-against-spains-gag-law/
 http://www.hologramasporlalibertad.org/#home
+*** 2015-04-14 Tuesday
+**** Volney: Les Ruines, ou méditations sur les révolutions des empires
+ :PROPERTIES:
+ :DATE: <2015-04-14 Tue 12:11>
+ :END:
+
+https://archive.org/details/lesruinesoumdi00voln
+
+http://www.omarkhayyamnederland.com/archives/articles/the-omarian-meditations-of-cf-volney.html
+
+https://archive.org/details/travelsthroughs03volngoog
+
+http://en.wikipedia.org/wiki/Constantin_Fran%C3%A7ois_de_Chasseb%C5%93uf,_comte_de_Volney
+***** Napoleon's Egypt Campaign
+
+http://www.napoleon-series.org/military/battles/c_egypt.html
+
+Number of scientists accompanying Napoleon in Egypt campaign: 167.
+**** european conference on data science (Wolfram+Raspberry Pi also featured)
+ :PROPERTIES:
+ :DATE: <2015-04-14 Tue 15:56>
+ :END:
+
+
+With just over one month until Wolfram descends onto Frankfurt
+for the third European Wolfram Technology Conference, there is
+limited time to register:
+http://url.wolfram.com/2B-WZK_a/
+
+You can look forward to excellent case studies and real-world
+examples, as well as a sneak peek at the future of Wolfram
+technologies!
+
+A few highlights from the program:
+
+- Signal Processing in One and More Dimensions (Markus van Almsick)
+- The Wolfram Data Science Platform (Tom Wickham-Jones)
+- Wolfram Data Drop and the Raspberry Pi for Education (Bernat Espigule-Pons)
+
+Visit our website for more information and to see the full
+program:
+http://url.wolfram.com/2.AT6Imc/
+
+We look forward to seeing you there!
+
+
+The European Technology Conference Team
+**** laurie spiegel: Research on Music and Animal Behavior
+ :PROPERTIES:
+ :DATE: <2015-04-14 Tue 18:41>
+ :END:
+
+https://independent.academia.edu/LaurieSpiegel
+**** download youtube videos without plugin or app
+ :PROPERTIES:
+ :DATE: <2015-04-14 Tue 19:03>
+ :END:
+
+To download: https://www.youtube.com/watch?v=ml9L7kv-MeY&feature=youtu.be
+add "ss" to the url like this:
+
+https://www.ssyoutube.com/watch?v=ml9L7kv-MeY&feature=youtu.be
+
+This redirects to a site that enables download in a variety of available formats.
+*** 2015-04-15 Wednesday
+**** Jacobin Magazine
+ :PROPERTIES:
+ :DATE: <2015-04-15 Wed 12:31>
+ :END:
+
+On the way to abra-electronics with Ben Spencer of Concordia MML.
+
+https://www.jacobinmag.com/
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
