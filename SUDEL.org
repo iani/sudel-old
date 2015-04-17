@@ -6,6 +6,13 @@
 Very short notes
 
 Sudelbuch
+* 2012
+** 2012-04 April
+*** 2012-04-29 Sunday
+**** Nikolas Zannos †
+ :PROPERTIES:
+ :DATE: <2012-04-29 Sun 11:30>
+ :END:
 * 2015
 ** 2015-03 March
 *** 2015-03-13 Friday
@@ -1869,6 +1876,53 @@ This redirects to a site that enables download in a variety of available formats
 On the way to abra-electronics with Ben Spencer of Concordia MML.
 
 https://www.jacobinmag.com/
+**** space scientists create common data hub universal language for mission data
+ :PROPERTIES:
+ :DATE: <2015-04-15 Wed 13:13>
+ :END:
+
+
+http://www.scientificcomputing.com/news/2015/04/space-scientists-create-common-data-hub-universal-language-mission-data
+
+Space Scientists Create Common Data Hub, Universal Language for Mission Data
+Austrian Academy of Sciences (04/10/15)
+
+A consortium of European researchers have debuted a new common data hub that will enable space scientists to compare data from numerous different space missions. This task has previously been very difficult because space missions often use purpose-built instruments, as well as data acquisition and number-crunching tools that are built using mission-specific data structures and protocols; this results in reams of data that cannot be easily compared against data from other missions. The new IMPEx portal provides space scientists with a single point of access to a suite of tools designed to make searching for, visualizing, and comparing space mission data much easier. The new portal will enable scientists to better understand complex observational data and to compare computer-simulated data with actual observational data. The tools provided by IMPEx include the CDPP AMDA (Automated Multi-Dataset Analysis) tool, which offers scientists easy-to-use data-mining capabilities. Another tool is CDPP 3DView, which offers three-dimensional visualization capabilities for data such as spacecraft trajectories and planetary ephemerides. The first application of the IMPEx tools was a detailed comparison of observational data from the European Space Agency's Venus Express mission and the U.S. National Aeronautics and Space Administration's Messenger mission to Mercury against existing simulation models.
+**** marios isaakidis #hack66 / eQualit.ie
+ :PROPERTIES:
+ :DATE: <2015-04-15 Wed 15:15>
+ :END:
+
+https://equalit.ie/
+
+http://hack66.info
+
+https://github.com/misaakidis
+
+Thessaloniki <-> Cyprus <-> Montreal
+*** 2015-04-16 Thursday
+**** data and goliath
+ :PROPERTIES:
+ :DATE: <2015-04-16 Thu 12:16>
+ :END:
+
+https://www.schneier.com/books/data_and_goliath/
+
+Data and Goliath
+The Hidden Battles to Collect Your Data and Control Your World
+A Book by Bruce Schneier
+
+-----
+
+-> Evan Light
+
+Alison Hexagram 3D Printing / Cutting Facilities @ Concordia
+**** Hossein Nasr, Frithjof Schuon, Perennialism
+ :PROPERTIES:
+ :DATE: <2015-04-16 Thu 16:31>
+ :END:
+
+Agostino Steuco, Marsilio Ficino, Giovanni Pico della Mirandola
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
