@@ -2040,6 +2040,17 @@ For more on how to actually make a RoboRoach, go here:
 
 http://www.popsci.com/science/article/2012-12/how-build-your-own-cockroach-cyborg﻿
 #+END_QUOTE
+*** 2015-04-20 Monday
+**** Dr Jim Penman: Biohistory
+ :PROPERTIES:
+ :DATE: <2015-04-20 Mon 12:06>
+ :END:
+
+#+BEGIN_QUOTE
+Founded on significant research into the physiological basis of behaviour, Biohistory is a ground-breaking scientific theory that presents an innovative investigation of the role of epigenetics in the history of civilisations from the Roman Empire to the present day. The book takes a fresh and original approach to exploring the factors that caused different civilisations to prosper and decline, and, through his analysis of human biology and the genetic causes of behaviour, Penman arrives at a startling conclusion: Western civilisation is in a state of decline and collapse.
+
+This is no shock tactic; Penman uses empirical, scientific data to present the first testable study of the role that biological factors played in the history of the West, based on the physiological mechanisms that change behaviour based on varying food conditions. Biohistory draws on the disciplines of history, biology, anthropology and economics to explain the effects of epigenetic differences on cultures, and how social change can even be predicted through biochemistry.
+#+END_QUOTE
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
