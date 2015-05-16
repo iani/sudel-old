@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Saturday 16 May 2015 10:32:31 EEST
+#+EXPORT_DATE: Saturday 16 May 2015 10:56:34 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+index:
 #+SUDEL:
@@ -2295,12 +2295,24 @@ http://elinux.org/RPi_Easy_SD_Card_Setup
  :DATE: <2015-05-15 Fri 21:55>
  :END:
 
+Here are detailed instructions:
+1. https://coderwall.com/p/uztyfw/compile-emacs-24-2-on-raspberry-pi-rasbian
+2. http://raspberrypi.stackexchange.com/questions/26911/how-to-install-emacs24-4-on-a-raspberry-pi-model-b
+
+I installed dependencies by trial-and-error until the compile succeeded.  I installed the version without x.
+
+***** Step 1: Install dependencies
+
+Before downloading Emacs 24 and installing with the instructions that follow in step 2, you must install dependencies.  I followed the instructions from http://www.emacswiki.org/emacs/EmacsSnapshotAndDebian but the instructions from the links cited above may be better.
+
+***** Step 2: Download and install EMACS 24
 http://raspberrypi.stackexchange.com/questions/26911/how-to-install-emacs24-4-on-a-raspberry-pi-model-b
 
 - Download it from GNU: wget http://gnu.mirrors.linux.ro/emacs/emacs-24.4.tar.gz
 - Unzip:tar -xzvf emacs-24.4.tar.gz
 - Navigate to the unzipped directory
 - Type ./configure
+  - Note: If you are running Raspbian without X (X windows system + libraries), then add --without-x as argument to the command.
 - After the command from step 4 is done, type: make
 - Finally type in terminal: sudo make install
 ** 2015-06 June
