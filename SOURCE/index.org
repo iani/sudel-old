@@ -1,5 +1,6 @@
-#+EXPORT_DATE: Saturday 16 May 2015 10:56:34 EEST
+#+EXPORT_DATE: Tuesday 19 May 2015 01:15:53 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
+#+_sudel-filename: index.org
 #+index:
 #+SUDEL:
 #+PM_PROJECTS: sudel org-pm-test2 project1
@@ -2259,6 +2260,7 @@ http://richardriley.net/index
  :END:
 
 http://webdesign.tutsplus.com/articles/a-simple-responsive-mobile-first-navigation--webdesign-6074
+***** IMPORTANT: VERTICALLY NESTABLE SUBMENUS
 
 See also: http://www.jqueryscript.net/demo/Slick-App-Like-Sliding-Menu-Plugin-With-jQuery-Mmenu/examples/vertical-submenus.html
 **** mmenu: a jquery-based mobile-ready hierarchical menu to adapt for org-mode generated sites
@@ -2305,6 +2307,19 @@ I installed dependencies by trial-and-error until the compile succeeded.  I inst
 
 Before downloading Emacs 24 and installing with the instructions that follow in step 2, you must install dependencies.  I followed the instructions from http://www.emacswiki.org/emacs/EmacsSnapshotAndDebian but the instructions from the links cited above may be better.
 
+The dependencies cited by the second of the above links, namely http://raspberrypi.stackexchange.com/questions/26911/how-to-install-emacs24-4-on-a-raspberry-pi-model-b, are:
+
+#+BEGIN_QUOTE
+: sudo apt-get install texinfo libncurses5-dev
+
+Install X related dependencies:
+
+: sudo apt-get install xorg-dev libpng12-dev libjpeg8-dev libgif-dev libtiff5 libtiff5-dev
+Run configure script:
+
+: ./configure --prefix /opt/emacs
+#+END_QUOTE
+
 ***** Step 2: Download and install EMACS 24
 http://raspberrypi.stackexchange.com/questions/26911/how-to-install-emacs24-4-on-a-raspberry-pi-model-b
 
@@ -2315,6 +2330,303 @@ http://raspberrypi.stackexchange.com/questions/26911/how-to-install-emacs24-4-on
   - Note: If you are running Raspbian without X (X windows system + libraries), then add --without-x as argument to the command.
 - After the command from step 4 is done, type: make
 - Finally type in terminal: sudo make install
+*** 2015-05-16 Saturday
+**** How do I hide an HTML element before the page loads
+ :PROPERTIES:
+ :DATE: <2015-05-16 Sat 21:11>
+ :END:
+
+
+http://stackoverflow.com/questions/2951053/how-do-i-hide-an-html-element-before-the-page-loads
+
+
+up vote
+4
+down vote
+favorite
+2
+I have some JQuery code that shows or hides a div.
+
+$("div#extraControls").show();   // OR .hide()
+I initially want the div to be not visible so I used:
+
+$(document).ready(function() {
+    $("div#extraControls").hide();
+});
+However, on the browser, the content loads visible for a second before disappearing, which is not what I want.
+
+How do I set the hide the element before the page loads whilst keeping the ability to show hide it dynamically with a script?
+
+javascript jquery html
+shareimprove this question
+asked Jun 1 '10 at 15:30
+
+Robert
+14.3k1785125
+add a comment
+6 Answers
+activeoldestvotes
+up vote
+16
+down vote
+accepted
+div.hidden
+{
+   display: none
+}
+
+<div id="extraControls" class="hidden">
+</div>
+
+$(document).ready(function() {
+    $("div#extraControls").removeClass("hidden");
+});
+shareimprove this answer
+answered Jun 1 '10 at 15:33
+user151323
+5
++1 One thing to note is that if the user has disabled JavaScript in the browser, the whole page stays hidden. –  Kimmo Puputti Jun 1 '10 at 16:20
+1
+From my experience some browsers will not load media (eg. images) in elements which are hidden using display:none or opacity:0. I'd recommend using visibility:hidden instead. –  mqchen Jun 1 '10 at 16:45
+1
+@mq.chen Thanks for the warning, however the visibility tag does not allow the content to be toggled with the .hide() command. –  Robert Jun 3 '10 at 12:09
+add a comment
+up vote
+2
+down vote
+In CSS:
+
+#extraControls { display: none; }
+Or in HTML:
+
+<div id="extraControls" style="display: none;"></div>
+shareimprove this answer
+answered Jun 1 '10 at 15:32
+
+Caleb
+4,0571114
+add a comment
+up vote
+2
+down vote
+Make a css class
+
+.hidden {
+display: none;
+}
+Add this to any element you don't want to be visible when loading the page. Then use $("div#extraControls").show(); to display it again.
+
+shareimprove this answer
+answered Jun 1 '10 at 15:37
+
+OMGKurtNilsen
+1,36021124
+add a comment
+up vote
+2
+down vote
+#toggleMe //Keep this in your .css file
+{
+display:none;
+visibility:inherit;
+background-color:#d2d8c9;
+}
+
+
+ <a href="#" onclick="return false;">Expand Me</a>
+ ///this way u can make a link to act like a button too
+
+ <div id="toggleMe">  //this will be hidden during the page load
+  //your elements
+ </div>
+
+///if you decide to make it display on a click, follow below:
+<script type="text/javascript" src="jquery.js"> </script> //make sure u include jquery.js file in ur project
+<script type="text/javascript">
+ $(document).ready(function () {
+        $("a").click(function () {
+            $('#toggleMe').toggle("slow"); //Animation effect
+        });
+    });
+</script>
+
+///Now for every alternate click, it shows and hides, but during page load; its hidden.
+//Hope this helps you guys ...
+shareimprove this answer
+edited Apr 11 '11 at 8:31
+
+Cody Gray
+116k15219305
+answered Apr 11 '11 at 1:48
+
+Ravi
+211
+add a comment
+up vote
+1
+down vote
+What you could do is insert a inline script tag at the end of the document, or immediately after the div with id "extraControls". Should be fire a little sooner than.
+
+<div id="extraControls">i want to be invisible!</div>
+<script type="text/javascript">$("div#extraControls").hide()</script>
+Of course you could do this server-side as well, but maybe there's a good reason you don't want to do that (like, have the controls visible if the browser does NOT support javascript).
+
+shareimprove this answer
+answered Jun 1 '10 at 15:33
+
+CharlesLeaf
+2,680914
+add a comment
+up vote
+0
+down vote
+With CSS3 you can actually hide content until a page loads by taking advantage of the :only-child selector.
+
+Here is a demonstration of how to do this. The basic idea is that CSS while loading will add a single node to the DOM while loading that node and its child nodes. Further, once a second child is added to the given parent node the :only-child selector rule is broken. We match against this selector and set display: none to hide the given node.
+
+<!doctype html>
+
+<html>
+
+  <head>
+    <title>Hide content until loaded with CSS</title>
+    <style type="text/css" media="screen">
+      .hide-single-child > :only-child {
+        display: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class='hide-single-child'>
+      <div>
+        <h1>Content Hidden</h1>
+        <script>
+          alert('Note that content is hidden until you click "Ok".');
+        </script>
+      </div>
+      <div></div>
+    </div>
+  </body>
+
+</html>
+*** 2015-05-19 Tuesday
+**** A Tolix Hopxcotch
+ :PROPERTIES:
+ :DATE: <2015-05-19 Tue 01:09>
+ :END:
+
+c/o Ivana S.
+
+#+BEGIN_SRC sc
+//: First thing to do:
+
+Server.default.boot;
+
+//: Recording!
+// Do this at the beginning, before setting up, but after booting the server:
+Server.default.prepareForRecord;
+
+//: Do this to start recording:
+Server.default.record;
+
+//: Do this to end and finalize the recording:
+Server.default.stopRecording;
+
+//: Do this to find where the recording is:
+thisProcess.platform.recordingsDir;
+//: Do this to open the directory on MacOS:
+format("open %", thisProcess.platform.recordingsDir.asCompileString).unixCmd;
+//:
+~file = FileReader.read("/Users/iani/Desktop/Tolix_A_Chair.obj");
+//: Prepare the data
+(
+~groups = nil;
+~group = nil;
+~file do: { | x |
+	if (x.size < 2) {
+		~groups = ~groups add: ~group;
+		~group = nil;
+		//	"==========================".postln;
+		//	~groups.postln;
+		//	"==========================".postln;
+	}{
+		~group = ~group add: x;
+		//	~group.postln;
+	};
+};
+"DONE".postln;
+)
+//:
+~groups.size;
+//: View an excerpt
+~file[10..20] do: { | array | array do: _.postln; };
+//: Play the data
+(
+{
+	var ugen, elements;
+	elements = ();
+	~file[10..] do: { | array |
+		array do: { | element |
+			if ([$0, $1, $2, $3, $4, $5, $6, $7, $8, $9, $-] includes: element[0];) {
+				{
+					[0.3, 1].scramble * EnvGen.kr(Env.perc(0.01, 0.1, 0.2), doneAction: 2) *
+					SinOsc.ar(element.interpret.abs * [150, 200].scramble + 200 min: 10000) }.play;
+			}{
+				ugen = elements[element.asSymbol];
+				if (ugen.isNil) {
+					ugen = [WhiteNoise, GrayNoise, PinkNoise, BrownNoise].choose;
+					elements[element.asSymbol] = ugen;
+				};
+
+				{
+					[0.3, 1].scramble * EnvGen.kr(Env.sine(0.1, 0.05), doneAction: 2) * ugen.ar()
+				}.play;
+			};
+			0.1.wait;
+		}
+	};
+}.fork;
+)
+//: Alternative playing method (was the first try)
+(
+{
+	~groups.sort({ | a, b | a.size < b.size }) do: { | g |
+		g do: { | sg |
+			sg.postln;
+			{ GrayNoise.ar *
+				EnvGen.kr(Env.sine(0.1, 0.1 * sg.size.postln),
+					doneAction: 2);
+			}.play;
+			0.1.wait;
+		};
+
+		0.2.wait;
+	}
+}.fork;
+)
+
+Server.killAll;
+
+~groups[..20] do: _.postln;
+~groups[0];
+
+~groups[4];
+
+~group[..20] do: { | g, i | postf("%: %\n\n", i, g) };
+
+//:
+Server.default.scope;
+FreqScope();
+//:
+{ WhiteNoise.ar(0.1) }.play;
+{ GrayNoise.ar(0.1) }.play;
+{ PinkNoise.ar(0.1) }.play;
+{ BrownNoise.ar(0.1) }.play;
+
+//:
+Help.gui;
+#+END_SRC
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
