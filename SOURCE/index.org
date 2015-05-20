@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Tuesday 19 May 2015 01:15:53 EEST
+#+EXPORT_DATE: Wednesday 20 May 2015 12:14:41 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -2627,6 +2627,13 @@ FreqScope();
 //:
 Help.gui;
 #+END_SRC
+*** 2015-05-20 Wednesday
+**** Gregory Kramer: Sonification book
+ :PROPERTIES:
+ :DATE: <2015-05-20 Wed 12:13>
+ :END:
+
+Kramer, Gregory, ed. (1994). Auditory Display: Sonification, Audification, and Auditory Interfaces. Santa Fe Institute Studies in the Sciences of Complexity. Proceedings Volume XVIII. Reading, MA: Addison-Wesley. ISBN 0-201-62603-9.
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
