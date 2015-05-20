@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 20 May 2015 12:14:41 EEST
+#+EXPORT_DATE: Wednesday 20 May 2015 12:18:03 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -2634,6 +2634,19 @@ Help.gui;
  :END:
 
 Kramer, Gregory, ed. (1994). Auditory Display: Sonification, Audification, and Auditory Interfaces. Santa Fe Institute Studies in the Sciences of Complexity. Proceedings Volume XVIII. Reading, MA: Addison-Wesley. ISBN 0-201-62603-9.
+**** MacOS tools for RPI: PiFiller, PeCopier, PiFinder
+ :PROPERTIES:
+ :DATE: <2015-05-20 Wed 12:15>
+ :END:
+c/o JPH:
+
+#+BEGIN_QUOTE
+I tried PiFiller, PeCopier and PiFinder: they work!
+#+END_QUOTE
+
+http://ivanx.com/raspberrypi/
+
+https://github.com/adafruit/Adafruit-Pi-Finder
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
