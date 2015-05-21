@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Thursday 21 May 2015 12:18:27 EEST
+#+EXPORT_DATE: Thursday 21 May 2015 12:22:26 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -2652,6 +2652,21 @@ https://github.com/adafruit/Adafruit-Pi-Finder
  :PROPERTIES:
  :DATE: <2015-05-21 Thu 12:17>
  :END:
+**** p2p lab ioannina
+ :PROPERTIES:
+ :DATE: <2015-05-21 Thu 12:21>
+ :END:
+
+P2P Lab is an independent media lab interested in interdisciplinary research on free/open source technologies and practices.
+http://p2plab.org/
+
+https://www.facebook.com/P2PLab
+
+http://www.p2plab.gr/en/contact
+
+http://p2plab.gr/wp-content/uploads/2013/05/STHV.pdf
+
+http://p2plab.gr/el/wp-content/uploads/2014/09/Telematics-Informatics-2.pdf
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
