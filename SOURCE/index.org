@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 20 May 2015 12:18:03 EEST
+#+EXPORT_DATE: Thursday 21 May 2015 12:18:27 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -2647,6 +2647,11 @@ I tried PiFiller, PeCopier and PiFinder: they work!
 http://ivanx.com/raspberrypi/
 
 https://github.com/adafruit/Adafruit-Pi-Finder
+*** 2015-05-21 Thursday
+**** Brer Lion and Brer Goat
+ :PROPERTIES:
+ :DATE: <2015-05-21 Thu 12:17>
+ :END:
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
