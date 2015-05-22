@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Thursday 21 May 2015 12:22:26 EEST
+#+EXPORT_DATE: Friday 22 May 2015 13:44:09 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -2667,6 +2667,15 @@ http://www.p2plab.gr/en/contact
 http://p2plab.gr/wp-content/uploads/2013/05/STHV.pdf
 
 http://p2plab.gr/el/wp-content/uploads/2014/09/Telematics-Informatics-2.pdf
+*** 2015-05-22 Friday
+**** new kid on the block: 9$ computer
+ :PROPERTIES:
+ :DATE: <2015-05-22 Fri 13:43>
+ :END:
+
+c/o JPH
+
+https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer?ref=NewsMay2115&utm_campaign=May+21&utm_medium=email&utm_source=newsletter
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
