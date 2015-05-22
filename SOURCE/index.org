@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Friday 22 May 2015 13:44:09 EEST
+#+EXPORT_DATE: Saturday 23 May 2015 01:46:32 CEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -2676,6 +2676,17 @@ http://p2plab.gr/el/wp-content/uploads/2014/09/Telematics-Informatics-2.pdf
 c/o JPH
 
 https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer?ref=NewsMay2115&utm_campaign=May+21&utm_medium=email&utm_source=newsletter
+**** Pierre Gonnord
+ :PROPERTIES:
+ :DATE: <2015-05-22 Fri 20:18>
+ :END:
+*** 2015-05-23 Saturday
+**** UDOO Neo = Raspberry Pi + Arduino + Wi-Fi + BT 4.0 + Sensors by UDOO — Kickstarter
+ :PROPERTIES:
+ :DATE: <2015-05-23 Sat 01:25>
+ :END:
+
+https://www.kickstarter.com/projects/udoo/udoo-neo-raspberry-pi-arduino-wi-fi-bt-40-sensors
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
