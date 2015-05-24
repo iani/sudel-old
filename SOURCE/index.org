@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Saturday 23 May 2015 01:46:32 CEST
+#+EXPORT_DATE: Sunday 24 May 2015 04:48:56 WEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -2687,6 +2687,188 @@ https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer
  :END:
 
 https://www.kickstarter.com/projects/udoo/udoo-neo-raspberry-pi-arduino-wi-fi-bt-40-sensors
+**** usman haque: Skyear
+ :PROPERTIES:
+ :DATE: <2015-05-23 Sat 11:57>
+ :END:
+**** sox audio file hacks
+ :PROPERTIES:
+ :DATE: <2015-05-23 Sat 16:58>
+ :END:
+
+http://www.thegeekstuff.com/2009/05/sound-exchange-sox-15-examples-to-manipulate-audio-files/
+
+***** 1. Combine Multiple Audio Files to Single File
+
+With the -m flag, sox adds two input files together to produce its output. The example below adds first_part.wav and second_part.wav leaving the result in whole_part.wav. You can also use soxmix command for this purpose.
+
+: $ sox -m first_part.wav second_part.wav whole_part.wav
+
+(or)
+
+: $ soxmix first_part.wav second_part.wav whole_part.wav
+***** 2. Extract Part of the Audio File
+
+Trim can trim off unwanted audio from the audio file.
+
+Syntax : sox old.wav new.wav trim [SECOND TO START] [SECONDS DURATION].
+
+- SECOND TO START :: – Starting point in the voice file.
+- SECONDS DURATION :: – Duration of voice file to remove.
+
+The command below will extract first 10 seconds from input.wav and stored it in output.wav
+
+: $ sox input.wav output.wav trim 0 10
+***** 3. Increase and Decrease Volume Using Option -v
+
+Option -v is used to change (increase or decrease ) the volume.
+
+****** Increase Volume
+: $ sox -v 2.0 foo.wav bar.wav
+
+****** Decrease Volume
+If we need to lower the volume on some files, we can lower them by using negative numbers. Lower Negative number will get more soft . In the following example, the 1st command (-0.5) will be louder than the 2nd command (-0.1)
+
+: $ sox -v -0.5 srcfile.wav test05.wav
+
+: $ sox -v -0.1 srcfile.wav test01.wav
+***** 4. Get Audio File Information
+
+The stat option can provide lot of statistical information about a given audio file. The -e flag tells sox not to generate any output other than the statistical information.
+
+#+BEGIN_EXAMPLE
+$ sox foo.wav -e stat
+Samples read: 3528000
+Length (seconds): 40.000000
+Scaled by: 2147483647.0
+Maximum amplitude: 0.999969
+Minimum amplitude: -1.000000
+Midline amplitude: -0.000015
+Mean norm: 0.217511
+Mean amplitude: 0.003408
+RMS amplitude: 0.283895
+Maximum delta: 1.478455
+Minimum delta: 0.000000
+Mean delta: 0.115616
+RMS delta: 0.161088
+Rough frequency: 3982
+Volume adjustment: 1.000
+#+END_EXAMPLE
+***** 5. Play an Audio Song
+
+Sox provides the option for playing and recording sound files. This example explains how to play an audio file on Unix, Linux. Playing a sound file is accomplished by copying the file to the device special file /dev/dsp. The following command plays the file music.wav: Option -t specifies the type of the file /dev/dsp.
+
+$ sox music.wav -t ossdsp /dev/dsp
+You can also use play command to play the audio file as shown below.
+
+Syntax :play options Filename audio_effects
+
+$ play -r 8000 -w music.wav
+***** 6. Play an Audio Song Backwards
+
+Use the ‘reverse’ effect to reverse the sound in a sound file. This will reverse the file and store the result in output.wav
+
+$ sox input.wav output.wav reverse
+You can also use play command to hear the song in reverse without modifying the source file as shown below.
+
+$ play test.wav reverse
+***** 7. Record a Voice File
+
+‘play’ and ‘rec’ commands are companion commands for sox . /dev/dsp is the digital sampling and digital recording device. Reading the device activates the A/D converter for sound recording and analysis. /dev/dsp file works for both playing and recording sound samples.
+
+$ sox -t ossdsp /dev/dsp test.wav
+You can also use rec command for recording voice. If SoX is invoked as ‘rec’ the default sound device is used as an input source.
+
+$ rec -r 8000 -c 1 record_voice.wav
+***** 8. Changing the Sampling Rate of a Sound File
+
+To change the sampling rate of a sound file, use option -r followed by the sample rate to use, in Hertz. Use the following example, to change the sampling rate of file ‘old.wav’ to 16000 Hz, and write the output to ‘new.wav’
+
+: $ sox old.wav -r 16000 new.wav
+***** 9. Changing the Sampling Size of a Sound File
+
+If we increase the sampling size , we will get better quality. Sample Size for audio is most often expressed as 8 bits or 16 bits. 8bit audio is more often used for voice recording.
+
+-b Sample data size in bytes
+-w Sample data size in words
+-l Sample data size in long words
+-d Sample data size in double long words
+The following example will convert 8-bit audio file to 16-bit audio file.
+
+$ sox -b input.wav -w output.wav
+***** 10. Changing the Number of Channels
+
+The following example converts mono audio files to stereo.  Use Option -c to specify the number of channels .
+
+: $ sox mono.wav -c 2 stereo.wav
+There are methods to convert stereo sound files to mono sound.  i.e to get a single channel from stereo file.
+****** DEPRECATED!: Selecting a Particular Channel
+
+Following on longer works. Use =remix= instead. See: http://sox.sourceforge.net/sox.html
+
+Extract the left channel (channel number 1) from a stereo file:
+
+: $ sox stereo.wav leftchannel.wav remix 1
+******* Not valid:
+This is done by using the avg effect with an option indicating what channel to use. The options are -l for left, -r for right, -f for front, and -b for back.  Following example will extract the left channel
+
+: $ sox stereo.wav -c 1 mono.wav avg -l
+****** Average the Channels
+: $ sox stereo.wav -c 1 mono.wav avg
+***** 11. Audio Converter – Music File Format Conversion
+
+Sox is useful to convert one audio format to another. i.e from one encoding (ALAW, MP3) to another. Sox can recognize the input and desired output formats by parsing the file name extensions . It will take infile.ulaw and creates a GSM encoded file called outfile.gsm. You can also use sox to convert wav to mp3.
+
+: $ sox infile.ulaw outfile.gsm
+If the file doesn’t have an extension in its name , using ‘-t’ option we can express our intention . Option -t  is used to specify the encoding type .
+
+: $ sox -t ulaw infile -t gsm outfile
+***** 12. Generate Different Types of Sounds
+
+Using synth effect we can generate a number of standard wave forms and types of noise. Though this effect is used to generate audio, an input file must still be given, ‘-n’ option is used to specify the input file as null file .
+
+: $ sox -n synth len type freq
+- len :: – length of audio to synthesize. Format for specifying lengths in time is hh:mm:ss.frac
+- type :: is one of sine, square, triangle, sawtooth, trapezium, exp, [white]noise, pinknoise, brown-noise. Default is sine
+- freq :: – frequencies at the beginning/end of synthesis in Hz
+
+The following example produces a 3 second 8000 kHz, audio file containing a sine-wave swept from 300 to 3300 Hz
+
+: $ sox -r 8000 -n output.au synth 3 sine 300-3300
+***** 13. Speed up the Sound in an Audio File
+
+To speed up or slow down the sound of a file, use speed to modify the pitch and the duration of the file. This raises the speed and reduces the time. The default factor is 1.0 which makes no change to the audio. 2.0 doubles speed, thus time length is cut by a half and pitch is one interval higher.
+
+Syntax: =sox input.wav output.wav speed factor=
+
+: $ sox input.wav output.wav speed 2.0
+***** 14. Multiple Changes to Audio File in Single Command
+
+By default, SoX attempts to write audio data using the same data type, sample rate and channel count as per the input data. If the user wants the output file to be of a different format then user has to specify format options. If an output file format doesn’t support the same data type, sample rate, or channel count as the given input file format, then SoX will automatically select the closest values which it supports.
+
+Converting a wav to raw. Following example convert sampling rate , sampling size , channel in single command line .
+
+$ sox -r 8000 -w -c 1 -t wav source -r 16000 -b -c 2 -t raw destination
+***** 15. Convert Raw Audio File to MP3 Music File
+
+There is no way to directly convert raw to mp3 file because mp3 will require compression information from raw file . First we need to convert raw to wav. And then convert wav to mp3.  In the exampe below, option -h indicates high quality.
+
+Convert Raw Format to Wav Format:
+
+: $ sox -w -c 2 -r 8000 audio1.raw audio1.wav
+Convert Wav Format to MP3 Format:
+
+: $ lame -h audio1.wav audio1.mp3
+**** gl1tch vs gl0tch
+ :PROPERTIES:
+ :DATE: <2015-05-23 Sat 19:23>
+ :END:
+
+after EASTN presentation at O'Culto da Ajuda, Lisbon, Musica Nova
+
+http://lists.artdesign.unsw.edu.au/pipermail/empyre/2011-December/004576.html
+
+http://systemsapproach.tumblr.com/post/13861326806/lowercase-gl1tch-vs-lowercase-gl0tch-a
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival

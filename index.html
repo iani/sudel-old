@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>index</title>
-<!-- 2015-05-23 Sat 01:46 -->
+<!-- 2015-05-24 Sun 04:49 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="IOANNIS ZANNOS" />
@@ -542,6 +542,9 @@ for the JavaScript code in this tag.
 <li><a href="#sec-2-3-14">2.3.14. 2015-05-23 Saturday</a>
 <ul>
 <li><a href="#sec-2-3-14-1">2.3.14.1. UDOO Neo = Raspberry Pi + Arduino + Wi-Fi + BT 4.0 + Sensors by UDOO — Kickstarter</a></li>
+<li><a href="#sec-2-3-14-2">2.3.14.2. usman haque: Skyear</a></li>
+<li><a href="#sec-2-3-14-3">2.3.14.3. sox audio file hacks</a></li>
+<li><a href="#sec-2-3-14-4">2.3.14.4. gl1tch vs gl0tch</a></li>
 </ul>
 </li>
 </ul>
@@ -5273,6 +5276,384 @@ c/o JPH
 </p>
 </div>
 </div>
+<div id="outline-container-sec-2-3-14-2" class="outline-5">
+<h5 id="sec-2-3-14-2"><span class="section-number-5">2.3.14.2</span> usman haque: Skyear</h5>
+<div class="outline-text-5" id="text-2-3-14-2">
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3" class="outline-5">
+<h5 id="sec-2-3-14-3"><span class="section-number-5">2.3.14.3</span> sox audio file hacks</h5>
+<div class="outline-text-5" id="text-2-3-14-3">
+
+<p>
+<a href="http://www.thegeekstuff.com/2009/05/sound-exchange-sox-15-examples-to-manipulate-audio-files/">http://www.thegeekstuff.com/2009/05/sound-exchange-sox-15-examples-to-manipulate-audio-files/</a>
+</p>
+</div>
+
+<div id="outline-container-sec-2-3-14-3-1" class="outline-6">
+<h6 id="sec-2-3-14-3-1"><span class="section-number-6">2.3.14.3.1</span> 1. Combine Multiple Audio Files to Single File</h6>
+<div class="outline-text-6" id="text-2-3-14-3-1">
+<p>
+With the -m flag, sox adds two input files together to produce its output. The example below adds first_part.wav and second_part.wav leaving the result in whole_part.wav. You can also use soxmix command for this purpose.
+</p>
+
+<pre class="example">
+$ sox -m first_part.wav second_part.wav whole_part.wav
+</pre>
+
+<p>
+(or)
+</p>
+
+<pre class="example">
+$ soxmix first_part.wav second_part.wav whole_part.wav
+</pre>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-2" class="outline-6">
+<h6 id="sec-2-3-14-3-2"><span class="section-number-6">2.3.14.3.2</span> 2. Extract Part of the Audio File</h6>
+<div class="outline-text-6" id="text-2-3-14-3-2">
+<p>
+Trim can trim off unwanted audio from the audio file.
+</p>
+
+<p>
+Syntax : sox old.wav new.wav trim [SECOND TO START] [SECONDS DURATION].
+</p>
+
+<dl class="org-dl">
+<dt> SECOND TO START </dt><dd>– Starting point in the voice file.
+</dd>
+<dt> SECONDS DURATION </dt><dd>– Duration of voice file to remove.
+</dd>
+</dl>
+
+<p>
+The command below will extract first 10 seconds from input.wav and stored it in output.wav
+</p>
+
+<pre class="example">
+$ sox input.wav output.wav trim 0 10
+</pre>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-3" class="outline-6">
+<h6 id="sec-2-3-14-3-3"><span class="section-number-6">2.3.14.3.3</span> 3. Increase and Decrease Volume Using Option -v</h6>
+<div class="outline-text-6" id="text-2-3-14-3-3">
+<p>
+Option -v is used to change (increase or decrease ) the volume.
+</p>
+</div>
+
+<div id="outline-container-sec-2-3-14-3-3-1" class="outline-7">
+<h7 id="sec-2-3-14-3-3-1"><span class="section-number-7">2.3.14.3.3.1</span> Increase Volume</h7>
+<div class="outline-text-7" id="text-2-3-14-3-3-1">
+<pre class="example">
+$ sox -v 2.0 foo.wav bar.wav
+</pre>
+</div>
+</div>
+
+<div id="outline-container-sec-2-3-14-3-3-2" class="outline-7">
+<h7 id="sec-2-3-14-3-3-2"><span class="section-number-7">2.3.14.3.3.2</span> Decrease Volume</h7>
+<div class="outline-text-7" id="text-2-3-14-3-3-2">
+<p>
+If we need to lower the volume on some files, we can lower them by using negative numbers. Lower Negative number will get more soft . In the following example, the 1st command (-0.5) will be louder than the 2nd command (-0.1)
+</p>
+
+<pre class="example">
+$ sox -v -0.5 srcfile.wav test05.wav
+</pre>
+
+<pre class="example">
+$ sox -v -0.1 srcfile.wav test01.wav
+</pre>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-4" class="outline-6">
+<h6 id="sec-2-3-14-3-4"><span class="section-number-6">2.3.14.3.4</span> 4. Get Audio File Information</h6>
+<div class="outline-text-6" id="text-2-3-14-3-4">
+<p>
+The stat option can provide lot of statistical information about a given audio file. The -e flag tells sox not to generate any output other than the statistical information.
+</p>
+
+<pre class="example">
+$ sox foo.wav -e stat
+Samples read: 3528000
+Length (seconds): 40.000000
+Scaled by: 2147483647.0
+Maximum amplitude: 0.999969
+Minimum amplitude: -1.000000
+Midline amplitude: -0.000015
+Mean norm: 0.217511
+Mean amplitude: 0.003408
+RMS amplitude: 0.283895
+Maximum delta: 1.478455
+Minimum delta: 0.000000
+Mean delta: 0.115616
+RMS delta: 0.161088
+Rough frequency: 3982
+Volume adjustment: 1.000
+</pre>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-5" class="outline-6">
+<h6 id="sec-2-3-14-3-5"><span class="section-number-6">2.3.14.3.5</span> 5. Play an Audio Song</h6>
+<div class="outline-text-6" id="text-2-3-14-3-5">
+<p>
+Sox provides the option for playing and recording sound files. This example explains how to play an audio file on Unix, Linux. Playing a sound file is accomplished by copying the file to the device special file /dev/dsp. The following command plays the file music.wav: Option -t specifies the type of the file /dev/dsp.
+</p>
+
+<p>
+$ sox music.wav -t ossdsp /dev/dsp
+You can also use play command to play the audio file as shown below.
+</p>
+
+<p>
+Syntax :play options Filename audio_effects
+</p>
+
+<p>
+$ play -r 8000 -w music.wav
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-6" class="outline-6">
+<h6 id="sec-2-3-14-3-6"><span class="section-number-6">2.3.14.3.6</span> 6. Play an Audio Song Backwards</h6>
+<div class="outline-text-6" id="text-2-3-14-3-6">
+<p>
+Use the ‘reverse’ effect to reverse the sound in a sound file. This will reverse the file and store the result in output.wav
+</p>
+
+<p>
+$ sox input.wav output.wav reverse
+You can also use play command to hear the song in reverse without modifying the source file as shown below.
+</p>
+
+<p>
+$ play test.wav reverse
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-7" class="outline-6">
+<h6 id="sec-2-3-14-3-7"><span class="section-number-6">2.3.14.3.7</span> 7. Record a Voice File</h6>
+<div class="outline-text-6" id="text-2-3-14-3-7">
+<p>
+‘play’ and ‘rec’ commands are companion commands for sox . /dev/dsp is the digital sampling and digital recording device. Reading the device activates the A/D converter for sound recording and analysis. /dev/dsp file works for both playing and recording sound samples.
+</p>
+
+<p>
+$ sox -t ossdsp /dev/dsp test.wav
+You can also use rec command for recording voice. If SoX is invoked as ‘rec’ the default sound device is used as an input source.
+</p>
+
+<p>
+$ rec -r 8000 -c 1 record_voice.wav
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-8" class="outline-6">
+<h6 id="sec-2-3-14-3-8"><span class="section-number-6">2.3.14.3.8</span> 8. Changing the Sampling Rate of a Sound File</h6>
+<div class="outline-text-6" id="text-2-3-14-3-8">
+<p>
+To change the sampling rate of a sound file, use option -r followed by the sample rate to use, in Hertz. Use the following example, to change the sampling rate of file ‘old.wav’ to 16000 Hz, and write the output to ‘new.wav’
+</p>
+
+<pre class="example">
+$ sox old.wav -r 16000 new.wav
+</pre>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-9" class="outline-6">
+<h6 id="sec-2-3-14-3-9"><span class="section-number-6">2.3.14.3.9</span> 9. Changing the Sampling Size of a Sound File</h6>
+<div class="outline-text-6" id="text-2-3-14-3-9">
+<p>
+If we increase the sampling size , we will get better quality. Sample Size for audio is most often expressed as 8 bits or 16 bits. 8bit audio is more often used for voice recording.
+</p>
+
+<p>
+-b Sample data size in bytes
+-w Sample data size in words
+-l Sample data size in long words
+-d Sample data size in double long words
+The following example will convert 8-bit audio file to 16-bit audio file.
+</p>
+
+<p>
+$ sox -b input.wav -w output.wav
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-10" class="outline-6">
+<h6 id="sec-2-3-14-3-10"><span class="section-number-6">2.3.14.3.10</span> 10. Changing the Number of Channels</h6>
+<div class="outline-text-6" id="text-2-3-14-3-10">
+<p>
+The following example converts mono audio files to stereo.  Use Option -c to specify the number of channels .
+</p>
+
+<pre class="example">
+$ sox mono.wav -c 2 stereo.wav
+</pre>
+<p>
+There are methods to convert stereo sound files to mono sound.  i.e to get a single channel from stereo file.
+</p>
+</div>
+<div id="outline-container-sec-2-3-14-3-10-1" class="outline-7">
+<h7 id="sec-2-3-14-3-10-1"><span class="section-number-7">2.3.14.3.10.1</span> DEPRECATED!: Selecting a Particular Channel</h7>
+<div class="outline-text-7" id="text-2-3-14-3-10-1">
+<p>
+Following on longer works. Use <code>remix</code> instead. See: <a href="http://sox.sourceforge.net/sox.html">http://sox.sourceforge.net/sox.html</a>
+</p>
+
+<p>
+Extract the left channel (channel number 1) from a stereo file:
+</p>
+
+<pre class="example">
+$ sox stereo.wav leftchannel.wav remix 1
+</pre>
+</div>
+<ol class="org-ol"><li><a id="sec-2-3-14-3-10-1-1" name="sec-2-3-14-3-10-1-1"></a>Not valid:<br  /><div class="outline-text-8" id="text-2-3-14-3-10-1-1">
+<p>
+This is done by using the avg effect with an option indicating what channel to use. The options are -l for left, -r for right, -f for front, and -b for back.  Following example will extract the left channel
+</p>
+
+<pre class="example">
+$ sox stereo.wav -c 1 mono.wav avg -l
+</pre>
+</div>
+</li></ol>
+</div>
+<div id="outline-container-sec-2-3-14-3-10-2" class="outline-7">
+<h7 id="sec-2-3-14-3-10-2"><span class="section-number-7">2.3.14.3.10.2</span> Average the Channels</h7>
+<div class="outline-text-7" id="text-2-3-14-3-10-2">
+<pre class="example">
+$ sox stereo.wav -c 1 mono.wav avg
+</pre>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-11" class="outline-6">
+<h6 id="sec-2-3-14-3-11"><span class="section-number-6">2.3.14.3.11</span> 11. Audio Converter – Music File Format Conversion</h6>
+<div class="outline-text-6" id="text-2-3-14-3-11">
+<p>
+Sox is useful to convert one audio format to another. i.e from one encoding (ALAW, MP3) to another. Sox can recognize the input and desired output formats by parsing the file name extensions . It will take infile.ulaw and creates a GSM encoded file called outfile.gsm. You can also use sox to convert wav to mp3.
+</p>
+
+<pre class="example">
+$ sox infile.ulaw outfile.gsm
+</pre>
+<p>
+If the file doesn’t have an extension in its name , using ‘-t’ option we can express our intention . Option -t  is used to specify the encoding type .
+</p>
+
+<pre class="example">
+$ sox -t ulaw infile -t gsm outfile
+</pre>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-12" class="outline-6">
+<h6 id="sec-2-3-14-3-12"><span class="section-number-6">2.3.14.3.12</span> 12. Generate Different Types of Sounds</h6>
+<div class="outline-text-6" id="text-2-3-14-3-12">
+<p>
+Using synth effect we can generate a number of standard wave forms and types of noise. Though this effect is used to generate audio, an input file must still be given, ‘-n’ option is used to specify the input file as null file .
+</p>
+
+<pre class="example">
+$ sox -n synth len type freq
+</pre>
+<dl class="org-dl">
+<dt> len </dt><dd>– length of audio to synthesize. Format for specifying lengths in time is hh:mm:ss.frac
+</dd>
+<dt> type </dt><dd>is one of sine, square, triangle, sawtooth, trapezium, exp, [white]noise, pinknoise, brown-noise. Default is sine
+</dd>
+<dt> freq </dt><dd>– frequencies at the beginning/end of synthesis in Hz
+</dd>
+</dl>
+
+<p>
+The following example produces a 3 second 8000 kHz, audio file containing a sine-wave swept from 300 to 3300 Hz
+</p>
+
+<pre class="example">
+$ sox -r 8000 -n output.au synth 3 sine 300-3300
+</pre>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-13" class="outline-6">
+<h6 id="sec-2-3-14-3-13"><span class="section-number-6">2.3.14.3.13</span> 13. Speed up the Sound in an Audio File</h6>
+<div class="outline-text-6" id="text-2-3-14-3-13">
+<p>
+To speed up or slow down the sound of a file, use speed to modify the pitch and the duration of the file. This raises the speed and reduces the time. The default factor is 1.0 which makes no change to the audio. 2.0 doubles speed, thus time length is cut by a half and pitch is one interval higher.
+</p>
+
+<p>
+Syntax: <code>sox input.wav output.wav speed factor</code>
+</p>
+
+<pre class="example">
+$ sox input.wav output.wav speed 2.0
+</pre>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-14" class="outline-6">
+<h6 id="sec-2-3-14-3-14"><span class="section-number-6">2.3.14.3.14</span> 14. Multiple Changes to Audio File in Single Command</h6>
+<div class="outline-text-6" id="text-2-3-14-3-14">
+<p>
+By default, SoX attempts to write audio data using the same data type, sample rate and channel count as per the input data. If the user wants the output file to be of a different format then user has to specify format options. If an output file format doesn’t support the same data type, sample rate, or channel count as the given input file format, then SoX will automatically select the closest values which it supports.
+</p>
+
+<p>
+Converting a wav to raw. Following example convert sampling rate , sampling size , channel in single command line .
+</p>
+
+<p>
+$ sox -r 8000 -w -c 1 -t wav source -r 16000 -b -c 2 -t raw destination
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-3-15" class="outline-6">
+<h6 id="sec-2-3-14-3-15"><span class="section-number-6">2.3.14.3.15</span> 15. Convert Raw Audio File to MP3 Music File</h6>
+<div class="outline-text-6" id="text-2-3-14-3-15">
+<p>
+There is no way to directly convert raw to mp3 file because mp3 will require compression information from raw file . First we need to convert raw to wav. And then convert wav to mp3.  In the exampe below, option -h indicates high quality.
+</p>
+
+<p>
+Convert Raw Format to Wav Format:
+</p>
+
+<pre class="example">
+$ sox -w -c 2 -r 8000 audio1.raw audio1.wav
+</pre>
+<p>
+Convert Wav Format to MP3 Format:
+</p>
+
+<pre class="example">
+$ lame -h audio1.wav audio1.mp3
+</pre>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-2-3-14-4" class="outline-5">
+<h5 id="sec-2-3-14-4"><span class="section-number-5">2.3.14.4</span> gl1tch vs gl0tch</h5>
+<div class="outline-text-5" id="text-2-3-14-4">
+
+<p>
+after EASTN presentation at O'Culto da Ajuda, Lisbon, Musica Nova
+</p>
+
+<p>
+<a href="http://lists.artdesign.unsw.edu.au/pipermail/empyre/2011-December/004576.html">http://lists.artdesign.unsw.edu.au/pipermail/empyre/2011-December/004576.html</a>
+</p>
+
+<p>
+<a href="http://systemsapproach.tumblr.com/post/13861326806/lowercase-gl1tch-vs-lowercase-gl0tch-a">http://systemsapproach.tumblr.com/post/13861326806/lowercase-gl1tch-vs-lowercase-gl0tch-a</a>
+</p>
+</div>
+</div>
 </div>
 </div>
 <div id="outline-container-sec-2-4" class="outline-3">
@@ -5338,7 +5719,7 @@ Roussel had kept this compositional method a secret until the publication of his
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: IOANNIS ZANNOS</p>
-<p class="date">Created: 2015-05-23 Sat 01:46</p>
+<p class="date">Created: 2015-05-24 Sun 04:49</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.4.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
