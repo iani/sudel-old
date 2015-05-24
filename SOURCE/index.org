@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Sunday 24 May 2015 04:48:56 WEST
+#+EXPORT_DATE: Sunday 24 May 2015 04:50:59 WEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
