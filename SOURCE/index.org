@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Sunday 24 May 2015 04:50:59 WEST
+#+EXPORT_DATE: Monday 25 May 2015 02:53:03 WEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -2869,6 +2869,216 @@ after EASTN presentation at O'Culto da Ajuda, Lisbon, Musica Nova
 http://lists.artdesign.unsw.edu.au/pipermail/empyre/2011-December/004576.html
 
 http://systemsapproach.tumblr.com/post/13861326806/lowercase-gl1tch-vs-lowercase-gl0tch-a
+***** From the original thread
+
+http://lists.artdesign.unsw.edu.au/pipermail/empyre/2011-December/004576.html
+
+#+BEGIN_EXAMPLE
+It is quite interesting to see how neofascism takes over our mind, how
+it forces us into a new kind of emptiness that is filled with humanoid
+misunderstandings and weirdness of any kind. It is interesting to see
+how it pushes us into a new state of mind that exists on its own
+without essence. It is quite interesting to see how we become
+antisocial in our relativistic guts just to avoid confrontation,
+confrontation with the system, just to stay within.  A system of
+what?you might ask, but I am not willing to give you an answer. It is
+your task to find out what I am talking about? Glitches of
+relativism... Glitches wherever I look; just because we never dare?
+
+Quoting Rosa Menkman <rosa_menkman at hotmail.com>:
+
+> Dear Julian, (and everybody else)
+>
+> You describe glitch art as glitch (when I read your argument you
+> give no room for glitch art cultures besides gl1tch). This implies
+> that there also is a gl0tch - if I understand you correct, you
+> locate these gl0tches as unanticipated ruptures within a logical
+> structure of technological flows (and definitely outside a realm of
+> aesthetic artifacts). This brings, as far as I can see right now,
+> three problems to the table:
+>
+> First of all, I take issue with dividing any kind of glitch fields
+> or categories into binaries, may it concern technological,
+> semiotical, political, aesthetically or fetishistically defined
+> glitches. Yes, certain forms of glitch within all these fields can
+> or will become stereotypes or even archetypes, but the issue of
+> glitch is way more complex. The creation of a binary opposition
+> within glitch art seems not only too simple, but also in conflict
+> with a genre that so often scrutinizes and aims to violate binary
+> oppositions. The glitch genre is primarily about breaking categories
+> open, uncovering what is in-between and beyond. The ?glitch? in
+> ?glitch art? does not only depend on technology, but also involves
+> ideologies and visual structures (aesthetics) including the artist?s
+> individual perspective, and the context of viewing. (From The Glitch
+> Moment(um), Rosa Menkman p. 35/36.)
+>
+>
+> Secondly; I read the "1" in gl1tch as a reference to the
+> impressor(the object)=1 vs. impression (the icon)=0 dichotomy,
+> following the text Curt Cloninger mentioned and that is based on
+> Umberto Ecos writings:
+>
+> Eco describes a phase of gradual comprehension prior to the point of
+> "naming."  By the time we say, "I saw a dog," we've already gone
+> through several levels of recognition, categorization, and
+> abstraction.  But before any of this naming happens, there is an
+> object that exists which has somehow attracted our attention to the
+> exclusion of all the other existing objects that could have
+> attracted our attention.  Eco describes this object as an impressor,
+> a cast-maker.  We are the "impresee"s, the clay into which the
+> "impressor" object presses.  The impression, the cast or mold that
+> results from this encounter, is the icon.  It is what we consider
+> the object to be.  It is not the object (cf: Magrite's "This is not
+> a pipe" painting).  This icon is an impression of the object,
+> created by the object, and thus defined by the absence of the
+> object.  In binary terms, the object is 1, and the icon is 0.
+> Presence and absence. (From lurkin' in the murk:, a unified theory
+> of congnisance, Curt Cloninger)
+>
+> gl0tch would then refer to the a-verbal, non-semiotic, pre-cognisant
+> arena, the glitch existing before recognition, categorization, and
+> abstraction. However, you refer to glitch (as opposition to gl1tch
+> and thus if I understand correctly, a gl0tch?) as an unanticipated
+> rupture within a logical structure; which actually is ad odds with
+> gl0tch which exists before semiotic understanding.
+>
+> In any case, there are a couple of variables that need to be
+> considered; the technology and its logics or set of rules, but also
+> the perceiving person, the person that uses his senses and cognition
+> (also led by knowledge) to call it the (gl)0(tch) a gl1tch. So do
+> gl0tches exist? [Do gl1tchers dream of gl0tch art?]
+> Maybe there is a continuum to be made between gl0tch-glitch-gl1tch
+> and so forth, one that is probably close to a continuum of:
+>
+> * Before the understanding of glitch (the broken, void of meaning);
+> the gl0tch
+> * an in-between phase of glitch: the tipping point or procedural
+> moment(um) of when a break can be named a "glitch".
+> This concept of moment(um) is twofold: first of all there is the
+> moment, which is experienced as the uncanny, threatening loss of
+> control, throwing the spectator into the void (of meaning). This
+> moment then itself becomes a catalyst, with a certain momentum.
+> Noise turns to glitch when it passes a momentary tipping point, at
+> which it could tip away into a failure (that which we wish to ignore
+> or did not see - here Julians "forrest-through-the-trees" argument
+> applies), or instead force new knowledge about the glitch?s techné,
+> and actual and presumed media flows, onto the viewer.
+> * The gl1tch: the glitchy-gl0tch is debugged and can also be
+> understood with other terms. This is also where a plug-and-play
+> glitch culture exists, the culture of gl1tch.
+>
+> Just to be clear: I believe that there are more layers in-between
+> these three layers, that all feedback and resonate each other.  This
+> is one more reason why I don't prefer to call one a gl1tch and
+> another a gl0tch; its more complex than this!
+>
+> Now about glitch art: I see glitch art existing in relation to all
+> three (fluid) stasis of this interrelated glitch stratification
+> (here I agree with jonCates who said that earlier). Glitch as form
+> that Cloninger would describe as: a possibility for "lurking in the
+> state of murk"; (murk referencing everything before cognition has
+> mulled it over it and made sense out of it) an opening into the
+> pre-cognisant arena of glitch, that will evaporate the moment you
+> understand it as glitch.
+> This is also why I agree with Caleb that glitch here can be used as
+> a medium, but also as a techne (for political me/assage, as an
+> aesthetic, or its semiotics to inject affect).
+>
+>
+> Thirdly: I take issue with your connection of glitch art to
+> Baudrillards principle of nullification; or how glitch art always
+> tries to become gl0tch - being void and empty - but will never will
+> reach this state of pre-cognisance and therefor is stuck into a
+> state of aesthetic banality (to be very raw).
+> I don't believe that gl1tch is the only form of glitch art. There
+> are (subtle) differences, for instance: glitch art does not need to
+> be void, but instead uses the technique of the void. Following
+> unexpected flows, it confuses the spectator bringing him into a
+> momentary void of meaning, creating a space for the active creation
+> of awareness of expected flows, logics and politics.
+> If we subscribe to the gl0tch-glitch-gl1tch paradigm, gl1tch would
+> come most close to a nullification principle, but this seems
+> serendipitously very confusing or paradoxal and I am not sure to
+> love it or to hate it, or both at the same time.
+>
+> Warmly,
+> Rosa
+>
+>
+> ---
+> now, lets watch some 01110000 01110010 01100101 00101101 01100011
+> 00110000 01100111 01101110 00110001 01110011 01100001 01101110
+> 01100011 01100101 art!
+>
+#+END_EXAMPLE
+
+***** Another comment
+
+http://lists.artdesign.unsw.edu.au/pipermail/empyre/2011-December/004577.html
+
+#+BEGIN_EXAMPLE
+IR3ABF ajaco at xs4all.nl
+Wed Dec 7 21:10:18 EST 2011
+Previous message: [-empyre-] 01101000 01100101 01101100 01101100 00101110 00110000
+Next message: [-empyre-] Remove my email
+Messages sorted by: [ date ] [ thread ] [ subject ] [ author ]
+
+Hi Rosa and all
+
+Interesting lineair thinking, reminds me of a discussion currently active on the 'asemic writing' FB group: (too bad that's it is so difficult to point to a properly usefull link, but just google around -;)
+
+But in brief:
+
+much of what you are arguing goes also for a 'definition' of 'asemic' i.e. writing without *meaning* or deliberately - but unintentionally - breaking presupposed/preconceived 'semantic and/or semiotic' rules
+
+Resulting in a clear and unpolluted - because not fitting in a presupposed, preconditioned and shaped by societal/political/informational authoritarian visual/sensual regimes - view at the *void*, thereby opening hitherto covered - by that same constrains - experiental/sensual space in *reality* as is
+
+This also connects *glitch* theory with *phenemenology* [1] and opens up previously not so outspoken positions/POV's for visual artists.
+
+Recalling the works - and methodology/intention of working  - of Cezanne [2] in this context can be a leverage to explore the impact of a *glitched/asemic* approach in an (art) historical context
+
+As for the politics, the *established art world* main purpose is just to safeguard these supposed and conditioned interpretational aspects of reality experiences and is doing so by deliberately closing the door and to hide the view on the void and seperating and isolating this in quarentaire, thereby trying to hospitalize and to contain it. Think about Ezra Pound's [3] voluntary stay in a mental hospital because of his *glitching* of the allied political status quo. This connects glitch/asemic with political/societal, (mental) hygienic regimes
+
+[1]: http://en.wikipedia.org/wiki/Maurice_Merleau-Ponty
+[2]: http://en.wikipedia.org/wiki/Paul_Cézanne
+[3]: http://en.wikipedia.org/wiki/Ezra_Pound
+
+best
+
+Andreas
+
+
+
+Sent from my eXtended BodY
+
+On 6 dec. 2011, at 20:47, Rosa Menkman <rosa_menkman at hotmail.com> wrote:
+
+> Dear Julian, (and everybody else)
+>
+
+#+END_EXAMPLE
+
+***** And since in Portugal (PT)..
+
+http://rosa-menkman.blogspot.pt/
+
+(Also: http://www.slideshare.net/r00s/i-rd-long)
+
+(Also: http://en.wikipedia.org/wiki/Rosa_Menkman)
+
+#+BEGIN_EXAMPLE
+institutions of Resolution Disputes [iRD]
+Even though the iRD mimics an institute, in reality it is not a classic, institutional organ. Instead, the iRD multiplexes the term institution, by revisiting its usage in the late 1970s. Back then, Joseph Goguen and Rod Burstall formulated the term  institution as a ‘more compound framework’, that dealt with the growing complexities at stake when connecting different logical systems (such as databases and programming languages) within computer sciences. While these institutions were put in place to connect different logical systems, they were not logical themselves.
+Inspired by the idea of hyper functional, yet illogical frameworks, the iRD is dedicated to researching the interests of anti-utopic, obfuscated, lost and unseen, or simply ‘too good to be implemented’ resolutions.
+
+
+The institutions of Resolution Disputes [iRD] call attention to media resolutions.
+While ‘the resolution’ generally simply refers to a determination of functional settings in the technological domain, the iRD stresses that a resolution is indeed an overall agreed upon settlement (solution). However, the iRD believes that a resolution also entails a space of compromise between different actors (objects, materialities, and protocols) in dispute over norms (frame rate, number of pixels etc.). Generally, settings either ossify as requirements and de facto standards, or are notated as norms by standardizing organizations such as the International Organization for Standardization. We call this progress*.
+However, resolutions are non-neutral standard settings that involve political, economical, technological and cultural values and ideologies, embedded in the genealogies and ecologies of our media. In an uncompromising fashion, quality (fidelity) speed (governed by efficiency) volume (generally encapsulated in tiny-ness for hardware and big when it comes to data) and profit (economic or ownership) have been responsible for plotting this vector of progress. This dogmatic configuration of belief x action has made upgrade culture a great legitimizer of violence, putting many insufficient technological resolutions to rest. While a resolution can thus be understood as a manifold assemblage of common - but contestable - standards, it should also be considered in terms of other options; those that are unknown and unseen, obsolete and unsupported within a time and (technological) space.
+...
+#+END_EXAMPLE
+
+
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
