@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 27 May 2015 01:47:45 EEST
+#+EXPORT_DATE: Wednesday 27 May 2015 01:51:08 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -2798,15 +2798,18 @@ The following example converts mono audio files to stereo.  Use Option -c to spe
 
 : $ sox mono.wav -c 2 stereo.wav
 There are methods to convert stereo sound files to mono sound.  i.e to get a single channel from stereo file.
-****** DEPRECATED!: Selecting a Particular Channel
+****** Extracting a Particular Channel
 
-Following no longer works. Use =remix= instead. See: http://sox.sourceforge.net/sox.html
+Note: The =avg= option is deprecated and does not work any more for extracting a single channel. Use =remix= instead. See: http://sox.sourceforge.net/sox.html
 
-Extract the left channel (channel number 1) from a stereo file:
+This is the currently working way to extract the left channel (channel number 1) from a stereo file:
 
 : $ sox stereo.wav leftchannel.wav remix 1
-******* Not valid:
+******* Following is No longer valid:
+
+#+BEGIN_QUOTE
 This is done by using the avg effect with an option indicating what channel to use. The options are -l for left, -r for right, -f for front, and -b for back.  Following example will extract the left channel
+#+END_QUOTE
 
 : $ sox stereo.wav -c 1 mono.wav avg -l
 ****** Average the Channels
