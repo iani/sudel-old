@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Monday 25 May 2015 02:58:43 WEST
+#+EXPORT_DATE: Tuesday 26 May 2015 04:09:46 CEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3077,8 +3077,34 @@ While ‘the resolution’ generally simply refers to a determination of functio
 However, resolutions are non-neutral standard settings that involve political, economical, technological and cultural values and ideologies, embedded in the genealogies and ecologies of our media. In an uncompromising fashion, quality (fidelity) speed (governed by efficiency) volume (generally encapsulated in tiny-ness for hardware and big when it comes to data) and profit (economic or ownership) have been responsible for plotting this vector of progress. This dogmatic configuration of belief x action has made upgrade culture a great legitimizer of violence, putting many insufficient technological resolutions to rest. While a resolution can thus be understood as a manifold assemblage of common - but contestable - standards, it should also be considered in terms of other options; those that are unknown and unseen, obsolete and unsupported within a time and (technological) space.
 ...
 #+END_EXAMPLE
+*** 2015-05-25 Monday
+**** Miguel Cardoso: SuperCollider, JS, Data Visualisation (Bestiario company)
+ :PROPERTIES:
+ :DATE: <2015-05-25 Mon 12:30>
+ :END:
+
+c/o Antonio Sousa Diaz.
+
+http://www.344server.org/
+
+http://www.344server.org/metabolicvisualizer/
+
+http://www.bestiario.org/ (Barcelona)
+
+https://github.com/Thr44
+
+http://www.344server.org/phD/docs/Help/Thr44.html
+**** Daniel Fox: Musician, Mathematician, Composer
+ :PROPERTIES:
+ :DATE: <2015-05-25 Mon 14:36>
+ :END:
 
 
+https://gc-cuny.academia.edu/DanielFox
+
+#+BEGIN_QUOTE
+Daniel Fox is a composer and a mathematician. He was born and raised outside of Philadelphia.  He received a BA in Mathematics and Theoretical Physics from Hampshire College (2000) and a PhD (2005) in Mathematics from Duke University. After receiving his PhD he studied flamenco guitar in Seville with Juan del Gastor.  He was a Visiting Assistant Professor in the Mathematics Department at UC Irvine and a National Science Foundation International Research Fellow at Oxford University.  His mathematical research focuses on calibrated geometry and integrable systems.  He has studied composition with Phillip Cooke, Andrew McPherson, Maurice Wright, Jan Krzywicki, and Matthew Greenbaum
+#+END_QUOTE
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
