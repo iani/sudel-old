@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Tuesday 26 May 2015 04:09:46 CEST
+#+EXPORT_DATE: Wednesday 27 May 2015 00:04:27 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -1767,7 +1767,7 @@ More recently, I have done design research with my students on such topics as th
 
 http://hipacc.ucsc.edu/html/Projects&Collaborations.html
 *** 2015-04-10 Friday
-**** history, cultue and food security outlook burkina faso, global hunger index
+**** history, culture and food security outlook burkina faso, global hunger index
  :PROPERTIES:
  :DATE: <2015-04-10 Fri 11:19>
  :END:
@@ -2212,18 +2212,14 @@ And here are the frequencies for the 7 pitches noted on the score by Ελευθ�
  :DATE: <2015-05-14 Thu 17:39>
  :END:
 http://www.wisdomandwonder.com/tag/programming-language
-**** org-io-slide
- :PROPERTIES:
- :DATE: <2015-05-14 Thu 17:41>
- :END:
-
-https://coldnew.github.io/slides/org-ioslide/#1
 **** org-ioslide: newest cool slide generator for Org-Mode
  :PROPERTIES:
  :DATE: <2015-05-14 Thu 17:48>
  :END:
 
 https://github.com/coldnew/org-ioslide
+https://coldnew.github.io/slides/org-ioslide/#1
+
 *** 2015-05-15 Friday
 **** apple pie rpi first aid
  :PROPERTIES:
