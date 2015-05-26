@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 27 May 2015 00:04:27 EEST
+#+EXPORT_DATE: Wednesday 27 May 2015 01:25:40 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3100,6 +3100,39 @@ https://gc-cuny.academia.edu/DanielFox
 
 #+BEGIN_QUOTE
 Daniel Fox is a composer and a mathematician. He was born and raised outside of Philadelphia.  He received a BA in Mathematics and Theoretical Physics from Hampshire College (2000) and a PhD (2005) in Mathematics from Duke University. After receiving his PhD he studied flamenco guitar in Seville with Juan del Gastor.  He was a Visiting Assistant Professor in the Mathematics Department at UC Irvine and a National Science Foundation International Research Fellow at Oxford University.  His mathematical research focuses on calibrated geometry and integrable systems.  He has studied composition with Phillip Cooke, Andrew McPherson, Maurice Wright, Jan Krzywicki, and Matthew Greenbaum
+#+END_QUOTE
+*** 2015-05-27 Wednesday
+**** Herzog's Fata Morgana and Heidegger's boredom @ empyre - soft skinned space
+ :PROPERTIES:
+ :DATE: <2015-05-27 Wed 01:23>
+ :END:
+
+#+BEGIN_QUOTE
+Re: [-empyre-] All call: subscribers interested in Boredom: Labor, Use and Time
+
+----------empyre- soft-skinned space----------------------
+Hi Erin, hi Jason,
+
+"...Nevertheless, Heidegger articulates a specific mode of hearing and seeing connected with boredom, when he writes of “being compelled to listen to what profound boredom gives us to understand” and of “being impelled through the entrancement of time toward the moment of vision as the temporal character of being held in limbo.”..."
+
+Erin, what strikes me in the above passage is Heidegger's focus on "compulsion," on "being impelled." My question is where does this compulsion come from, from outside or inside? Heidegger, I think, does not consider that distinction (I may be wrong). If it is from inside, then, is that compulsion not the same as consciousness. A voluntary, conscious focus?
+
+If it is from outside, paradoxically, it may stir (in Jason's word "trigger") a freer kind of daydreaming, which is basically a rebellion to compulsion. That rebellion may or may not return into a state of active consciousness (in Heidegger's sense inner compulsion/drive).
+
+The phrase "the temporal character of being held in limbo" is, I think, very close to Deleuze's idea of time image, a consciousness (to the extent that one is attending to the film) of the passing of time. (Can boredom become pleasure at the moment or do they alternate in superfast sequences or do they synthesize?)
+
+Jason, it is striking how, as far as I can see, you exclude compulsion, replacing it with "trigger," which in my view is its opposite. I see one obstacle with your analysis. In my experience, surfing the web very rarely leads to something positive outside itself, unless it is done for some purpose of a search. Otherwise, it is not a trigger, but an attempt to escape from boredom, the question we tried to tackle in the previous weeks.
+
+Your comments on the field of grass are right on. In a poetry workshop I led at Naropa (Insitute of Disembodied Poetics) my students chose to present the ultimate achievement of the work done in the one-week workshop to the entire school by merely showing the beginning 8/10 minutes of Herzog's Fata Morgan where planes at an airport land one after another as, in subtle ways, the the thickness of air around the landing planes increases. The presenter was one of the students. He said not one single work. He showed the clip and left the stage.
+I had started my workshop by showing the students this initial clip and asked them why Herzog is doing that. Obviously, that question lingered in their minds. First, they were bored, then some began to sense that repetition was doing something. I didn't tell them anything about the haze. To tell the truth, I was not aware of it consciously myself, but later heard Herzog talking about it though not necessarily about the landing planes.
+
+Every other workshop had a elaborate, value added presentation. Except for one single person, the reaction of the audience to us was, to put it mildly, a stunned shock.
+
+Jason, the example of Eric Souther's "Search Engine Vision" is different. There, one is not surfing (though Eric built it using the method), but one is watching which is a more purposeful activity.
+
+Ciao,
+
+Murat
 #+END_QUOTE
 ** 2015-06 June
 *** 2015-06-05 Friday
