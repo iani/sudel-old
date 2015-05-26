@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 27 May 2015 01:25:40 EEST
+#+EXPORT_DATE: Wednesday 27 May 2015 01:47:45 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -2800,7 +2800,7 @@ The following example converts mono audio files to stereo.  Use Option -c to spe
 There are methods to convert stereo sound files to mono sound.  i.e to get a single channel from stereo file.
 ****** DEPRECATED!: Selecting a Particular Channel
 
-Following on longer works. Use =remix= instead. See: http://sox.sourceforge.net/sox.html
+Following no longer works. Use =remix= instead. See: http://sox.sourceforge.net/sox.html
 
 Extract the left channel (channel number 1) from a stereo file:
 
