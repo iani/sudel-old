@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 27 May 2015 01:51:08 EEST
+#+EXPORT_DATE: Wednesday 27 May 2015 08:31:36 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3137,6 +3137,15 @@ Ciao,
 
 Murat
 #+END_QUOTE
+**** A Paper on Sonification with Raspberry Pi
+ :PROPERTIES:
+ :DATE: <2015-05-27 Wed 08:29>
+ :END:
+
+
+Sam Ferguson: Sonifying every day: Activating everyday interactions for ambient sonification systems
+
+https://smartech.gatech.edu/bitstream/handle/1853/51644/10_S3-2_Ferguson.pdf
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
