@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Friday 29 May 2015 07:51:19 EEST
+#+EXPORT_DATE: Saturday 30 May 2015 00:25:54 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3210,6 +3210,123 @@ Others:
 Νίτσε: μία τέτοια προσέγγιση ασκεί βία στις μεμονωμένες τέχνες θυσιάζοντας τις για μία επίφαση ολότητηας. Αυτή η επίδειξη ολότητηας εμπεριέχει τον κίνδυνο του ερασιτεχνισμού.
 
 Μάνος Περάκης: Το καθολικό έργο τέχνης πρεσβεύει μία αισθητική του ελάχιστου που είνια το ίδιον του ρομαντισμού.
+*** 2015-05-29 Friday
+**** Anastasia Pistofidu + Marcelo Queiroz @ AVARTS
+ :PROPERTIES:
+ :DATE: <2015-05-29 Fri 11:20>
+ :END:
+***** AP
+
+- Barcelona Interactive model 2010: Sensors monitoring environment in the local environment around FabLab BCN
+- Martin Gayford (2012) Old Media, Digitized, Make New Forms. MIT Technology Review, October 24, 2012.
+  - On Michelangelo's Rape of the Sabine Women. Its process of casting into copper.
+- Onward from the 2nd industrial revolution to the 3d revolution: "Maker Culture".
+  - Jeremy Rifkin: The Third Industrial Revolution
+- Neil Gershenfeld: The future is turning data onto things, but it's not additive or subtractive.
+- 2012 Patent of Stereo Lithography runs out -> Technology becomes broadly accessible. Many variants are developed.
+- "Air printing".
+  - Sofoklis: Print with environmentally friendly materials (earth/clay...)
+- Smart city / smart citizen
+  - The Smart Citizen Kit: Crowdsourced Environmental Monitoring @ Kickstarted
+***** MQ
+
+- Two groups:
+  1. Sonology & Music Technology Research Group
+     - @Music Dept
+     - 3 Profs + 2 Post-docs
+     - About 20 students (Undergrad, MA, PhD)
+  2. Computer Music Research Group (aka: Sound Computing)
+     - @Computer Science Dept (Inst of Math & Stats)
+     - 3 Profs and 2 post-doc
+     - About 16 students (undergrad, Msc, PhD)
+
+- Projects:
+  - AcMus: room acoustics (2002-2006)
+    - Open source software for room acoustics
+    - Simulation: Obtaining impulse response from 3d model
+    - Acousti tools: Modal room response ,reverberation times, Schroeder diffusor design, auralization, optimization based design
+    - http://compmus.ime.usp.br/acmus
+  - Mobile: interactive processes and systems (2009-2013)
+    - Promote research on interactive processes within technologically-mediated music production
+    - Deepen the discussion around theoretial and conceptual aspects of in teracitive music processes
+
+- NuSom Research Center (Sonology Research Center)
+  - Created 2014
+  - Coordinator: Fernando Iazzetta (Music Dept)
+  - Vice-coordinator: Marelo Queiroz (Comp Sci Dept)
+  - Partners in several Brazilian institutions, but also at SARC and McGill.
+  - Goals:
+    - Explore connections
+    - ...
+    - Blur boundaries between research / creation
+  - Recent works
+    - Experimental Music, Philosophical Issues, Urban Ethnographies
+    - Circuit bending
+    - Arduino and GPU for audio DSP + synthesis
+    - Intelligent interactive environments (Tiago Andrade Togores - MS)
+    - Automatic accompannment systems (Roberto Piassi Bodo)
+    - Nonlinear sound synthesis techniques (ANtonio Jose H. Goulard - PhD)
+    - Multiagent music systnems (Pedro Henrique Rocha Bruel - undergrad)
+    - Sound processing on mobile platforms
+    - Relating traditional instruments with new digital ones
+    - Using cell phones
+    - Collaborative concerts via internet
+    - Fusion of visual art and sound art.
+    - OS support for game design
+    - Machine learning applied to racing games
+    - Intelligent interactive museums
+    - Physical modeling of voice and musical instruments.
+
+- Technological problems and contributions
+  - OpenAUDIENCE (Regis Faria & collaborators)
+    - Rendder 3D sound using ambisonics, 3d panning
+    - HRTF filters. Interpolate between points in measurement databased (Gustavo H.M. Sousa)
+    - Music structure segmentation based on timbre (André S. Pires)
+    - Crosslingual voice conversion (Anderson F. Machado)
+      - Convrt voice timbre in recorded sentences, keeping prosody without changing text
+
+    - Medusa: A distributed sound environment (Flávio L. Schiavoni)
+      - Provides multichannel network connections for interactive audio.
+
+- Artistic part
+  - Hyperflute by Cesar Villavicencio
+  - Compro Ouro, by Giuliano Obici
+    - Idea: Street Gold buyers
+    - Variation: Offer Money for people to listen to music
+  - Happy Cube (Julián Jaramillo)
+  - MOBILE board / Tabua MOBILE (Henrique Iwao, Marcelo Muniz, Bory Duque) (see: Herbert Bruhn, utensil piece)
+  - LanHouse Concert (Giuliano Obici, Flávio Schiavoni)
+    - Networked audiovisual installation/composition
+  - Conexões dispersas/dispersões conexas (Lílian Campesato, Julián Jaramillo, Vitor Kisil)
+    - Interactive musical performance that explores realtime generation of audiovisual material by manipulation of objects and tactile interfaces.
+  - Por Trás das Coisas (Behind Things, 18-19/10/2010)
+    -edia performance, directed by Fernando Iazzetta, presented in SOFTBORDERS: New Media Art International Conference
+  - ¿Música? series
+  - NetConcert series
+    - São Paulo <-> SARC (Pedro Rebelo)
+
+- International cooperation
+  - SARC
+  - CCMAS (Mexico)
+  - Maynooth University
+  - University of Michigan
+  - National and Kapodistrian University of Athens
+  - Aristotel University of THessaloniki
+
+General Chord Types (GCTs) from Audio
+2nd-order Markov Models for harmonization
+
+
+these slides:
+www.ime.usp.br/~mqz/CORDU2015.pdf
+
+(Several subprojects ...)
+
+Problem: Keeping research software "alive" and functioning as OS versions change.
+**** discussion with Marcelo Queiroz
+ :PROPERTIES:
+ :DATE: <2015-05-29 Fri 17:09>
+ :END:
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
