@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Thursday 28 May 2015 08:58:56 EEST
+#+EXPORT_DATE: Friday 29 May 2015 07:51:19 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3153,6 +3153,63 @@ https://smartech.gatech.edu/bitstream/handle/1853/51644/10_S3-2_Ferguson.pdf
  :END:
 
 https://vimeo.com/88592152
+**** Making Connections: Novapool Telematic Dance Project
+ :PROPERTIES:
+ :DATE: <2015-05-28 Thu 16:18>
+ :END:
+
+Pauline Brooks (?)
+**** Kripke: Following a rule, Zumtor: Mouvance (Κύλιση)
+ :PROPERTIES:
+ :DATE: <2015-05-28 Thu 16:18>
+ :END:
+**** embodiment
+ :PROPERTIES:
+ :DATE: <2015-05-28 Thu 16:29>
+ :END:
+
+A feeling, thinking, sensate self (Popat)
+A bodily way of being in the world (Merleau Ponty)
+
+
+Thomas Hanna: somatics (Somatics Educational Resources, 2014)
+
+Thekla Schiphorst
+
+**** Επίκριση του χώρου και του Χρόνου / Kritik von Raum und Zeit
+ :PROPERTIES:
+ :DATE: <2015-05-28 Thu 17:58>
+ :END:
+
+Wahrheims?
+
+Others:
+
+- Παρμενίδης
+- Πρωταγόρας
+- Δημόκριτος
+- Πλάτων
+- Αριστοτέλης
+- Επίκουρος
+
+- Hobbes
+- Croce
+- Bergson
+- Dewey
+- Kant
+
+------
+
+- Merleau-Ponty
+- Sartre: (Image family, imaging / imagining)
+**** Nietzsche - Περάκης on Gesamtkunstwerk
+ :PROPERTIES:
+ :DATE: <2015-05-28 Thu 18:54>
+ :END:
+
+Νίτσε: μία τέτοια προσέγγιση ασκεί βία στις μεμονωμένες τέχνες θυσιάζοντας τις για μία επίφαση ολότητηας. Αυτή η επίδειξη ολότητηας εμπεριέχει τον κίνδυνο του ερασιτεχνισμού.
+
+Μάνος Περάκης: Το καθολικό έργο τέχνης πρεσβεύει μία αισθητική του ελάχιστου που είνια το ίδιον του ρομαντισμού.
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
