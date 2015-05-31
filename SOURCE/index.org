@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Sunday 31 May 2015 11:31:17 EEST
+#+EXPORT_DATE: Sunday 31 May 2015 13:03:49 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3327,6 +3327,13 @@ Problem: Keeping research software "alive" and functioning as OS versions change
  :PROPERTIES:
  :DATE: <2015-05-29 Fri 17:09>
  :END:
+*** 2015-05-31 Sunday
+**** Victoria Vesna on Hybrid Art
+ :PROPERTIES:
+ :DATE: <2015-05-31 Sun 13:03>
+ :END:
+
+http://www.aec.at/aeblog/en/2015/03/24/was-ist-hybrid-art/
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
