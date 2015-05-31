@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Sunday 31 May 2015 13:03:49 EEST
+#+EXPORT_DATE: Monday 01 June 2015 02:40:12 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3334,6 +3334,24 @@ Problem: Keeping research software "alive" and functioning as OS versions change
  :END:
 
 http://www.aec.at/aeblog/en/2015/03/24/was-ist-hybrid-art/
+**** A project with immigrants at AES
+ :PROPERTIES:
+ :DATE: <2015-05-31 Sun 13:11>
+ :END:
+
+http://www.aec.at/aeblog/en/2015/05/13/welche-strassennamen-braucht-das-21-jahrhundert/
+
+#+BEGIN_QUOTE
+Working on a new project in 2004, Stephen and I were taking photographs in Hillbrow, one of Johannesburg’s most notorious neighborhoods, and a French-speaking West African man came up and warned us that this is a dangerous area and we should watch out. Now, in South Africa, we have 11 official languages but French isn’t one of them. So, in our own city, we were being treated like tourists by an immigrant. The memory of this incident stayed with us, and, a few years later, when we were invited to produce a project in Dakar, Senegal, we had recourse to this experience. Otherwise, we had no connection to Dakar and had never been there. We were looking for Senegalese immigrants for our project in Hillbrow. Due to the prevalent xenophobia there, most of the immigrants in Johannesburg were pretty reticent and dealt with us mistrustfully. We asked the immigrants in Hillbrow to draw us street maps of Dakar, and we got about 10 hand-drawn maps. And when Stephen and I traveled to Dakar, we attempted to find our way there using these hand-drawn maps. Without Google Maps, current street maps or material from the tourist information office, we roamed Dakar for 10 days. But the most important part of the project didn’t begin until we got back to Hillbrow. We showed the immigrants from Dakar the photos we had taken in Dakar during our tour, and the result was closer relationships to these immigrants, relationships that have lasted to this day and also influenced some of our projects in public spaces in Johannesburg.
+#+END_QUOTE
+**** raspberry pi B, Beagle Bone, Intel Edison comparative benchmarks
+ :PROPERTIES:
+ :DATE: <2015-05-31 Sun 15:31>
+ :END:
+
+Intel Edison faster?
+
+http://www.davidhunt.ie/raspberry-pi-beaglebone-black-intel-edison-benchmarked/
 ** 2015-06 June
 *** 2015-06-05 Friday
 **** biografilm festival
