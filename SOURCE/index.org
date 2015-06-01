@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Monday 01 June 2015 02:40:12 EEST
+#+EXPORT_DATE: Monday 01 June 2015 16:27:08 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3353,6 +3353,13 @@ Intel Edison faster?
 
 http://www.davidhunt.ie/raspberry-pi-beaglebone-black-intel-edison-benchmarked/
 ** 2015-06 June
+*** 2015-06-01 Monday
+**** John Baez notes on exploring climate data
+ :PROPERTIES:
+ :DATE: <2015-06-01 Mon 16:26>
+ :END:
+
+http://math.ucr.edu/home/baez/ecological/shayda/exploring_climate_data_1.txt
 *** 2015-06-05 Friday
 **** biografilm festival
  :PROPERTIES:
