@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Tuesday 02 June 2015 10:18:52 EEST
+#+EXPORT_DATE: Wednesday 03 June 2015 13:09:40 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3318,7 +3318,7 @@ General Chord Types (GCTs) from Audio
 
 
 these slides:
-www.ime.usp.br/~mqz/CORDU2015.pdf
+www.ime.usp.br/~mqz/CORFU2015.pdf
 
 (Several subprojects ...)
 
