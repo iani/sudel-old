@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 03 June 2015 13:09:40 EEST
+#+EXPORT_DATE: Wednesday 03 June 2015 13:10:43 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3230,6 +3230,8 @@ Others:
   - The Smart Citizen Kit: Crowdsourced Environmental Monitoring @ Kickstarted
 ***** MQ
 
+The slides for this talk can be found here: http://www.ime.usp.br/~mqz/CORFU2015.pdf
+
 - Two groups:
   1. Sonology & Music Technology Research Group
      - @Music Dept
@@ -3315,10 +3317,6 @@ Others:
 
 General Chord Types (GCTs) from Audio
 2nd-order Markov Models for harmonization
-
-
-these slides:
-www.ime.usp.br/~mqz/CORFU2015.pdf
 
 (Several subprojects ...)
 
