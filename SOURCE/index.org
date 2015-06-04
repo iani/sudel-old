@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 03 June 2015 13:10:43 EEST
+#+EXPORT_DATE: Thursday 04 June 2015 22:40:47 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3368,7 +3368,11 @@ http://math.ucr.edu/home/baez/ecological/shayda/exploring_climate_data_1.txt
 See also: http://www.brainpickings.org/2012/12/21/best-music-books-2012/
 
 And also: http://www.brainmusic.org/ THE INSTITUTE FOR MUSIC & BRAIN SCIENCE
-
+*** 2015-06-04 Thursday
+**** Raymond Carver: Cathedral
+ :PROPERTIES:
+ :DATE: <2015-06-04 Thu 22:40>
+ :END:
 *** 2015-06-05 Friday
 **** biografilm festival
  :PROPERTIES:
