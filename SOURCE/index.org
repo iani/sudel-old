@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Thursday 04 June 2015 22:40:47 EEST
+#+EXPORT_DATE: Friday 05 June 2015 10:24:46 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3380,3 +3380,7 @@ And also: http://www.brainmusic.org/ THE INSTITUTE FOR MUSIC & BRAIN SCIENCE
  :END:
 
 http://www.biografilm.it/2015/
+**** Ōbaku
+ :PROPERTIES:
+ :DATE: <2015-06-05 Fri 10:24>
+ :END:
