@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Friday 05 June 2015 20:15:51 EEST
+#+EXPORT_DATE: Sunday 07 June 2015 03:42:13 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3387,4 +3387,9 @@ http://www.biografilm.it/2015/
 **** Subhuti
  :PROPERTIES:
  :DATE: <2015-06-05 Fri 20:15>
+ :END:
+*** 2015-06-07 Sunday
+**** tanzan
+ :PROPERTIES:
+ :DATE: <2015-06-07 Sun 03:41>
  :END:
