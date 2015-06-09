@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Sunday 07 June 2015 03:42:13 EEST
+#+EXPORT_DATE: Tuesday 09 June 2015 11:07:26 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3393,3 +3393,25 @@ http://www.biografilm.it/2015/
  :PROPERTIES:
  :DATE: <2015-06-07 Sun 03:41>
  :END:
+**** Khemo Sutta and ...
+ :PROPERTIES:
+ :DATE: <2015-06-07 Sun 11:33>
+ :END:
+... http://mathoverflow.net/questions/208604/about-the-prime-divisors-of-values-of-polynomials
+**** on calendars
+ :PROPERTIES:
+ :DATE: <2015-06-07 Sun 12:18>
+ :END:
+
+http://www.numericana.com/answer/calendar.htm
+*** 2015-06-08 Monday
+**** tibetan writing
+ :PROPERTIES:
+ :DATE: <2015-06-08 Mon 20:28>
+ :END:
+
+http://www.thlib.org/reference/transliteration/#!essay=/thl/phonetics/s/b2
+http://fpmt.org/wp-content/uploads/sites/2/2007/08/an_introduction_to_tibetan_prefixes.pdf?4e84cd
+
+http://www.slideshare.net/Zefortiche/rules-of-pronounciation
+http://www.rigpawiki.org/index.php?title=Tibetan_Grammar_-_Formation_of_the_Tibetan_Syllable
