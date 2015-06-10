@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Tuesday 09 June 2015 11:07:26 EEST
+#+EXPORT_DATE: Wednesday 10 June 2015 08:40:15 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3415,3 +3415,26 @@ http://fpmt.org/wp-content/uploads/sites/2/2007/08/an_introduction_to_tibetan_pr
 
 http://www.slideshare.net/Zefortiche/rules-of-pronounciation
 http://www.rigpawiki.org/index.php?title=Tibetan_Grammar_-_Formation_of_the_Tibetan_Syllable
+*** 2015-06-09 Tuesday
+**** genetic algorithm concepts
+ :PROPERTIES:
+ :DATE: <2015-06-09 Tue 11:23>
+ :END:
+
+Concept listing from: http://en.wikipedia.org/wiki/Genetic_algorithm:
+
+- Search Heuristic
+- Natural selection
+- Metaheuristic
+- Optimization
+- Search Problem
+- Evolutionary Algorithm
+- Inheritance
+- Mutation
+- Selection
+- Crossover
+- Genetic representation (of solution domain)
+- Fitness function
+- Phenotype
+
+See also: http://www.ai-junkie.com/ga/intro/gat1.html
