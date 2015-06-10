@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 10 June 2015 08:40:15 EEST
+#+EXPORT_DATE: Wednesday 10 June 2015 11:07:49 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3438,3 +3438,10 @@ Concept listing from: http://en.wikipedia.org/wiki/Genetic_algorithm:
 - Phenotype
 
 See also: http://www.ai-junkie.com/ga/intro/gat1.html
+*** 2015-06-10 Wednesday
+**** Greek lexikon online: Τριανταφυλλίδης
+ :PROPERTIES:
+ :DATE: <2015-06-10 Wed 11:06>
+ :END:
+
+http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
