@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 10 June 2015 11:07:49 EEST
+#+EXPORT_DATE: Saturday 13 June 2015 22:00:37 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3445,3 +3445,324 @@ See also: http://www.ai-junkie.com/ga/intro/gat1.html
  :END:
 
 http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
+*** 2015-06-11 Thursday
+**** another large number
+ :PROPERTIES:
+ :DATE: <2015-06-11 Thu 01:09>
+ :END:
+
+http://www.cs.nyu.edu/pipermail/fom/2006-April/010362.html
+
+#+BEGIN_QUOTE
+THEOREM 2. SCG(13) is larger than the halting time of any Turing machine at
+the blank tape, that can be proved to halt in at most 2^[2000] symbols in
+Pi11-CA0. In particular, every proof of "SSCG(13) exists" in Pi11-CA0 has
+more than 2^[1000] symbols.
+
+It is easily seen that TREE[3] is completely UNNOTICEABLE in comparison to
+SCG(13).
+#+END_QUOTE
+**** Best 50 TV Series on Netflix
+ :PROPERTIES:
+ :DATE: <2015-06-11 Thu 13:31>
+ :END:
+
+http://uproxx.com/tv/2015/01/the-50-best-tv-series-on-netflix-ranked/
+
+The 50 Best TV Series On Netflix, Good Shows Ranked
+
+BY DUSTIN ROWLES • 01.07.15 #ARCHER #ARRESTED DEVELOPMENT #BOB'S BURGERS #BREAKING BAD #FRIENDS #HOUSE OF CARDS #MAD MEN #NETFLIX #ORANGE IS THE NEW BLACK #SCANDAL #THE OFFICE
+freaks_and_geeks_rect-1
+
+NBC
+
+
+There are plenty of good TV shows on Netflix.  If you’re trying to figure out what to watch next, here’s a great place to start with a look at the 50 Best TV series on the streaming service.
+***** Broadchurch
+BBC
+
+
+50. Broadchurch (1 of 1 seasons) — A couple of years ago, Broadchurch was the most popular show of all time on social media in the United Kingdom, and for good reason: It was a terrific, dark and bleak whodunnit about the mystery behind the murder of a small boy in a quiet, seaside town in the UK. David Tennant was so great in it he reprised his role in the little seen and cancelled Fox adaptation of the show, Gracepoint. But it’s 2014 — you don’t need to watch the watered-down broadcast network remake. You can watch the original on Netflix.
+***** soa
+FX
+
+
+49. Sons of Anarchy (6 of 7 seasons) — Seasons three to five were wildly inconsistent, but the first two seasons were some of the most intense and violent television you’ll ever watch (as was the sixth season). Described early on as The Sopranos with motorcycles, Sons is an intermittently great show, although it’s clusterf*ck of a final season (which hasn’t yet been added to Netflix) is why Sons appears so low on the list.
+***** theleague
+
+FXX
+
+
+48. The League (5 of 6 seasons) — A combination of It’s Always Sunny in Philadelphia, Curb Your Enthusiasm and fantasy football, it’s not as funny as Sunny, but it’s also not as misanthropic as Curb. It’s awkward humor that never feels uncomfortable, and features in a recurring role the best comedy character on television right now that’s not Ron Swanson: Jason Mantzoukas’ Rafi.
+***** Scandal
+
+ABC
+
+
+47. Scandal (3 of 4 seasons) — Watching the first two seasons of Scandal, you can’t help but feel like the outlandish, bonkers plotlines will eventually stretch themselves too far, and that does happen, but not until season three. The first two seasons, however, are insane and wildly addictive, the exact kind of show that works best on a streaming service like Netflix, because it’s impossible not to want to plow through to find out what crazy plot twist will consume the show next.
+***** arrow season three
+THE CW
+
+
+46. Arrow (2 of 3 seasons) — Arrow may not get the attention of Marvel’s Agents of SHIELD, but it is the best superhero TV series on the air right now. It’s a potent combination of dark but attractive characters, addictive serialized storylines and villains of the week, and an attractive cast buoyed by one of the coolest guys on television, Stephen Amell. Forty-four episodes may seem daunting, but they go down quickly and sweetly, like candy.
+***** top lake
+IFC
+
+
+45. Top of the Lake (1 of 1 seasons) — The six-episode Elisabeth Moss drama — which can best be described as a cross between Twin Peaks and The Killing — is an engrossing miniseries that follows the investigation of a missing girl and her f***ed up, drug-dealing incestuous family, who are accused of being behind the kidnapping. The Jane Campion series is slow-burning, but engrossing television, and features phenomenal performances all around, especially that of Moss.
+***** Fringe2
+FOX
+
+
+44. Fringe (5 of 5 seasons) — The first of several J.J. Abrams created series on this list, and yet another J.J. Abrams series that had terrific runs, and dismal ones. Fringe was brilliant, except when it wasn’t, and while it pushed the boundaries of sci-fi, it often overstepped its limits (SOUL MAGNETS). Still, even when the series wasn’t entirely up to snuff, John Noble was always around, and never failed to enliven each and every episode.
+
+Image (16) psych_ver3_xlg1.jpg for post 428445
+USA
+***** Psych
+43. Psych (8 of 8 seasons) — Still another series that was absolutely brilliant for several seasons, and then ran out of steam. The comedy procedural works best when it’s riffing on other genres (and in particular, the 80s/early 90s), but the chemistry between Shawn and Gus never wears thin, even when the writing and the case work often does.
+***** damages
+FX
+
+
+42. Damages (5 of 5 season) — Created by Todd Kessler — a writer on The Sopranos — the Glenn Close character is actually based on David Chase, and if the character is any indication, Chase was a monster to work for. Each season centers around one major case, and the quality of the show depends on the season (one and five are the best). That said, Glenn Close is ruthless, brutal, and brilliant throughout, and Rose Byrne is not bad either, plus the series fetched some of the best recurring characters you’re likely to see on television (including John Goodman, Chris Messina, and Timothy Olyphant, among many others).
+***** Dexter
+dexter-season-8-promos
+SHOWTIME
+
+
+41. Dexter (8 of 8 seasons)– Michael C. Hall is absolutely terrific as a blood spatter analyst for the Miami police department, who moonlights as a serial killer trying to keep his two lives separate. There’s a great opening season, a fantastic fourth season, and in between the two, a couple of decent ones. Do yourself a favor, however, and don’t bother with the final four seasons. It’s a testament to how good the first and fourth seasons were that it still gains a place upon this list, despite one of the worst final seasons in television history.
+
+Image (3) 640_cheers_cast_nbc.jpg for post 428445
+NBC
+***** Cheers
+
+40. Cheers (11 of 11 seasons) — One of television’s all-time best sitcoms, Cheers is one of the most relaxed, amusing, and warm sitcoms you could ever have the privilege of watching. It may feel a little dated now, especially if you’re not a fan of laugh tracks, but the warmth of the series is timeless.
+***** Quantum leap
+
+mirror-image
+NBC
+
+
+39. Quantum Leap (5 of 5 seasons) — The first season is kind of a bear to get through because the production values were so low, but once Quantum Leap finds its feet, it’s one of the most enjoyable sci-fi series you’ll ever watch. It’s certainly got an 80s quality to it, but it is comfort television at its best, even if the finale was on the disappointing side.
+***** Family Guy
+
+quagmire-peter-and-joe
+FOX
+
+
+38. Family Guy (12 of 13 seasons) — The Seth MacFarlane animated series is not exactly the kind of show you binge watch (there are 237 episodes, so far), but it’s hilarious background TV for while you’re doing the laundry, getting over a hangover, or trying to kill a few brain cells after work. But don’t lower your expectations too much: There’s also some sharp and biting social commentary in between all the dick jokes.
+***** Alias
+alias_s4_cast_05
+ABC
+
+
+37. Alias (5 of 5 seasons) — Before Lost but after Felicity, J.J. Abrams gave us the action-packed conspiracy theory drama Alias, which he initially described as an ass-kicking Felicity (it was nothing like that). Jennifer Garner was fantastic in the lead, and the storylines were immensely compelling… for a while. The first two seasons are outstanding, the second two season were pretty good, and the final season was a big bowl of butt. Throughout, however, Garner’s costume changes were always worth tuning in for.
+
+Image (10) 707264-how_i_met_your_mother_506192f593493-650x365.jpg for post 428445
+CBS
+***** How I met Your Mother
+
+36. How I Met Your Mother (9 of 9 seasons) — Another up-and-down series that started off as a cute sitcom with a semi-interesting premise that hit its stride for about five seasons, and struggled through its later seasons once the premise had completely run its course and the narrating character became a completely insufferable douche. Still, even in the later seasons, How I Met Your Mother has enough moments to keep you chugging along, even if it’s often only background noise. That series finale, on the other hand, oof. They did not stick the landing.
+
+Image (15) portlandia-650x347.jpg for post 428445
+IFC
+***** Portlandia
+
+35. Portlandia (3 of 4 seasons) — It helps if you’ve lived in and/or been to Portland, and like most sketch comedy, Portlandia is wildly hit and miss, but the hits are often huge, and the misses are easy enough to fast-forward through. It’s clever and strangely understated for sketch comedy, and although it works best as a send-up of Portland, the absurdist comedy is still effective outside of the northwest.
+***** New Girl
+r-NEW-GIRL-POSTER-large570
+FOX
+
+
+34. New Girl (3 of 4 seasons) — After a shaky start that focused too much on Zooey Deschanel and her quirks, the series found its stride in the middle of the first season, as it turned into an ensemble comedy and, by the second season, blossomed into one of the best sitcoms on television. It’s faltered some in its third season before recovering some in the current fourth season, but that second season is one of the best-ever years of comedy. Thanks to Schmidt and Nick, it’s also one of the most GIFable shows around.
+***** It's Always Sunny in Philadelphia
+always_sunny_cast_a_l
+FXX
+
+
+33. It’s Always Sunny in Philadelphia (9 of 9 seasons) — Take the misanthropy of Seinfeld and triple it, then triple it again, and you’ve basically set the tone for It’s Always Sunny, the wildly brilliant sitcom from FX (now FXX) that seems to be fueled by insanely hilarious minds that have been warped by paint huffing. When the series is on — and it often is — nothing on television is funnier, raunchier, and more awesomely offensive.
+***** Lost
+lost-abc
+ABC
+
+
+32. Lost (6 of 6 season) — If you like mysteries and lots and lots of questions, but don’t care about satisfying answers to those questions, Lost is basically the best drama of all time. For much of its run, it was the best thing going on network television: suspenseful and completely engrossing. Unfortunately, there’s that ending, that kind of undid much of the series’ greatness. Bygones. It’s still an outstanding journey, even if the destination is not up to the standards of the rest of the series.
+***** Parenthood - Season 2
+NBC
+
+
+31. Parenthood (4 of 5 seasons)– It helps if you’re a parent to relate to some of the plotlines, but even if you’re not, Friday Night Light’s showrunner Jason Katims brings the same brand of naturalistic, heartfelt drama he displayed in Friday Night Lights to the tender and frequently emotional Parenthood. Great ensemble, although the show is often given to sentiment, which is good or bad, depending on who you are.
+
+Image (21) The_Wonder_Years_still_slide_1_MITMVC-650x433.jpg for post 428445
+ABC
+***** The Wonder Years
+
+30. The Wonder Years (6 of 6 seasons) — The only reason why the coming-of-age series set in the 60s — and one of my all-time favorite shows — did not make the top 25 is because much of the wonder has been taken out of the series on Netflix, as it’s missing many of the original songs (including the theme song) due to licensing issues. The music was a huge part of the show, although the absence of the original songs doesn’t completely diminish the power of the series, which tackles not only the relationship between Kevin Arnold and Winnie Cooper, but heavier issues like the Vietnam War, and the cultural clashes between conservative 60s parents and their more liberal, hippie offspring. The series finale is still one of television’s best all-time episodes.
+***** Raising_Hope
+FOX
+
+
+29. Raising Hope (4 of 4 seasons) — Greg Garcia’s sitcom began as a hilarious, and often spot-on comedic exploration of a lower, lower middle class family raising a child together, but over the course of the series, as it improved, its focus shifted more toward the show’s two best assets, Martha Plimpton and Garret Dillahunt, the latter of whom is the most unexpectedly hilarious guy in TV. Raising Hope is clever, heartfelt, and creative in incredibly surprising ways.
+***** House-of-Cards2
+NETFLIX
+
+
+28. House of Cards (2 of 2 seasons) — Netflix’s first major foray into original programming was worth every cent of its $100 million production budget, featuring searing performances, a droll sense of humor, slick writing, engrossing plotlines, and Kevin Spacey chewing the face off the scenery. The first season is phenomenal, though the second is very fat around the middle and begins to wane near the end.
+***** The Walking Dead
+Image (20) The_Walking_Dead_S03E08_1018-650x365.jpg for post 428445
+AMC
+
+
+27. The Walking Dead (4 of 5 seasons) — Currently, the highest rated scripted series on cable television, The Walking Dead is an up-and-down series. When it’s good, it’s phenomenal; when it’s not, it can be a boring slog (especially in the earlier half of the series, when Frank Darabont was showrunner). Greg Nicotero does fantastic FX work, and the series is particularly compelling because no one — no matter how high they are listed in the credits — is safe from the zombie apocalypse, and the showrunners seem to relish in killing off cast members. Some of the binge-watching value, however, is lost because it’s so difficult to avoid being spoiled to plot points of one of the most talked about series on TV.
+
+terriers_fx_donal_logue_michael_raymond_james_image_02-600x400
+FX
+***** Terriers
+
+26. Terriers (1 of 1 seasons) — Not that it doesn’t already get mentioned enough around here, it always bears repeating: Terriers is terrific, a funny, engrossing, and entertaining private eye drama starring Donal Logue that never should’ve been cancelled. In a just world, Terriers is now entering its fifth season. But even in this unjust world, season one should not be missed.
+***** Better Off Ted
+PAGE 2
+betterofftedcovergroup
+ABC
+
+
+25. Better Off Ted (2 of 2 seasons) — Probably the sitcom closest in spirit to Arrested Development (it also stars Portia de Rossi), Ted is a brilliant, offbeat, and irreverent show, skewering corporate culture and subverting the office comedies. There’s only one and a half seasons of the show, but given how subversive and different it was for network television, the miracle is that we have those two seasons at all.
+***** bob's burgers
+FOX
+
+
+24. Bob’s Burgers (3 of 4) — Not quite as funny as H. Jon Benjamin’s other animated sitcom, Archer, Bob’s Burgers does have something Archer does not: a huge heart. Combine that with great musical numbers, and a madly addictive quality, and Bob’s Burgers is one of the most enjoyable shows on Netflix to binge.
+***** black mirror
+CHANNEL 4
+
+
+23. Black Mirror (2 of 2 seasons) — I absolutely cannot stress how amazing Britain’s Black Mirror is, and the only reason it’s not higher on this list is that there are only 6 episodes available, but what an incredible six episodes they are. It’s severely biting social commentary about the current and future technological age in the form of twisted, dark Twilight Zone episodes. It’s an incredible six episodes of television, and episode for episode, perhaps the best series on this list. Watch one episode, and you’ll be hooked.
+***** parks and recreation
+NBC
+
+
+22. Parks and Recreation (6 of 7 seasons) — Witty, heartfelt, and funny, you’re not likely to find a more likable sitcom than Parks and Recreation. The first six episodes aren’t very good, but once they figured out what to do with Amy Poehler’s Leslie Knope, the sitcom began to thrive, thanks in huge part to its endearing supporting cast. Parks and Rec is blissful television, and a must watch for any fan of great sitcoms.
+***** peaky-blinders
+BBC
+
+
+21. Peaky Blinders (2 of 2 seasons) — Another British import, Peaky Blinders is the UK equivalent of HBO’s Boardwalk Empire, taking place in the same time period and covering similar terrain. Peaky has one thing that Boardwalk does not, however, and that’s the piercing, intense Cillian Murphy, who completely sucks you into a period drama that also features Tom Hardy as a phenomenal recurring character in season two (along with Noah Taylor).
+***** the_office-nbc
+NBC
+
+
+20. The Office (US and UK, Complete Series of Both) — The original UK The Office mainstreamed Ricky Gervais’ awkward, uncomfortable humor, while The Office diluted it (some), layered in one of sitcom’s greatest romances (for four seasons, anyway), and surrounded Steve Carell with a remarkable, quirky supporting cast. The first four seasons still stand as the best workplace comedy in American sitcom history, even if the final four seasons were increasingly mediocre, though the series did redeem itself in the end.
+***** Luther-asd
+BBC
+
+
+19. Luther (3 of 3 seasons) — Maybe the bleakest, grittiest cop show you’ll ever see, Luther is so intense it may at times rattle your brain stem. But it is also pummeling great drama, and Idris Elba is a goddamn tour de force (Ruth Wilson is fantastic, too).
+***** Buffy-the-vampire-slayer-season-1-promo-hq-04-1500
+CW
+
+
+18. Buffy the Vampire Slayer (7 of 7 seasons) — Enjoyable, witty, and smart, Joss Whedon’s television series still stands as one of the best character-driven action-adventure series ever. Once it hit its stride in season two, it’s a fleet-footed, charming, and completely satisfying television show, and one whose characters will stick with you for the rest of your life (the spin-off, Angel, which is also on Netflix, is not bad, either).
+***** firefly-serenity-crew
+FOX
+
+
+17. Firefly (1 of 1 seasons) — The best cancelled-too-soon sci fi series of all time is must watch television for anyone who considers themselves a geek. It’s the show that put Nathan Fillion on the map, and it’s the show that — eventually — helped to reopen pop culture to entertaining sci-fi. It’s irresistible and features some of the best sci-fi villains I’ve ever seen (The Reavers). Watch one episode, and you’ll end up mainlining the rest in a matter of days. It’s only 14 episodes; you have no excuse.
+***** Doctor who_50th-anniversary_thumbnail_02
+BBC
+
+
+16. Doctor Who (7 of 8, not including Classic Doctor Who) — Look: The production values are not always great, and at times, Doctor Who can be a little cheesy, but it is nevertheless one of those shows that is difficult not to become completely invested in once you begin. If you’re not a sci-fi geek, if you give it a shot, Doctor Who may be the show that makes you one, and once you enter the world, you’ll have plenty of friends (note: Doctor Who is currently set to expire on Netflix on February 1st, so you best get to it).
+***** the west wing
+NBC
+
+
+15. West Wing (6 of 7 seasons) — Television’s all-time best political drama is Aaron Sorkin at his absolute best, working with one of the finest ensemble casts in television history. The show wavers after the fourth season (when Sorkin left), but it picks back up in its final season (with Jimmy Smits and Alan Alda). Here’s a celebration of the greatest fictional president of all time to get you warmed up for it. It’s everything you like about Aaron Sorkin, and none of the things that grate on your nerves.
+***** Gilmore-Girls
+CW
+
+
+14. Gilmore Girls (7 of 7 seasons) — Maybe the wittiest, pop-culture rich drama ever, Gilmore Girls has nevertheless managed to hold up incredibly well over the years. It’s a great show to watch with a new generation of television viewers, it’s a great show to watch while binging on food, and it’s a great show to re-watch many times. The relationship between single mother Lorelai and her daughter, Rory, never gets old.
+***** The X Files
+Image (22) the-x-files-mulder-and-scully-650x437.jpg for post 428445
+FOX
+
+
+
+13. The X-Files (9 of 9 season) — If the series had ended after David Duchovny left, The X-Files would have a spot in the top ten on this list, even if the answers to many of the questions presented by the conspiracy theories in the show were often not answered in a satisfying way (the show’s mythology is all over the place). The case-of-the-week episodes, however, are amazing, groundbreaking, often very creepy, and entertaining as hell, brilliant little 42-minute movies, and Scully and Mulder remain the two best partners in television history.
+***** Rock
+121130064549-30-rock-cast-story-top
+NBC
+
+
+12. 30 Rock (7 of 7 seasons)– Funny, feminist, and wickedly intelligent, 30 Rock is a biting comedy that is so hilarious you’ll never feel the teeth marks. 30 Rock elevated Tina Fey from Saturday Night Live comedian to a cultural force, and made us forget what a terrible person Alec Baldwin can often be in real life.
+***** Scrubs
+NBC
+
+
+11. Scrubs (9 of 9 seasons) — J.D. and Turk were the original sitcom bromance, the precursors to today’s Troy and Abed (and Shawn and Gus on Psych). There’s one thing that neither Troy nor Abed have on Scrubs, however, and that’s the Turk Dance, the single greatest minute in single-camera sitcom history. Dr. Cox still remains my favorite sitcom television character of all time, and while I’ll concede that Scrubs may not be objectively the best sitcom ever, it’s still my favorite. Here’s 20 obscure facts you might not know about the series.
+***** Orange is the New Black
+Image (1) orange-is-the-new-black-cast.jpg for post 487619
+NETFLIX
+
+
+10. Orange in the New Black (2 of 2 seasons) — The best original show on Netflix, the prison dramedy is a deeply human, funny, moving, realistic, progressive show about life and the bad decisions we’re all destined to make. OITNB humanizes the in-humanized, transforms labels — felons, thieves, murderers, embezzlers — into real human beings and reminds us that, even in prison, life isn’t put on hold. Life is being led. It’s a remarkably excellent series, and addictive as all hell.
+***** mad men
+AMC
+
+
+9. Mad Men (5 and a half of 6 seasons) — Now that Breaking Bad has ended its run, the two richest, most complex, and most compelling dramas on television are Game of Thrones (not on Netflix) and Mad Men, which now has 7 episodes remaining, so it’s a good time to get invested, because the final half season is bound to be a cultural juggernaut. Some were down on the bleakness of the fifth season, but the first half of the final season saw the tone rebound into a more hopeful one. Either way, there’s no denying that Mad Men is one of the best written, best acted, and engrossing dramas on television (unless you’re an Emmy voter, of course). (Warning: The first season is a little slow and up its own butt, but keep with it: It never stops being up its own butt, but Matthew Weiner does eventually layer in a lot of fun elements).
+***** Archer
+_partying
+FX
+
+
+8. Archer (4 of 6 seasons) — Take away The Simpsons, and Archer may be the best animated sitcom of all time (and certainly, the best on Netflix). The spy spoof is snarky, acerbic, funny, fast ,and smart. The humor is black and brilliantly sophomoric, and it’s also very in love with itself, but in a way that completely works for the series. It may take an episode or two to adjust to the brand of comedy, but once you do, Archer is immensely addictive and incredibly quotable.
+***** friends
+-anniversary-main
+NBC
+
+
+7. Friends (10 of 10 seasons) — There’s nothing I can tell you about Friends that you don’t already know, and unless you’re under the age of 15, you’ve probably already seen every episode, but — along with Seinfeld (not on Netflix) — Friends remains the most durable, re-watchable sitcom ever.
+***** arrested-development
+-netflix-premiere-date-set
+FOX/NETFLIX
+
+
+6. Arrested Development (4 of 4 seasons) — The series lost some of the mystique it had gained after its cancellation because Netflix’s season four wasn’t to everyone’s satisfaction (I think it measures up well with the rest of Arrested Development‘s season, and in fact, with repeat watches, flowers into something even more impressive). It’s not just the funniest sitcom of the generation, it’s probably the most influential. It’s also the densest, smartest, and most offbeat.
+***** Sherlock
+ 2 Specials
+BBC
+
+
+5. Sherlock (3 of 3 seasons) — Sherlock is the best iteration of the Sherlock Holmes to ever air on television. The British series from Steven Moffat stars Benedict Cumberbatch and Martin Freeman, and despite the fact that it has been updated, it brilliantly captures the same spirit of Arthur Conan Doyle’s classic stories. It’s fast-paced, engrossing, brilliantly acted, often very funny, and frequently tragic, although the most recent season sees a slight dip in quality.
+***** Friday Night Lights
+101fridaynightlights0742-650x365
+NBC
+
+
+4. Friday Night Lights (5 of 5 Seasons) — One of the all-time greatest dramas, Friday Night Lights is a poignant, touching drama about families, both football families and organic ones. It’s one of the bravest series on television for not being afraid to mix high-quality drama with an intense amount of heart, and Connie Britton and Kyle Chandler give a freakin’ clinic on parenting. It’s one of the few shows you will ever watch that will make you want to be a better person. Clear eyes, full hearts, can’t lose.
+***** louie
+chelsea
+FX
+
+
+3. Louie (3 of 4 seasons)– Placing this above Arrested Development among the best comedies wasn’t a mistake: Arrested Development may be the most offbeat, but Louie is the most human. It can be wildly funny, it can be irreverent (like Arrested Development), heartfelt (like Parks), and uncomfortable (like The Office), but unlike any other “comedy” on television, it can also be tragic and devastating. It may take a few years still, but Louie will ultimately be remembered as one of the most groundbreaking sitcoms of our time.
+***** Freaks and Geeks
+cn_image.size.freaks-and-geeks-group-then-and-now
+
+2. Freaks and Geeks/Undeclared (1 of 1 seasons) — Freaks and Geeks is obviously the better of the two Judd Apatow series, both of which launched practically every major comedic actor in their 30s today, but Undeclared needs to be seen, too, if only because it maintains the spirit of Freaks and Geeks, and after that spirit seeps into you, you’re not going to know what to do with yourself after finishing the too short run of Freaks and Geeks, the best cancelled-too-soon series ever. He’s 20 obscure facts about Freaks and Geeks you didn’t know.
+***** Breaking Bad
+Breaking-Bad-Heisenberg
+AMC
+
+
+1. Breaking Bad (5 of 5 seasons) — Not just the best series on Netflix, Breaking Bad is the best series of all time. There’s no longer any debate about that.
+*** 2015-06-12 Friday
+**** minecraft - supercollider w clojure
+ :PROPERTIES:
+ :DATE: <2015-06-12 Fri 00:45>
+ :END:
+
+https://vimeo.com/120907923
+
+http://blog.josephwilk.net/
