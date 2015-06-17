@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 17 June 2015 22:13:41 EEST
+#+EXPORT_DATE: Wednesday 17 June 2015 22:14:14 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3775,7 +3775,7 @@ http://blog.josephwilk.net/
 http://jblevins.org/projects/deft/
 http://jonathanchu.is/posts/setting-up-deft-mode-in-emacs-with-org-mode/
 http://www.emacswiki.org/emacs/DeftMode
-eeeef*** 2015-06-17 Wednesday
+*** 2015-06-17 Wednesday
 **** IMS 2017
  :PROPERTIES:
  :DATE: <2015-06-17 Wed 20:20>
