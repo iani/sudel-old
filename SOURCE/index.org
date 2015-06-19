@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 17 June 2015 22:14:14 EEST
+#+EXPORT_DATE: Friday 19 June 2015 12:40:41 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3797,3 +3797,12 @@ http://www.arts.rpi.edu/~bahnc2/MMPS/index.html
 
 See also: http://www.karmetik.com/artists/music/tmo
 http://www.karmetik.com/artist/curtis-bahn
+*** 2015-06-19 Friday
+**** Inceptionism in Neural Network research by Google
+ :PROPERTIES:
+ :DATE: <2015-06-19 Fri 12:38>
+ :END:
+
+A link shared via Facebook from [[https://www.facebook.com/hemokosa][Akihiro Kubota]]
+
+http://googleresearch.blogspot.jp/2015/06/inceptionism-going-deeper-into-neural.html
