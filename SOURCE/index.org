@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Friday 19 June 2015 12:40:41 EEST
+#+EXPORT_DATE: Saturday 20 June 2015 16:51:22 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3803,6 +3803,15 @@ http://www.karmetik.com/artist/curtis-bahn
  :DATE: <2015-06-19 Fri 12:38>
  :END:
 
-A link shared via Facebook from [[https://www.facebook.com/hemokosa][Akihiro Kubota]]
-
 http://googleresearch.blogspot.jp/2015/06/inceptionism-going-deeper-into-neural.html
+
+(Link shared via Facebook from [[https://www.facebook.com/hemokosa][Akihiro Kubota]])
+*** 2015-06-20 Saturday
+**** Beethoven Violinkonzert: Herreweche / Kopatchinskaja
+ :PROPERTIES:
+ :DATE: <2015-06-20 Sat 16:50>
+ :END:
+
+Beethoven: Violinkonzert ∙ hr-Sinfonieorchester ∙ Patricia Kopatchinskaja ∙ Philippe Herreweghe
+
+https://www.youtube.com/watch?v=xr9KmgDFwMc
