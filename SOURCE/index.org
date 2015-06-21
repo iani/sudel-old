@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Saturday 20 June 2015 16:51:22 EEST
+#+EXPORT_DATE: Sunday 21 June 2015 21:35:16 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3815,3 +3815,12 @@ http://googleresearch.blogspot.jp/2015/06/inceptionism-going-deeper-into-neural.
 Beethoven: Violinkonzert ∙ hr-Sinfonieorchester ∙ Patricia Kopatchinskaja ∙ Philippe Herreweghe
 
 https://www.youtube.com/watch?v=xr9KmgDFwMc
+
+PS: See also: Kyung Wha Chung plays Beethoven violin concerto (1989) (RCO, Klaus Tennstedt): https://www.youtube.com/watch?v=2ZC4t_jCM54
+*** 2015-06-21 Sunday
+**** Math + Music
+ :PROPERTIES:
+ :DATE: <2015-06-21 Sun 21:34>
+ :END:
+
+Notes for topics and bibliography to be added here
