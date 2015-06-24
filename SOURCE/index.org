@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 24 June 2015 19:18:19 EEST
+#+EXPORT_DATE: Wednesday 24 June 2015 19:21:33 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3850,3 +3850,9 @@ Fugue no. 12 (Allegretto) in A Major (?) on an original theme, from the 36 Fugue
  :END:
 
 https://www.youtube.com/watch?v=Chfoo9NBEow
+**** The Project Gutenberg EBook of Johann Sebastian Bach by Johann Nikolaus Forkel and Charles Sanford Terry
+ :PROPERTIES:
+ :DATE: <2015-06-24 Wed 19:20>
+ :END:
+
+http://www.gutenberg.org/files/35041/35041-h/35041-h.html
