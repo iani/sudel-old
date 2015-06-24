@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 24 June 2015 19:16:38 EEST
+#+EXPORT_DATE: Wednesday 24 June 2015 19:18:19 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3807,7 +3807,7 @@ http://googleresearch.blogspot.jp/2015/06/inceptionism-going-deeper-into-neural.
 
 (Link shared via Facebook from [[https://www.facebook.com/hemokosa][Akihiro Kubota]])
 *** 2015-06-20 Saturday
-**** Beethoven Violinkonzert: Herreweche / Kopatchinskaja
+**** Beethoven Violinkonzert: Herreweghe / Kopatchinskaja
  :PROPERTIES:
  :DATE: <2015-06-20 Sat 16:50>
  :END:
