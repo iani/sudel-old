@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Monday 22 June 2015 11:01:22 EEST
+#+EXPORT_DATE: Wednesday 24 June 2015 18:21:47 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3831,3 +3831,16 @@ Notes for topics and bibliography to be added here
  :END:
 
 Utopic SF novel.  http://marshallbrain.com/manna.htm
+
+Related: http://www.zerohedge.com/news/2014-01-12/meet-smart-restaurant-minimum-wage-crushing-burger-flipping-robot See also: http://www.eclectecon.net/2014/01/how-many-sociology-majors-does-it-take-to-flip-a-burger-fewer-every-year.html
+*** 2015-06-24 Wednesday
+**** Anton Reicha: Fugue No. 12
+ :PROPERTIES:
+ :DATE: <2015-06-24 Wed 17:52>
+ :END:
+
+https://www.youtube.com/watch?v=WiTmjHD2asc
+
+#+BEGIN_QUOTE
+Fugue no. 12 (Allegretto) in A Major (?) on an original theme, from the 36 Fugues - uploaded via http://www.mp32u.net/
+#+END_QUOTE
