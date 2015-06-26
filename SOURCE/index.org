@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 24 June 2015 19:21:33 EEST
+#+EXPORT_DATE: Saturday 27 June 2015 01:38:07 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3856,3 +3856,32 @@ https://www.youtube.com/watch?v=Chfoo9NBEow
  :END:
 
 http://www.gutenberg.org/files/35041/35041-h/35041-h.html
+*** 2015-06-27 Saturday
+**** Nishida Ikutaro
+ :PROPERTIES:
+ :DATE: <2015-06-27 Sat 01:35>
+ :END:
+**** 2 Interesting SC / Live Coding videos
+ :PROPERTIES:
+ :DATE: <2015-06-27 Sat 01:35>
+ :END:
+
+***** Repl electric: The Stars.  Octave/Clojure/SuperCollider
+
+https://vimeo.com/95988263
+
+Live coded in Overtone and Shadertone using Clojure.
+Performed in London
+
+from Repl Electric
+
+https://vimeo.com/replelectric
+
+***** Interesting Demo with ProxySpace on Vimeo.  LFNoise/SinOsc
+ :PROPERTIES:
+ :DATE: <2015-06-26 Fri 22:08>
+ :END:
+
+https://vimeo.com/7143138
+
+From: https://vimeo.com/yv / ca 2010
