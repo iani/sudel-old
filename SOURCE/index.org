@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Saturday 27 June 2015 01:38:07 EEST
+#+EXPORT_DATE: Saturday 27 June 2015 11:01:11 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3857,7 +3857,7 @@ https://www.youtube.com/watch?v=Chfoo9NBEow
 
 http://www.gutenberg.org/files/35041/35041-h/35041-h.html
 *** 2015-06-27 Saturday
-**** Nishida Ikutaro
+**** Nishida Kitarō
  :PROPERTIES:
  :DATE: <2015-06-27 Sat 01:35>
  :END:
@@ -3885,3 +3885,27 @@ https://vimeo.com/replelectric
 https://vimeo.com/7143138
 
 From: https://vimeo.com/yv / ca 2010
+
+***** Clojure and Overtone Driving Minecraft - 3D live graphics generation+SC sound
+:PROPERTIES:
+:DATE:     <2015-06-27 Sat 10:11>
+:END:
+
+- Blog: http://blog.josephwilk.net
+- Demo on Vimeo: https://vimeo.com/120907923
+- Demo Source code: https://github.com/josephwilk/clj-minecraft/blob/master/src/cljminecraft/overtone.clj
+**** GLSL live coding demo on vimeo
+ :PROPERTIES:
+ :DATE: <2015-06-27 Sat 10:31>
+ :END:
+https://vimeo.com/51993089 codelife - glsl live-coding editor test #5
+
+From : https://vimeo.com/h3xl3r
+Via:https://github.com/samaaron  /http://sam.aaron.name
+**** Lecture about Monoids in Math, CS, Dreams (Inception) ...
+ :PROPERTIES:
+ :DATE: <2015-06-27 Sat 10:59>
+ :END:
+
+https://www.youtube.com/watch?v=2nkMUr1YC-M
+Dominic Orchard: Unreasonable Effectiveness of (High School) Mathematics - Jesus Graduate Conference 2012.
