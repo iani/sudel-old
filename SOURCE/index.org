@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Saturday 27 June 2015 11:01:11 EEST
+#+EXPORT_DATE: Sunday 28 June 2015 10:08:05 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3909,3 +3909,39 @@ Via:https://github.com/samaaron  /http://sam.aaron.name
 
 https://www.youtube.com/watch?v=2nkMUr1YC-M
 Dominic Orchard: Unreasonable Effectiveness of (High School) Mathematics - Jesus Graduate Conference 2012.
+**** Quilt, Distributed Systems and the End of the API
+ :PROPERTIES:
+ :DATE: <2015-06-27 Sat 11:05>
+ :END:
+
+http://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/
+****
+ :PROPERTIES:
+ :DATE: <2015-06-27 Sat 11:19>
+ :END:
+**** Joseph Wilk on the Aesthetics of Density (in programming code)
+ :PROPERTIES:
+ :DATE: <2015-06-27 Sat 11:20>
+ :END:
+
+http://blog.josephwilk.net/software-craftmanship/the-aesthetics-of-density.html
+
+See also: regexp-based e-mail address validation: http://www.ex-parrot.com/pdw/Mail-RFC822-Address.html, and the email address syntax definition document that it is based on: http://www.ietf.org/rfc/rfc0822.txt?number=822
+**** More by J. Wilk: On Creating Presentations
+:PROPERTIES:
+:DATE:     <2015-06-27 Sat 11:29>
+:END:
+
+http://blog.josephwilk.net/presentations/a-developers-guide-to-creating-presentations.html
+
+Note: Joseph Wilk's Speaker Deck collection: https://speakerdeck.com/josephwilk
+
+...
+
+... and the creative machines deck: https://speakerdeck.com/josephwilk/creative-machines-1
+*** 2015-06-28 Sunday
+**** nothing
+ :PROPERTIES:
+ :DATE: <2015-06-28 Sun 10:07>
+ :END:
+https://www.youtube.com/watch?v=BGBY6O2p0hI
