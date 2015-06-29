@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Sunday 28 June 2015 10:08:05 EEST
+#+EXPORT_DATE: Monday 29 June 2015 07:54:30 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3945,3 +3945,21 @@ Note: Joseph Wilk's Speaker Deck collection: https://speakerdeck.com/josephwilk
  :DATE: <2015-06-28 Sun 10:07>
  :END:
 https://www.youtube.com/watch?v=BGBY6O2p0hI
+
+Mentioned by N. de Grasse Tyson in the course of the show: https://en.wikipedia.org/wiki/The_Adventures_of_Buckaroo_Banzai_Across_the_8th_Dimension
+... and: Richard Gott quoting the movie: "Everywhere you go, there you are."
+
+Also mentioned: https://en.wikipedia.org/wiki/Alfonso_X_of_Castile
+(Would have given God some suggestions about how to create a better Universe.)
+
+Furthermore:https://en.wikipedia.org/wiki/Pirahã_people
+
+Finally, see also: https://en.wikipedia.org/wiki/AdS/CFT_correspondence
+Footnote: http://arxiv.org/pdf/1209.3946.pdf
+*** 2015-06-29 Monday
+**** Death by Imprisonment: America's War on Melanin Possession and the Indigent
+ :PROPERTIES:
+ :DATE: <2015-06-29 Mon 07:53>
+ :END:
+
+http://www.huffingtonpost.com/miangel-cody/death-by-imprisonment_b_5439641.html
