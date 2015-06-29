@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Monday 29 June 2015 13:06:50 EEST
+#+EXPORT_DATE: Tuesday 30 June 2015 01:41:33 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -4014,3 +4014,22 @@ And a longer variation on this theme by the same author:
 http://poemsintranslation.blogspot.gr/2015/05/borges-limits-from-spanish.html
 
 PS: http://poemsintranslation.blogspot.gr/2015/05/abid-bin-al-abras-lament-for-his-people.html
+**** Ionian and mediterranean coins
+ :PROPERTIES:
+ :DATE: <2015-06-29 Mon 13:42>
+ :END:
+
+http://www.e-istoria.com/2013_ionianisia%20(10).html
+**** water
+ :PROPERTIES:
+ :DATE: <2015-06-29 Mon 14:28>
+ :END:
+https://www.youtube.com/watch?v=FSF79uS3t04
+**** The Great Debate: EXTINCTIONS
+ :PROPERTIES:
+ :DATE: <2015-06-29 Mon 23:14>
+ :END:
+
+Extinctions: Tragedy to Opportunity featuring the sequencer of the neanderthal genome Svante Paabo, planetary scientist Lindy Elkins-Tanton, best-selling author Diane Ackerman, ASU president Michael Crow, AMNH curator and athropologist Ian Tattersall, Neil Gershenfeld, Director of the Center for Bits and Atoms at MIT, and moderator and Origins Project director Lawrence Krauss.
+
+https://www.youtube.com/watch?v=BFcZG_QVsT8
