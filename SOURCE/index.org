@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Monday 29 June 2015 13:05:39 EEST
+#+EXPORT_DATE: Monday 29 June 2015 13:06:50 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+index:
@@ -3981,6 +3981,8 @@ hay alguno que ya nunca abriré.
 Este verano cumpliré cincuenta años;
 La muerte me desgasta, incesante.
 #+END_VERSE
+
+Translation:
 
 #+BEGIN_VERSE
 There is a line of Verlaine that I will not be able to remember.
