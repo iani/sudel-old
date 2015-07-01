@@ -1,6 +1,7 @@
-#+EXPORT_DATE: Tuesday 30 June 2015 01:41:33 EEST
+#+EXPORT_DATE: Wednesday 01 July 2015 11:36:39 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
+#+StArtuP:showall
 #+index:
 #+SUDEL:
 #+PM_PROJECTS: sudel org-pm-test2 project1
@@ -3824,6 +3825,22 @@ PS: See also: Kyung Wha Chung plays Beethoven violin concerto (1989) (RCO, Klaus
  :END:
 
 Notes for topics and bibliography to be added here
+
+- Math in meter and rhythm
+- Math in duration proportions: Simple ratios (Bach), Fibonacci/Golden ratio (Dufay, Mozart, Bartok)
+- Fibonacci in harmony (Bartok)
+- Golden ratio in tuning
+- Theory of tuning and theory of harmony
+- Mathematical theories of scales, chords and pitch structures (up to David Lewin and Allen Forte and beyond)
+- Rameau, Helmholz, Theory of Consonance
+- Timbre, Tuning, Scales (cf Sethares)
+- Mathematics of acoustics, sound analysis, psychoacoustics.  Fourier transform.
+- Mathematics and geometry of motivic transformations - from Polyphony to Bach to 12-tone theory
+- Serialism and total serialism
+- Aleatorics
+- Algorithmic composition
+- Data driven music
+
 *** 2015-06-22 Monday
 **** Robotic Fast-food restaurant managers
  :PROPERTIES:
