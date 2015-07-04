@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Wednesday 01 July 2015 11:36:39 EEST
+#+EXPORT_DATE: Saturday 04 July 2015 11:39:27 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+StArtuP:showall
@@ -3825,7 +3825,7 @@ PS: See also: Kyung Wha Chung plays Beethoven violin concerto (1989) (RCO, Klaus
  :END:
 
 Notes for topics and bibliography to be added here
-
+***** Topics
 - Math in meter and rhythm
 - Math in duration proportions: Simple ratios (Bach), Fibonacci/Golden ratio (Dufay, Mozart, Bartok)
 - Fibonacci in harmony (Bartok)
@@ -3840,6 +3840,7 @@ Notes for topics and bibliography to be added here
 - Aleatorics
 - Algorithmic composition
 - Data driven music
+***** Bibliography
 
 *** 2015-06-22 Monday
 **** Robotic Fast-food restaurant managers
@@ -4050,3 +4051,148 @@ https://www.youtube.com/watch?v=FSF79uS3t04
 Extinctions: Tragedy to Opportunity featuring the sequencer of the neanderthal genome Svante Paabo, planetary scientist Lindy Elkins-Tanton, best-selling author Diane Ackerman, ASU president Michael Crow, AMNH curator and athropologist Ian Tattersall, Neil Gershenfeld, Director of the Center for Bits and Atoms at MIT, and moderator and Origins Project director Lawrence Krauss.
 
 https://www.youtube.com/watch?v=BFcZG_QVsT8
+** 2015-07 July
+*** 2015-07-02 Thursday
+**** Tschichold, Akzidenz Grotesk
+ :PROPERTIES:
+ :DATE: <2015-07-02 Thu 10:06>
+ :END:
+
+https://en.wikipedia.org/wiki/Jan_Tschichold
+
+https://en.wikipedia.org/wiki/Modern_typography
+**** some buildings listed by wikipedia in the recent photo copyright debate
+ :PROPERTIES:
+ :DATE: <2015-07-02 Thu 10:12>
+ :END:
+
+https://meta.wikimedia.org/wiki/Freedom_of_Panorama_in_Europe_in_2015
+**** London Eye
+London, United Kingdom
+© 2000 Julia Barfield, David Marks
+**** National Palace of Culture
+Sofia, Bulgaria
+© 1981 Alexander Georgiev Barov
+**** Millau Viaduct
+Southern France
+© 2004 Foster and Partners
+**** Ještěd Tower
+Czech Republic
+© 1968 Karel Hubáček
+**** Dancing house
+Czech Republic
+© 1996 Vlado Milunić and Frank Gehry
+**** Reichstag dome
+Berlin, Germany
+© 1999 Foster and Partners
+**** L'Hemisfèric
+Valencia, Spain
+© 1998 Santiago Calatrava
+**** The Little Mermaid
+Copenhagen, Denmark
+© 1913 Edvard Eriksen
+**** Royal Castle
+Warsaw, Poland
+© 1971–1988 Jan Bogusławski
+**** Dona i Ocell
+Barcelona, Spain
+© 1982 Joan Miró
+**** City of Culture of Galicia
+Santiago de Compostela, Spain
+© 2011 Peter Eisenman
+**** Atomium
+Brussels, Belgium
+© 1958 André Waterkeyn
+**** Rotterdam Centraal
+Netherlands
+© 2014 Jan Benthem, Marcel Blom, Adriaan Geuze, Jeroen van Schooten
+**** Tigutorn
+Tartu, Estonia
+© 2008 Arhitektuuribüroo Künnapuu & Padrik OÜ
+**** View from Tower Bridge
+London, UK
+****
+**** Polyglot: An interesting /unconference/ on programming languages
+ :PROPERTIES:
+ :DATE: <2015-07-02 Thu 10:46>
+ :END:
+
+http://www.polyglotconf.com/
+**** Παπαδιαμάντης
+ :PROPERTIES:
+ :DATE: <2015-07-02 Thu 17:17>
+ :END:
+
+http://www.eyelands.gr/site/index.php?option=com_content&view=article&id=405:2011-03-14-06-40-52&catid=42:afieromata&Itemid=87
+http://tvxs.gr/news/σαν-σήμερα/εκατό-χρόνια-από-το-θάνατο-του-αλέξανδρου-παπαδιαμάντη
+**** Micro-templating: EJS in 25 lines?
+ :PROPERTIES:
+ :DATE: <2015-07-02 Thu 23:00>
+ :END:
+
+http://ejohn.org/blog/javascript-micro-templating/
+
+(See https://strongloop.com/strongblog/compare-javascript-templates-jade-mustache-dust/:
+
+#+BEGIN_QUOTE
+EJS is hands down my least favorite templating language. It can however have its uses because in the bare minimum implementation it’s just about 25 lines long.
+#+END_QUOTE
+*** 2015-07-03 Friday
+**** Neil deGrasse Tyson + Kenneth Miller on religion in science
+ :PROPERTIES:
+ :DATE: <2015-07-03 Fri 13:35>
+ :END:
+
+- Neil deGrasse Tyson: https://www.youtube.com/watch?v=Ti3mtDC2fQo
+- Kenneth Miller: https://www.youtube.com/watch?v=Ohd5uqzlwsU see 1:13f about political vs science aspects.
+
+See also: 1st chapter of Christoph Wolff, Johann Sebastian Bach. 5. Auflage. S. Fischer, Frankfurt am Main 2014, ISBN 978-3-596-16739-5. re parallel of Bach to Newton in his Nekrolog.
+**** Dennett on Darwin
+ :PROPERTIES:
+ :DATE: <2015-07-03 Fri 17:32>
+ :END:
+
+https://www.youtube.com/watch?v=EFwnjD68HSc
+
+Darwin Turing parallel.
+
+Searle - skyhook.
+
+http://www.poetryfoundation.org/poem/173744 - http://genius.com/1403878/John-keats-ode-to-a-nightingale/The-weariness-the-fever-and-the-fret-here-where-men-sit-and-hear-each-other-groan-where-palsy-shakes-a-few-sad-last-gray-hairs-where-youth-grows-pale-and-spectre-thin-and-dies
+
+https://en.wikipedia.org/wiki/Lynn_Margulis symbiogenesis / eucariotic revolution.
+
+http://www.dnatube.com/video/389/A-Moving-Myosin-Motor-Protein
+
+https://www.youtube.com/watch?v=y-uuk4Pr2i8
+
+Drew Berry - Astonishing Molecular Machines https://www.youtube.com/watch?v=dMPXu6GF18M
+
+A Day in the Life of a Motor Protein https://www.youtube.com/watch?v=tMKlPDBRJ1E
+
+https://www.google.gr/search?q=the+tree+of+life+biology&espv=2&biw=1216&bih=613&tbm=isch&tbo=u&source=univ&sa=X&ei=5qSWVda4B8LyUNKChpgJ&sqi=2&ved=0CDsQ7Ak
+
+https://en.wikipedia.org/wiki/Category:Tree_of_life_(biology)
+
+http://creationrevolution.com/charles-darwin-wrong-modern-scientists-debunk-darwins-tree-of-life-diagram/
+
+http://math.ucr.edu/home/baez/tree_of_life/
+
+http://biology.westfield.ma.edu/bio-news-fall2012
+
+*https://blogs.ncl.ac.uk/icamblog/pruning-the-tree-of-life/*
+
+http://phylogenomics.blogspot.gr/2014/02/crosspost-studying-not-wantonly-killing.html
+
+https://www.khanacademy.org/science/biology/her/tree-of-life
+
+http://tolweb.org/tree/learn/concepts/whatisphylogeny.html
+
+https://universe-review.ca/F10-multicell.htm
+*** 2015-07-04 Saturday
+**** Open call for works: Masters and Servers project
+ :PROPERTIES:
+ :DATE:  <2015-07-04 Sat 11:38>
+ :END:
+
+http://www.mastersandservers.org/projects/open-call-for-work/

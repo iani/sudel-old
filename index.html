@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>index</title>
-<!-- 2015-07-01 Wed 11:36 -->
+<!-- 2015-07-04 Sat 11:39 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="IOANNIS ZANNOS" />
@@ -697,6 +697,45 @@ for the JavaScript code in this tag.
 <li><a href="#sec-2-4-19-3">2.4.19.3. Ionian and mediterranean coins</a></li>
 <li><a href="#sec-2-4-19-4">2.4.19.4. water</a></li>
 <li><a href="#sec-2-4-19-5">2.4.19.5. The Great Debate: EXTINCTIONS</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#sec-2-5">2.5. 2015-07 July</a>
+<ul>
+<li><a href="#sec-2-5-1">2.5.1. 2015-07-02 Thursday</a>
+<ul>
+<li><a href="#sec-2-5-1-1">2.5.1.1. Tschichold, Akzidenz Grotesk</a></li>
+<li><a href="#sec-2-5-1-2">2.5.1.2. some buildings listed by wikipedia in the recent photo copyright debate</a></li>
+<li><a href="#sec-2-5-1-3">2.5.1.3. London Eye</a></li>
+<li><a href="#sec-2-5-1-4">2.5.1.4. National Palace of Culture</a></li>
+<li><a href="#sec-2-5-1-5">2.5.1.5. Millau Viaduct</a></li>
+<li><a href="#sec-2-5-1-6">2.5.1.6. Ještěd Tower</a></li>
+<li><a href="#sec-2-5-1-7">2.5.1.7. Dancing house</a></li>
+<li><a href="#sec-2-5-1-8">2.5.1.8. Reichstag dome</a></li>
+<li><a href="#sec-2-5-1-9">2.5.1.9. L'Hemisfèric</a></li>
+<li><a href="#sec-2-5-1-10">2.5.1.10. The Little Mermaid</a></li>
+<li><a href="#sec-2-5-1-11">2.5.1.11. Royal Castle</a></li>
+<li><a href="#sec-2-5-1-12">2.5.1.12. Dona i Ocell</a></li>
+<li><a href="#sec-2-5-1-13">2.5.1.13. City of Culture of Galicia</a></li>
+<li><a href="#sec-2-5-1-14">2.5.1.14. Atomium</a></li>
+<li><a href="#sec-2-5-1-15">2.5.1.15. Rotterdam Centraal</a></li>
+<li><a href="#sec-2-5-1-16">2.5.1.16. Tigutorn</a></li>
+<li><a href="#sec-2-5-1-17">2.5.1.17. View from Tower Bridge</a></li>
+<li><a href="#sec-2-5-1-18">2.5.1.18. Polyglot: An interesting <i>unconference</i> on programming languages</a></li>
+<li><a href="#sec-2-5-1-19">2.5.1.19. Παπαδιαμάντης</a></li>
+<li><a href="#sec-2-5-1-20">2.5.1.20. Micro-templating: EJS in 25 lines?</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-5-2">2.5.2. 2015-07-03 Friday</a>
+<ul>
+<li><a href="#sec-2-5-2-1">2.5.2.1. Neil deGrasse Tyson + Kenneth Miller on religion in science</a></li>
+<li><a href="#sec-2-5-2-2">2.5.2.2. Dennett on Darwin</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-5-3">2.5.3. 2015-07-04 Saturday</a>
+<ul>
+<li><a href="#sec-2-5-3-1">2.5.3.1. Open call for works: Masters and Servers project</a></li>
 </ul>
 </li>
 </ul>
@@ -3297,10 +3336,10 @@ w.bounds;
 w.bounds = Rect(200, 100, 200, 500);
 //:
 {
-        50 do: {
-                w.bounds = w.bounds.moveBy(10, 10);
-                0.1.wait;
-        }
+   50 do: {
+      w.bounds = w.bounds.moveBy(10, 10);
+      0.1.wait;
+   }
 }.fork(AppClock)
 
 //:
@@ -3315,21 +3354,21 @@ w.bounds = Rect(200, 100, 200, 500);
 <span style="color: #ff8700;">w</span> = Window(<span style="color: #ff4ea3; font-style: italic;">"moving"</span>, Rect(0, 0, 150, 150)).front;
 
 <span style="color: #ffd700; font-weight: bold;">OSCdef</span>(\trackLine1, { | msg |
-        msg.postln;
-        { w.bounds = w.bounds.left = msg[3] * 4 }.defer
+   msg.postln;
+   { w.bounds = w.bounds.left = msg[3] * 4 }.defer
 }, \tr);
 
 {
-        var trig, source;
-        <span style="color: #ff8700;">trig</span> = Impulse.kr(10);
-        <span style="color: #ff8700;">source</span> = Line.kr(10, 100, 10, doneAction: 2);
-        SendTrig.kr(trig, 0, source);
+   var trig, source;
+   <span style="color: #ff8700;">trig</span> = Impulse.kr(10);
+   <span style="color: #ff8700;">source</span> = Line.kr(10, 100, 10, doneAction: 2);
+   SendTrig.kr(trig, 0, source);
 }.play;
 
 //:
 <span style="color: #ff8700;">w</span> = Window(<span style="color: #ff4ea3; font-style: italic;">"sliders"</span>, Rect(0, 0, 400, 400)).front;
 w.view.layout = HLayout(
-        Slider().action = { | me | me.value.postln }
+   Slider().action = { | me | me.value.postln }
 }
 )<span style="color: #a1db00; font-weight: bold;">fi</span>
 
@@ -3339,8 +3378,8 @@ w.view.layout = HLayout(
 <span style="color: #ff8700;">w</span> = Window(<span style="color: #ff4ea3; font-style: italic;">"sliders"</span>, Rect(0, 0, 400, 400)).front;
 w.view.layout = HLayout(
 <span style="color: #ffd700; font-weight: bold;">Slider</span>().action = { | me |
-        me.value.postln;
-        a.set(\freq, me.value * 4000 + 400)
+   me.value.postln;
+   a.set(\freq, me.value * 4000 + 400)
 };
 
 )
@@ -3351,13 +3390,13 @@ w.view.layout = HLayout(
 
 w.view.layout = VLayout(
 *({ | i |
-        HLayout(
-                StaticText().string_(format(<span style="color: #ff4ea3; font-style: italic;">"slider %"</span>, i + 1)),
-                Slider().orientation_(\horizontal)
-                .action_({ | me |
-                        a[i].set(\freq, me.value * 4000 + 400)
-                })
-        )
+   HLayout(
+      StaticText().string_(format(<span style="color: #ff4ea3; font-style: italic;">"slider %"</span>, i + 1)),
+      Slider().orientation_(\horizontal)
+      .action_({ | me |
+         a[i].set(\freq, me.value * 4000 + 400)
+      })
+   )
 } ! 10)
 )
 //:
@@ -3370,13 +3409,13 @@ w.view.layout = VLayout(
 
 w.view.layout = VLayout(
 *({ | i |
-        HLayout(
-                StaticText().string_(format(<span style="color: #ff4ea3; font-style: italic;">"slider %"</span>, i + 1)),
-                Slider().orientation_(\horizontal)
-                .action_({ | me |
-                        a[i].set(\freq, p.map(me.value))
-                })
-        )
+   HLayout(
+      StaticText().string_(format(<span style="color: #ff4ea3; font-style: italic;">"slider %"</span>, i + 1)),
+      Slider().orientation_(\horizontal)
+      .action_({ | me |
+         a[i].set(\freq, p.map(me.value))
+      })
+   )
 } ! 10)
 
 )
@@ -3387,11 +3426,11 @@ w.view.layout = VLayout(
 
 w.view.layout = VLayout(
 *(a collect: { | synth, i |
-        HLayout(
-                StaticText().string_(format(<span style="color: #ff4ea3; font-style: italic;">"slider %"</span>, i + 1)),
-                Slider().orientation_(\horizontal)
-                .action_({ | me | synth.set(\freq, p.map(me.value))})
-        )
+   HLayout(
+      StaticText().string_(format(<span style="color: #ff4ea3; font-style: italic;">"slider %"</span>, i + 1)),
+      Slider().orientation_(\horizontal)
+      .action_({ | me | synth.set(\freq, p.map(me.value))})
+   )
 })
 )
 
@@ -5221,16 +5260,16 @@ format("open %", thisProcess.platform.recordingsDir.asCompileString).unixCmd;
 ~groups = nil;
 ~group = nil;
 ~file do: { | x |
-        if (x.size &lt; 2) {
-                ~groups = ~groups add: ~group;
-                ~group = nil;
-                //      "==========================".postln;
-                //      ~groups.postln;
-                //      "==========================".postln;
-        }{
-                ~group = ~group add: x;
-                //      ~group.postln;
-        };
+   if (x.size &lt; 2) {
+      ~groups = ~groups add: ~group;
+      ~group = nil;
+      // "==========================".postln;
+      // ~groups.postln;
+      // "==========================".postln;
+   }{
+      ~group = ~group add: x;
+      // ~group.postln;
+   };
 };
 "DONE".postln;
 )
@@ -5241,45 +5280,45 @@ format("open %", thisProcess.platform.recordingsDir.asCompileString).unixCmd;
 //: Play the data
 (
 {
-        var ugen, elements;
-        elements = ();
-        ~file[10..] do: { | array |
-                array do: { | element |
-                        if ([$0, $1, $2, $3, $4, $5, $6, $7, $8, $9, $-] includes: element[0];) {
-                                {
-                                        [0.3, 1].scramble * EnvGen.kr(Env.perc(0.01, 0.1, 0.2), doneAction: 2) *
-                                        SinOsc.ar(element.interpret.abs * [150, 200].scramble + 200 min: 10000) }.play;
-                        }{
-                                ugen = elements[element.asSymbol];
-                                if (ugen.isNil) {
-                                        ugen = [WhiteNoise, GrayNoise, PinkNoise, BrownNoise].choose;
-                                        elements[element.asSymbol] = ugen;
-                                };
+   var ugen, elements;
+   elements = ();
+   ~file[10..] do: { | array |
+      array do: { | element |
+         if ([$0, $1, $2, $3, $4, $5, $6, $7, $8, $9, $-] includes: element[0];) {
+            {
+               [0.3, 1].scramble * EnvGen.kr(Env.perc(0.01, 0.1, 0.2), doneAction: 2) *
+               SinOsc.ar(element.interpret.abs * [150, 200].scramble + 200 min: 10000) }.play;
+         }{
+            ugen = elements[element.asSymbol];
+            if (ugen.isNil) {
+               ugen = [WhiteNoise, GrayNoise, PinkNoise, BrownNoise].choose;
+               elements[element.asSymbol] = ugen;
+            };
 
-                                {
-                                        [0.3, 1].scramble * EnvGen.kr(Env.sine(0.1, 0.05), doneAction: 2) * ugen.ar()
-                                }.play;
-                        };
-                        0.1.wait;
-                }
-        };
+            {
+               [0.3, 1].scramble * EnvGen.kr(Env.sine(0.1, 0.05), doneAction: 2) * ugen.ar()
+            }.play;
+         };
+         0.1.wait;
+      }
+   };
 }.fork;
 )
 //: Alternative playing method (was the first try)
 (
 {
-        ~groups.sort({ | a, b | a.size &lt; b.size }) do: { | g |
-                g do: { | sg |
-                        sg.postln;
-                        { GrayNoise.ar *
-                                EnvGen.kr(Env.sine(0.1, 0.1 * sg.size.postln),
-                                        doneAction: 2);
-                        }.play;
-                        0.1.wait;
-                };
+   ~groups.sort({ | a, b | a.size &lt; b.size }) do: { | g |
+      g do: { | sg |
+         sg.postln;
+         { GrayNoise.ar *
+            EnvGen.kr(Env.sine(0.1, 0.1 * sg.size.postln),
+               doneAction: 2);
+         }.play;
+         0.1.wait;
+      };
 
-                0.2.wait;
-        }
+      0.2.wait;
+   }
 }.fork;
 )
 
@@ -7625,7 +7664,10 @@ PS: See also: Kyung Wha Chung plays Beethoven violin concerto (1989) (RCO, Klaus
 <p>
 Notes for topics and bibliography to be added here
 </p>
-
+</div>
+<div id="outline-container-sec-2-4-14-1-1" class="outline-6">
+<h6 id="sec-2-4-14-1-1"><span class="section-number-6">2.4.14.1.1</span> Topics</h6>
+<div class="outline-text-6" id="text-2-4-14-1-1">
 <ul class="org-ul">
 <li>Math in meter and rhythm
 </li>
@@ -7656,6 +7698,10 @@ Notes for topics and bibliography to be added here
 <li>Data driven music
 </li>
 </ul>
+</div>
+</div>
+<div id="outline-container-sec-2-4-14-1-2" class="outline-6">
+<h6 id="sec-2-4-14-1-2"><span class="section-number-6">2.4.14.1.2</span> Bibliography</h6>
 </div>
 </div>
 </div>
@@ -7985,6 +8031,323 @@ Extinctions: Tragedy to Opportunity featuring the sequencer of the neanderthal g
 </div>
 </div>
 </div>
+<div id="outline-container-sec-2-5" class="outline-3">
+<h3 id="sec-2-5"><span class="section-number-3">2.5</span> 2015-07 July</h3>
+<div class="outline-text-3" id="text-2-5">
+</div><div id="outline-container-sec-2-5-1" class="outline-4">
+<h4 id="sec-2-5-1"><span class="section-number-4">2.5.1</span> 2015-07-02 Thursday</h4>
+<div class="outline-text-4" id="text-2-5-1">
+</div><div id="outline-container-sec-2-5-1-1" class="outline-5">
+<h5 id="sec-2-5-1-1"><span class="section-number-5">2.5.1.1</span> Tschichold, Akzidenz Grotesk</h5>
+<div class="outline-text-5" id="text-2-5-1-1">
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Jan_Tschichold">https://en.wikipedia.org/wiki/Jan_Tschichold</a>
+</p>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Modern_typography">https://en.wikipedia.org/wiki/Modern_typography</a>
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-2" class="outline-5">
+<h5 id="sec-2-5-1-2"><span class="section-number-5">2.5.1.2</span> some buildings listed by wikipedia in the recent photo copyright debate</h5>
+<div class="outline-text-5" id="text-2-5-1-2">
+
+<p>
+<a href="https://meta.wikimedia.org/wiki/Freedom_of_Panorama_in_Europe_in_2015">https://meta.wikimedia.org/wiki/Freedom_of_Panorama_in_Europe_in_2015</a>
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-3" class="outline-5">
+<h5 id="sec-2-5-1-3"><span class="section-number-5">2.5.1.3</span> London Eye</h5>
+<div class="outline-text-5" id="text-2-5-1-3">
+<p>
+London, United Kingdom
+© 2000 Julia Barfield, David Marks
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-4" class="outline-5">
+<h5 id="sec-2-5-1-4"><span class="section-number-5">2.5.1.4</span> National Palace of Culture</h5>
+<div class="outline-text-5" id="text-2-5-1-4">
+<p>
+Sofia, Bulgaria
+© 1981 Alexander Georgiev Barov
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-5" class="outline-5">
+<h5 id="sec-2-5-1-5"><span class="section-number-5">2.5.1.5</span> Millau Viaduct</h5>
+<div class="outline-text-5" id="text-2-5-1-5">
+<p>
+Southern France
+© 2004 Foster and Partners
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-6" class="outline-5">
+<h5 id="sec-2-5-1-6"><span class="section-number-5">2.5.1.6</span> Ještěd Tower</h5>
+<div class="outline-text-5" id="text-2-5-1-6">
+<p>
+Czech Republic
+© 1968 Karel Hubáček
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-7" class="outline-5">
+<h5 id="sec-2-5-1-7"><span class="section-number-5">2.5.1.7</span> Dancing house</h5>
+<div class="outline-text-5" id="text-2-5-1-7">
+<p>
+Czech Republic
+© 1996 Vlado Milunić and Frank Gehry
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-8" class="outline-5">
+<h5 id="sec-2-5-1-8"><span class="section-number-5">2.5.1.8</span> Reichstag dome</h5>
+<div class="outline-text-5" id="text-2-5-1-8">
+<p>
+Berlin, Germany
+© 1999 Foster and Partners
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-9" class="outline-5">
+<h5 id="sec-2-5-1-9"><span class="section-number-5">2.5.1.9</span> L'Hemisfèric</h5>
+<div class="outline-text-5" id="text-2-5-1-9">
+<p>
+Valencia, Spain
+© 1998 Santiago Calatrava
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-10" class="outline-5">
+<h5 id="sec-2-5-1-10"><span class="section-number-5">2.5.1.10</span> The Little Mermaid</h5>
+<div class="outline-text-5" id="text-2-5-1-10">
+<p>
+Copenhagen, Denmark
+© 1913 Edvard Eriksen
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-11" class="outline-5">
+<h5 id="sec-2-5-1-11"><span class="section-number-5">2.5.1.11</span> Royal Castle</h5>
+<div class="outline-text-5" id="text-2-5-1-11">
+<p>
+Warsaw, Poland
+© 1971–1988 Jan Bogusławski
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-12" class="outline-5">
+<h5 id="sec-2-5-1-12"><span class="section-number-5">2.5.1.12</span> Dona i Ocell</h5>
+<div class="outline-text-5" id="text-2-5-1-12">
+<p>
+Barcelona, Spain
+© 1982 Joan Miró
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-13" class="outline-5">
+<h5 id="sec-2-5-1-13"><span class="section-number-5">2.5.1.13</span> City of Culture of Galicia</h5>
+<div class="outline-text-5" id="text-2-5-1-13">
+<p>
+Santiago de Compostela, Spain
+© 2011 Peter Eisenman
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-14" class="outline-5">
+<h5 id="sec-2-5-1-14"><span class="section-number-5">2.5.1.14</span> Atomium</h5>
+<div class="outline-text-5" id="text-2-5-1-14">
+<p>
+Brussels, Belgium
+© 1958 André Waterkeyn
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-15" class="outline-5">
+<h5 id="sec-2-5-1-15"><span class="section-number-5">2.5.1.15</span> Rotterdam Centraal</h5>
+<div class="outline-text-5" id="text-2-5-1-15">
+<p>
+Netherlands
+© 2014 Jan Benthem, Marcel Blom, Adriaan Geuze, Jeroen van Schooten
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-16" class="outline-5">
+<h5 id="sec-2-5-1-16"><span class="section-number-5">2.5.1.16</span> Tigutorn</h5>
+<div class="outline-text-5" id="text-2-5-1-16">
+<p>
+Tartu, Estonia
+© 2008 Arhitektuuribüroo Künnapuu &amp; Padrik OÜ
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-17" class="outline-5">
+<h5 id="sec-2-5-1-17"><span class="section-number-5">2.5.1.17</span> View from Tower Bridge</h5>
+<div class="outline-text-5" id="text-2-5-1-17">
+<p>
+London, UK
+<b>**</b>
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-18" class="outline-5">
+<h5 id="sec-2-5-1-18"><span class="section-number-5">2.5.1.18</span> Polyglot: An interesting <i>unconference</i> on programming languages</h5>
+<div class="outline-text-5" id="text-2-5-1-18">
+
+<p>
+<a href="http://www.polyglotconf.com/">http://www.polyglotconf.com/</a>
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-19" class="outline-5">
+<h5 id="sec-2-5-1-19"><span class="section-number-5">2.5.1.19</span> Παπαδιαμάντης</h5>
+<div class="outline-text-5" id="text-2-5-1-19">
+
+<p>
+<a href="http://www.eyelands.gr/site/index.php?option=com_content&view=article&id=405:2011-03-14-06-40-52&catid=42:afieromata&Itemid=87">http://www.eyelands.gr/site/index.php?option=com_content&view=article&id=405:2011-03-14-06-40-52&catid=42:afieromata&Itemid=87</a>
+<a href="http://tvxs.gr/news/%CF%83%CE%B1%CE%BD-%CF%83%CE%AE%CE%BC%CE%B5%CF%81%CE%B1/%CE%B5%CE%BA%CE%B1%CF%84%CF%8C-%CF%87%CF%81%CF%8C%CE%BD%CE%B9%CE%B1-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF-%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%BF-%CF%84%CE%BF%CF%85-%CE%B1%CE%BB%CE%AD%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%85-%CF%80%CE%B1%CF%80%CE%B1%CE%B4%CE%B9%CE%B1%CE%BC%CE%AC%CE%BD%CF%84%CE%B7">http://tvxs.gr/news/%CF%83%CE%B1%CE%BD-%CF%83%CE%AE%CE%BC%CE%B5%CF%81%CE%B1/%CE%B5%CE%BA%CE%B1%CF%84%CF%8C-%CF%87%CF%81%CF%8C%CE%BD%CE%B9%CE%B1-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF-%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%BF-%CF%84%CE%BF%CF%85-%CE%B1%CE%BB%CE%AD%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%85-%CF%80%CE%B1%CF%80%CE%B1%CE%B4%CE%B9%CE%B1%CE%BC%CE%AC%CE%BD%CF%84%CE%B7</a>
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-1-20" class="outline-5">
+<h5 id="sec-2-5-1-20"><span class="section-number-5">2.5.1.20</span> Micro-templating: EJS in 25 lines?</h5>
+<div class="outline-text-5" id="text-2-5-1-20">
+
+<p>
+<a href="http://ejohn.org/blog/javascript-micro-templating/">http://ejohn.org/blog/javascript-micro-templating/</a>
+</p>
+
+<p>
+(See <a href="https://strongloop.com/strongblog/compare-javascript-templates-jade-mustache-dust/">https://strongloop.com/strongblog/compare-javascript-templates-jade-mustache-dust/</a>:
+</p>
+
+<blockquote>
+<p>
+EJS is hands down my least favorite templating language. It can however have its uses because in the bare minimum implementation it’s just about 25 lines long.
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-2-5-2" class="outline-4">
+<h4 id="sec-2-5-2"><span class="section-number-4">2.5.2</span> 2015-07-03 Friday</h4>
+<div class="outline-text-4" id="text-2-5-2">
+</div><div id="outline-container-sec-2-5-2-1" class="outline-5">
+<h5 id="sec-2-5-2-1"><span class="section-number-5">2.5.2.1</span> Neil deGrasse Tyson + Kenneth Miller on religion in science</h5>
+<div class="outline-text-5" id="text-2-5-2-1">
+
+<ul class="org-ul">
+<li>Neil deGrasse Tyson: <a href="https://www.youtube.com/watch?v=Ti3mtDC2fQo">https://www.youtube.com/watch?v=Ti3mtDC2fQo</a>
+</li>
+<li>Kenneth Miller: <a href="https://www.youtube.com/watch?v=Ohd5uqzlwsU">https://www.youtube.com/watch?v=Ohd5uqzlwsU</a> see 1:13f about political vs science aspects.
+</li>
+</ul>
+
+<p>
+See also: 1st chapter of Christoph Wolff, Johann Sebastian Bach. 5. Auflage. S. Fischer, Frankfurt am Main 2014, ISBN 978-3-596-16739-5. re parallel of Bach to Newton in his Nekrolog.
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-5-2-2" class="outline-5">
+<h5 id="sec-2-5-2-2"><span class="section-number-5">2.5.2.2</span> Dennett on Darwin</h5>
+<div class="outline-text-5" id="text-2-5-2-2">
+
+<p>
+<a href="https://www.youtube.com/watch?v=EFwnjD68HSc">https://www.youtube.com/watch?v=EFwnjD68HSc</a>
+</p>
+
+<p>
+Darwin Turing parallel.
+</p>
+
+<p>
+Searle - skyhook.
+</p>
+
+<p>
+<a href="http://www.poetryfoundation.org/poem/173744">http://www.poetryfoundation.org/poem/173744</a> - <a href="http://genius.com/1403878/John-keats-ode-to-a-nightingale/The-weariness-the-fever-and-the-fret-here-where-men-sit-and-hear-each-other-groan-where-palsy-shakes-a-few-sad-last-gray-hairs-where-youth-grows-pale-and-spectre-thin-and-dies">http://genius.com/1403878/John-keats-ode-to-a-nightingale/The-weariness-the-fever-and-the-fret-here-where-men-sit-and-hear-each-other-groan-where-palsy-shakes-a-few-sad-last-gray-hairs-where-youth-grows-pale-and-spectre-thin-and-dies</a>
+</p>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Lynn_Margulis">https://en.wikipedia.org/wiki/Lynn_Margulis</a> symbiogenesis / eucariotic revolution.
+</p>
+
+<p>
+<a href="http://www.dnatube.com/video/389/A-Moving-Myosin-Motor-Protein">http://www.dnatube.com/video/389/A-Moving-Myosin-Motor-Protein</a>
+</p>
+
+<p>
+<a href="https://www.youtube.com/watch?v=y-uuk4Pr2i8">https://www.youtube.com/watch?v=y-uuk4Pr2i8</a>
+</p>
+
+<p>
+Drew Berry - Astonishing Molecular Machines <a href="https://www.youtube.com/watch?v=dMPXu6GF18M">https://www.youtube.com/watch?v=dMPXu6GF18M</a>
+</p>
+
+<p>
+A Day in the Life of a Motor Protein <a href="https://www.youtube.com/watch?v=tMKlPDBRJ1E">https://www.youtube.com/watch?v=tMKlPDBRJ1E</a>
+</p>
+
+<p>
+<a href="https://www.google.gr/search?q=the+tree+of+life+biology&espv=2&biw=1216&bih=613&tbm=isch&tbo=u&source=univ&sa=X&ei=5qSWVda4B8LyUNKChpgJ&sqi=2&ved=0CDsQ7Ak">https://www.google.gr/search?q=the+tree+of+life+biology&espv=2&biw=1216&bih=613&tbm=isch&tbo=u&source=univ&sa=X&ei=5qSWVda4B8LyUNKChpgJ&sqi=2&ved=0CDsQ7Ak</a>
+</p>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Category:Tree_of_life_(biology)">https://en.wikipedia.org/wiki/Category:Tree_of_life_(biology)</a>
+</p>
+
+<p>
+<a href="http://creationrevolution.com/charles-darwin-wrong-modern-scientists-debunk-darwins-tree-of-life-diagram/">http://creationrevolution.com/charles-darwin-wrong-modern-scientists-debunk-darwins-tree-of-life-diagram/</a>
+</p>
+
+<p>
+<a href="http://math.ucr.edu/home/baez/tree_of_life/">http://math.ucr.edu/home/baez/tree_of_life/</a>
+</p>
+
+<p>
+<a href="http://biology.westfield.ma.edu/bio-news-fall2012">http://biology.westfield.ma.edu/bio-news-fall2012</a>
+</p>
+
+<p>
+<b><a href="https://blogs.ncl.ac.uk/icamblog/pruning-the-tree-of-life/">https://blogs.ncl.ac.uk/icamblog/pruning-the-tree-of-life/</a></b>
+</p>
+
+<p>
+<a href="http://phylogenomics.blogspot.gr/2014/02/crosspost-studying-not-wantonly-killing.html">http://phylogenomics.blogspot.gr/2014/02/crosspost-studying-not-wantonly-killing.html</a>
+</p>
+
+<p>
+<a href="https://www.khanacademy.org/science/biology/her/tree-of-life">https://www.khanacademy.org/science/biology/her/tree-of-life</a>
+</p>
+
+<p>
+<a href="http://tolweb.org/tree/learn/concepts/whatisphylogeny.html">http://tolweb.org/tree/learn/concepts/whatisphylogeny.html</a>
+</p>
+
+<p>
+<a href="https://universe-review.ca/F10-multicell.htm">https://universe-review.ca/F10-multicell.htm</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-2-5-3" class="outline-4">
+<h4 id="sec-2-5-3"><span class="section-number-4">2.5.3</span> 2015-07-04 Saturday</h4>
+<div class="outline-text-4" id="text-2-5-3">
+</div><div id="outline-container-sec-2-5-3-1" class="outline-5">
+<h5 id="sec-2-5-3-1"><span class="section-number-5">2.5.3.1</span> Open call for works: Masters and Servers project</h5>
+<div class="outline-text-5" id="text-2-5-3-1">
+
+<p>
+<a href="http://www.mastersandservers.org/projects/open-call-for-work/">http://www.mastersandservers.org/projects/open-call-for-work/</a>
+</p>
+</div>
+</div>
+</div>
+</div>
 </div>
 <div id="footnotes">
 <h2 class="footnotes">Footnotes: </h2>
@@ -8035,7 +8398,7 @@ Roussel had kept this compositional method a secret until the publication of his
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: IOANNIS ZANNOS</p>
-<p class="date">Created: 2015-07-01 Wed 11:36</p>
+<p class="date">Created: 2015-07-04 Sat 11:39</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.4.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
