@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Saturday 04 July 2015 11:39:27 EEST
+#+EXPORT_DATE: Monday 06 July 2015 11:56:58 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+StArtuP:showall
@@ -4067,52 +4067,52 @@ https://en.wikipedia.org/wiki/Modern_typography
  :END:
 
 https://meta.wikimedia.org/wiki/Freedom_of_Panorama_in_Europe_in_2015
-**** London Eye
+***** London Eye
 London, United Kingdom
 © 2000 Julia Barfield, David Marks
-**** National Palace of Culture
+***** National Palace of Culture
 Sofia, Bulgaria
 © 1981 Alexander Georgiev Barov
-**** Millau Viaduct
+***** Millau Viaduct
 Southern France
 © 2004 Foster and Partners
-**** Ještěd Tower
+***** Ještěd Tower
 Czech Republic
 © 1968 Karel Hubáček
-**** Dancing house
+***** Dancing house
 Czech Republic
 © 1996 Vlado Milunić and Frank Gehry
-**** Reichstag dome
+***** Reichstag dome
 Berlin, Germany
 © 1999 Foster and Partners
-**** L'Hemisfèric
+***** L'Hemisfèric
 Valencia, Spain
 © 1998 Santiago Calatrava
-**** The Little Mermaid
+***** The Little Mermaid
 Copenhagen, Denmark
 © 1913 Edvard Eriksen
-**** Royal Castle
+***** Royal Castle
 Warsaw, Poland
 © 1971–1988 Jan Bogusławski
-**** Dona i Ocell
+***** Dona i Ocell
 Barcelona, Spain
 © 1982 Joan Miró
-**** City of Culture of Galicia
+***** City of Culture of Galicia
 Santiago de Compostela, Spain
 © 2011 Peter Eisenman
-**** Atomium
+***** Atomium
 Brussels, Belgium
 © 1958 André Waterkeyn
-**** Rotterdam Centraal
+***** Rotterdam Centraal
 Netherlands
 © 2014 Jan Benthem, Marcel Blom, Adriaan Geuze, Jeroen van Schooten
-**** Tigutorn
+***** Tigutorn
 Tartu, Estonia
 © 2008 Arhitektuuribüroo Künnapuu & Padrik OÜ
-**** View from Tower Bridge
+***** View from Tower Bridge
 London, UK
 ****
-**** Polyglot: An interesting /unconference/ on programming languages
+***** Polyglot: An interesting /unconference/ on programming languages
  :PROPERTIES:
  :DATE: <2015-07-02 Thu 10:46>
  :END:
@@ -4196,3 +4196,10 @@ https://universe-review.ca/F10-multicell.htm
  :END:
 
 http://www.mastersandservers.org/projects/open-call-for-work/
+*** 2015-07-05 Sunday
+**** reactive programming, functional programming, futures explained
+ :PROPERTIES:
+ :DATE:  <2015-07-05 Sun 16:22>
+ :END:
+
+React 2014 : Erik Meijer - What does it mean to be Reactive? https://www.youtube.com/watch?v=sTSQlYX5DU0
