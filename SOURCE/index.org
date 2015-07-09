@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Tuesday 07 July 2015 12:05:43 EEST
+#+EXPORT_DATE: Thursday 09 July 2015 09:29:40 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+StArtuP:showall
@@ -3841,6 +3841,17 @@ Notes for topics and bibliography to be added here
 - Algorithmic composition
 - Data driven music
 ***** Bibliography
+- Agon, Amiot, Andreatta, Assayag, Bresson, Manderau-Mathematics and Computation in Music - MCM 2011
+- Chew, Childs, Chuan-Mathematics and computation in music-2009
+- Ernest G. McClain-The myth of invariance_ the origin of the gods, mathematics, and music from the Ṛg Veda to Plato(1984)
+- John Fauvel, Raymond Flood, Robin Wilson-Music and Mathematics_ From Pythagoras to Fractals-Oxford University Press, USA (2006)
+- TomasFioreMathAndMusic_musictotal
+- WrightMusicAndMath2009
+- William Sethares: Timbre, Tuning, Scale
+- William Sethares: Rhythm, Meterz
+- Allen Forte
+- David Lewin: Generalized Intervals and Transformations
+- Iannis Xenakis: Formalized Music
 
 *** 2015-06-22 Monday
 **** Robotic Fast-food restaurant managers
@@ -4210,3 +4221,4 @@ React 2014 : Erik Meijer - What does it mean to be Reactive? https://www.youtube
  :END:
 
 https://www.youtube.com/watch?v=tZWGb0HU2QM
+See also: https://www.youtube.com/watch?v=7UCythUA2dk Kicking up the Dust with NodeJS & Lean UX by Bill Scott (part 1 of 2)
