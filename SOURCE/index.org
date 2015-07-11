@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Thursday 09 July 2015 09:29:40 EEST
+#+EXPORT_DATE: Saturday 11 July 2015 21:45:29 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+StArtuP:showall
@@ -3851,7 +3851,25 @@ Notes for topics and bibliography to be added here
 - William Sethares: Rhythm, Meterz
 - Allen Forte
 - David Lewin: Generalized Intervals and Transformations
+- David Lewin: Studies in Music with Text
 - Iannis Xenakis: Formalized Music
+- Dmitri Tymoczko-A Geometry of Music_ Harmony and Counterpoint in the Extended Common Practice (Oxford Studies in Music Theory) Oxford University Press, USA (2011)
+- Owen Jorgensen: 'Tuning. Containing The Perfection of Eighteenth Century Temperament, The Lost Art of Nineteenth Century Temperament, and The Science of Equal Temperament'. 1991
+- Michael Tenzer. Analytical Studies in World Music. OUP. 2006
+- Stefan_Pohlit__Kayser_s_Harmonics_Observed_Through_Bateson
+- Hexachords - Renaissance and Manneristic approaches
+- Glareani Δωδεκάχορδον
+- Messiaen_Olivier_The_Technique_of_My_Musical_Language
+- Erno Lendvai: Bela Bartok
+- Arnold Schoenberg, Leonard Stein: Structural functions of harmony  1990
+- Werckmeister_musicalische_temperatur
+- Zur Entstehung der Tonartencharakteristik im 18. Jahrhundert Wolfgang Auhagen
+- Martin Vogel: Anleitung zur Analyse und zur Reinen Stimmung
+- William E. Caplin-Classical Form_ A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven-Oxford University Press, USA (1998).
+
+For exercises: See solutmus.pdf in Tuning and Temperament
+
+
 
 *** 2015-06-22 Monday
 **** Robotic Fast-food restaurant managers
@@ -4222,3 +4240,16 @@ React 2014 : Erik Meijer - What does it mean to be Reactive? https://www.youtube
 
 https://www.youtube.com/watch?v=tZWGb0HU2QM
 See also: https://www.youtube.com/watch?v=7UCythUA2dk Kicking up the Dust with NodeJS & Lean UX by Bill Scott (part 1 of 2)
+*** 2015-07-10 Friday
+**** Extreme Programming experience report
+ :PROPERTIES:
+ :DATE:  <2015-07-10 Fri 11:23>
+ :END:
+
+http://jason.pureconcepts.net/2015/05/two-weeks-extreme-programming/
+**** removing comments is good?
+ :PROPERTIES:
+ :DATE:  <2015-07-10 Fri 11:27>
+ :END:
+
+http://jason.pureconcepts.net/2015/03/removing-comments/
