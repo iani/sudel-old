@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Saturday 11 July 2015 21:45:29 EEST
+#+EXPORT_DATE: Monday 13 July 2015 22:32:41 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+StArtuP:showall
@@ -4253,3 +4253,11 @@ http://jason.pureconcepts.net/2015/05/two-weeks-extreme-programming/
  :END:
 
 http://jason.pureconcepts.net/2015/03/removing-comments/
+*** 2015-07-13 Monday
+**** We are all Greeks now
+ :PROPERTIES:
+ :DATE:  <2015-07-13 Mon 22:31>
+ :END:
+c/o JPH
+
+http://www.commondreams.org/views/2015/07/13/we-are-all-greeks-now
