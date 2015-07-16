@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Monday 13 July 2015 22:32:41 EEST
+#+EXPORT_DATE: Thursday 16 July 2015 17:36:06 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+StArtuP:showall
@@ -4261,3 +4261,48 @@ http://jason.pureconcepts.net/2015/03/removing-comments/
 c/o JPH
 
 http://www.commondreams.org/views/2015/07/13/we-are-all-greeks-now
+* 2016
+** 2016-06 June
+*** 2016-06-12 Sunday
+**** Happy Birthday, John Baez - and the craziest math puzzle: Genji Mon
+ :PROPERTIES:
+ :DATE:  <2016-06-12 Sun 12:57>
+ :END:
+
+http://math.ucr.edu/home/baez/diary/june_2015.html#june_12
+
+Tips / answers are found in:
+
+http://math.ucr.edu/home/baez/diary/june_2015.html#june_15
+
+and:
+
+https://plus.google.com/u/0/117663015413546257905/posts/1GsRKJxGyrD
+
+*** 2016-06-13 Monday
+**** Massive Data Breach: Too fantastic to be true?
+ :PROPERTIES:
+ :DATE:  <2016-06-13 Mon 12:58>
+ :END:
+
+http://math.ucr.edu/home/baez/diary/june_2015.html#june_13
+
+#+BEGIN_QUOTE
+MASSIVE WORLDWIDE DATA BREACH
+
+The true scale of the problem is just becoming apparent, but it seem that all data on every computer in the world has been copied to some unknown location.
+
+It's rapidly becoming clear that last week's revelations are just the tip of the iceberg. It seems all US federal government computers show signs of data breaches, with strong evidence that all files have been copied. The same is true of at least 34 US states. The UK, France, Germany, Italy, Switzerland, Japan and India are reporting similar problems, as are a vast number of corporations, universities and individuals. In particular, it seems that all servers in the Google, Facebook, Amazon, and Microsoft data centers have been hacked.
+
+It's unclear who has the storage capacity to hold all this data. Some suspect the Chinese or Russia, but according to an unnamed source at the US State Department these countries too are victims of the massive hack. "Furthermore," the source stated, "the fact that all the many petabytes of data from the particle accelerator at CERN have been copied seems to rule out traditional espionage or criminal activity as an explanation."
+
+Rumors of all kinds are circulating on the internet. Some say it could be the initial phase of an extraterrestrial invasion, or perhaps merely an attempt to learn about our culture, or — in one of the more fanciful theories — an attempt to replicate it.
+
+Another theory is that some form of artificial intelligence has developed the ability to hack into most computers, or that the internet itself has somehow become intelligent,
+
+Perhaps the strangest rumor is that the biosphere itself is preparing to take revenge on human civilization, or perhaps make a "backup" in case of collapse. A recent paper in PLOS Biology estimates the total information content in the biosphere at roughly 5 × 1031 megabases, with a total processing speed exceeding 1024 nucleotide operations per second. The data in all human computers is still tiny by comparison. However, it is unclear how biological organisms could have hacked into human computers, and what the biosphere might do with this data.
+
+According to one of the paper's authors, Hanna Landenmark, "Claims that this is some sort of 'revenge of Gaia' seem absurdly anthromorphic to me. If anything, it could be just the next phase of evolution."
+
+Hanna K. E. Landenmark, Duncan H. Forgan and Charles S. Cockell, An estimate of the total DNA in the biosphere, PLOS Biology, June 11, 2015.
+#+END_QUOTE
