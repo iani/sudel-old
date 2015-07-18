@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Thursday 16 July 2015 17:36:06 EEST
+#+EXPORT_DATE: Saturday 18 July 2015 19:04:19 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+StArtuP:showall
@@ -4261,6 +4261,60 @@ http://jason.pureconcepts.net/2015/03/removing-comments/
 c/o JPH
 
 http://www.commondreams.org/views/2015/07/13/we-are-all-greeks-now
+*** 2015-07-16 Thursday
+**** Daniel Estrada's Google+ page
+ :PROPERTIES:
+ :DATE:  <2015-07-16 Thu 17:39>
+ :END:
+
+https://plus.google.com/+DanielEstrada/posts
+
+https://plus.google.com/collection/AS-qb
+
+See also: http://www.amazon.com/Predictive-Mind-Jakob-Hohwy/dp/0199686734/ref=sr_1_1?s=books&ie=UTF8&qid=1435935038&sr=1-1&keywords=The+Predictive+Mind
+
+About:
+
+#+BEGIN_QUOTE
+*Tagline*
+
+Robot. Made of smaller robots.
+
+*Introduction*
+
+I've written under the handle Eripsa for over a decade on various blogs and forums. Today I do my blogging and research at Digital Interface and on my G+ stream.
+
+I'm interested in issues at the intersection of the mind and technology. I write and post on topics ranging from AI and robotics to the politics of digital culture.
+
+Specific posting interests are described in more detail [[https://plus.google.com/u/0/+DanielEstrada/posts/87hrjdojySh][here]] and [[https://plus.google.com/u/0/+DanielEstrada/posts/cYDQKvv3fgZ][here]].
+
+_____
+
+So I'm going to list a series of names, not just to cite their influence on my work, but really to triangulate on what the hell it is I think I'm doing.
+
+Turing, Quine, Heidegger, Dan Dennett, Andy Clark, Bruce Sterling, Bruno Latour, Aaron Swartz, Clay Shirky, Jane McGonical, John Baez, OWS, and Google.
+
+______
+
+
+My avatar is the symbol for Digital Philosophy. You can think of it as a digital twist on Anarchism, but I prefer to think of it as the @ symbol all grown up. +Kyle Broom helped with the design. Go here for a free button with the symbol.
+
+#+END_QUOTE
+
+And also: https://plus.google.com/u/0/102304272092907488609/posts
+
+Burning Man 2014 https://plus.google.com/u/0/102304272092907488609/photos/photo/6055286751786565778?pid=6055286751786565778&oid=102304272092907488609
+
+And http://www.bbc.com/news/science-environment-33543383 New Horizons: Images reveal ice mountains on Pluto
+And http://schwitzsplinters.blogspot.ch/2015/06/why-do-we-care-about-discovering-life.html
+**** Pentaquark discovered at CERN
+ :PROPERTIES:
+ :DATE:  <2015-07-16 Thu 18:44>
+ :END:
+
+http://motherboard.vice.com/read/scientists-just-confirmed-the-existence-of-a-new-particle-the-pentaquark?trk_source=popular
+*** 2015-07-18 Saturday
+
 * 2016
 ** 2016-06 June
 *** 2016-06-12 Sunday
