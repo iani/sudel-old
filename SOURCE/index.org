@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Saturday 18 July 2015 19:04:19 EEST
+#+EXPORT_DATE: Tuesday 21 July 2015 13:01:44 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+StArtuP:showall
@@ -4314,7 +4314,11 @@ And http://schwitzsplinters.blogspot.ch/2015/06/why-do-we-care-about-discovering
 
 http://motherboard.vice.com/read/scientists-just-confirmed-the-existence-of-a-new-particle-the-pentaquark?trk_source=popular
 *** 2015-07-18 Saturday
-
+*** 2015-07-21 Tuesday
+**** Ismael Kadarë, Nikolai Gogol, Lawrence Sterne, Boethius, John Keats, John Maxwell Coetzee, Vargas Llosa, Jorge Luis Borges
+ :PROPERTIES:
+ :DATE:  <2015-07-21 Tue 12:58>
+ :END:
 * 2016
 ** 2016-06 June
 *** 2016-06-12 Sunday
