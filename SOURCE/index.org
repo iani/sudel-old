@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Tuesday 21 July 2015 13:26:19 EEST
+#+EXPORT_DATE: Tuesday 21 July 2015 13:27:02 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+StArtuP:showall
@@ -4363,5 +4363,5 @@ http://motherboard.vice.com/read/scientists-just-confirmed-the-existence-of-a-ne
  :PROPERTIES:
  :DATE:  <2015-07-21 Tue 12:58>
  :END:
-* 2016
-** 2016-06 June
+
+PS: http://www.bbc.com/culture/story/20140902-the-20th-centurys-best-writer
