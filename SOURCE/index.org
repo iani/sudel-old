@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Tuesday 21 July 2015 13:27:02 EEST
+#+EXPORT_DATE: Thursday 23 July 2015 07:58:18 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+StArtuP:showall
@@ -4359,9 +4359,37 @@ And http://schwitzsplinters.blogspot.ch/2015/06/why-do-we-care-about-discovering
 http://motherboard.vice.com/read/scientists-just-confirmed-the-existence-of-a-new-particle-the-pentaquark?trk_source=popular
 *** 2015-07-18 Saturday
 *** 2015-07-21 Tuesday
-**** Ismael Kadarë, Nikolai Gogol, Lawrence Sterne, Boethius, John Keats, John Maxwell Coetzee, Vargas Llosa, Jorge Luis Borges
+**** Ismael Kadarë, Nikolai Gogol, Lawrence Sterne, Boethius, John Keats, John Maxwell Coetzee, Vargas Llosa, Jorge Luis Borges, Luís de Camões, Robert Burton, Francis Bacon, Rabelais
  :PROPERTIES:
  :DATE:  <2015-07-21 Tue 12:58>
  :END:
 
 PS: http://www.bbc.com/culture/story/20140902-the-20th-centurys-best-writer
+
+#+BEGIN_QUOTE
+Borges has been called the father of the Latin American novel, without whom the work of Mario Vargas Llosa, Guillermo Cabrera Infante, Gabriel García Márquez and Carlos Fuentes would not have been possible. “Borges’ influence on Latin American literature is like Sherwood Anderson’s effect on American fiction: so deep it that has become difficult to name a major contemporary writer who hasn’t been touched by it,” says Valdes. “Some of them are affected indirectly – through Julio Cortázar’s short stories or César Aira’s novels or Roberto Bolaño’s everything. The detached tone that marks so much of Bolaño’s fiction, giving it that eerie twilight-zone feeling, is straight out of Borges, though Bolaño bent it to his own ends.”
+#+END_QUOTE
+
+http://old.clarin.com/suplementos/cultura/2006/10/07/u-01285316.htm : QUIEN ES MARIA KODAMA: La viuda, la elegida, la guardiana
+
+Also: Robert Burton's The Anatomy of Melancholy, Francis Bacon's Of Death, Rabelais.
+*** 2015-07-22 Wednesday
+**** Antoine Augustin Calmet, Jean Bodel, Boethius again, Mabinogion
+ :PROPERTIES:
+ :DATE:  <2015-07-22 Wed 08:59>
+ :END:
+
++ https://en.wikipedia.org/wiki/Shadow_of_the_Colossus , Ico
+
+http://www.unizar.es/departamentos/filologia_inglesa/garciala/hypercritica/02.Medieval/Medieval.02.html#anchor46152
+
+http://www.theoi.com/Text/DictysCretensis1.html Diktys Cretensis
+
+**** Joshua Knobe, Psychological Essentialism, Experimental Philosophy
+ :PROPERTIES:
+ :DATE:  <2015-07-22 Wed 16:35>
+ :END:
+
+http://www.3ammagazine.com/3am/indie-rock-virtues/
+
+http://www.uttv.ee/naita?id=22336
