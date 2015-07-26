@@ -1,4 +1,4 @@
-#+EXPORT_DATE: Thursday 23 July 2015 07:58:18 EEST
+#+EXPORT_DATE: Sunday 26 July 2015 13:32:27 EEST
 #+SOURCE: /Users/iani/Copy/000WORKFILES/6_WEBSITES-ORG/SUDEL.org
 #+_sudel-filename: index.org
 #+StArtuP:showall
@@ -4393,3 +4393,14 @@ http://www.theoi.com/Text/DictysCretensis1.html Diktys Cretensis
 http://www.3ammagazine.com/3am/indie-rock-virtues/
 
 http://www.uttv.ee/naita?id=22336
+*** 2015-07-26 Sunday
+**** Geertz: Common Sense as Cultural System
+ :PROPERTIES:
+ :DATE:  <2015-07-26 Sun 12:10>
+ :END:
+
+http://faculty.washington.edu/cbehler/teaching/coursenotes/Texts/geertzcomsense.html
+**** CB's glossary for students
+ :PROPERTIES:
+ :DATE:  <2015-07-26 Sun 13:30>
+ :END:
